@@ -42,7 +42,7 @@ En remplaçant `l’IDENTIFIANT DU JEU DE DONNÉES` par l’identifiant disponib
 vous devriez voir apparaître sur votre site un cartouche contenant les informations
 relatives à ce jeux de données de la manière suivante :
 
-![Exemple d'intégration sur le blog Etalab](/img/faq/integration/exemple-integration-blog-etalab.png)
+![Exemple d'intégration sur le blog Etalab](https://raw.githubusercontent.com/amagovpt/docs.dados.gov.pt/master/img/faq/integration/exemple-integration-blog-etalab.png)
 *Exemple d’intégration sur le blog d’Etalab, ici avec les données de consommation d’électricité des ministères.*
 
 Il est possible d’intégrer plusieurs jeux de données à la fois en dupliquant la ligne correspondant à l’élément `<div>` avec un nouvel identifiant. Vous pouvez personnaliser l’apparence du rendu du cartouche grâce à la classe CSS `dataset-card`.

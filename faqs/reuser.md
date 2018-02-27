@@ -201,7 +201,7 @@ Une série de données peut souvent faire l'objet d'une représentation graphiqu
 
 ### Des graphiques simples
 
-![Évolution du nombre d'opérateurs bio](/img/faq/outils/800px-Evolutionbio.png)
+![Évolution du nombre d'opérateurs bio](https://raw.githubusercontent.com/amagovpt/docs.dados.gov.pt/master/img/faq/outils/800px-Evolutionbio.png)
 *Exemple : évolution du nombre d'opérateurs bio*
 
 Les tableurs du marché (**OpenOffice Calc**, **Excel**, **Google Spreadsheet**...)
@@ -224,7 +224,7 @@ et une description permettant aux Internautes de découvrir votre travail.
 ### Des cartes
 Des cartes synthétiques par commune, département, région
 
-![Carte de France de l'intensité des aides PAC par département](/img/faq/outils/PAC2012.jpg)
+![Carte de France de l'intensité des aides PAC par département](https://raw.githubusercontent.com/amagovpt/docs.dados.gov.pt/master/img/faq/outils/PAC2012.jpg)
 *Exemple : Carte de France de l'intensité des aides PAC par département*
 
 [FranceO3][] permet de réaliser des cartes interactives et de les publier gratuitement.
@@ -259,7 +259,7 @@ Plus de détails :
 Il s'agit d'afficher des points géocodés par adresse ou coordonnées latitude-longitude.
 Plusieurs solutions sont disponibles.
 
-![Carte des immeubles protégés 1/2](/img/faq/outils/800px-CartePOI.png)
+![Carte des immeubles protégés 1/2](https://raw.githubusercontent.com/amagovpt/docs.dados.gov.pt/master/img/faq/outils/800px-CartePOI.png)
 *Exemple : carte des immeubles protégés 1/2*
 
 [Batchgeo][] est une solution rapide et efficace pour copier/coller jusqu'à 250 points
@@ -269,7 +269,7 @@ ou selon une de vos données (par exemple l'année de construction).
 Prenez le temps de travailler sur un échantillon pour valider le géocodage de vos données
 avant de lancer la totalité.
 
-![Carte des immeubles protégés 2/2](/img/faq/outils/800px-TileMill.png)
+![Carte des immeubles protégés 2/2](https://raw.githubusercontent.com/amagovpt/docs.dados.gov.pt/master/img/faq/outils/800px-TileMill.png)
 *Exemple : carte des immeubles protégés 2/2*
 
 [MapBox][] permet de publier des cartes simplement.
@@ -286,7 +286,7 @@ comme [cet exemple](https://a.tiles.mapbox.com/v3/ppezziardi.z982gldi/default.ht
 
 ### Des cartes affichant des points, des zones
 
-![Périmètres des monuments historiques Haut-Rhin](/img/faq/outils/800px-OSM-cadastre.png)
+![Périmètres des monuments historiques Haut-Rhin](https://raw.githubusercontent.com/amagovpt/docs.dados.gov.pt/master/img/faq/outils/800px-OSM-cadastre.png)
 *Périmètres des monuments historiques Haut-Rhin*
 
 [uMap][] permet de créer des cartes personnalisées sur des fonds OpenStreetMap en un instant.
@@ -309,7 +309,7 @@ Exemples d'utilisation :
 [carte de dommages aux cultures](http://www.fao.org/emergencies/crisis/philippines-typhoon-haiyan/crop-damages-map/en/),
 [bureaux de vote de la commune d'Oullins](http://umap.openstreetmap.fr/fr/map/bureaux-de-vote-oullins_4039#16/45.7135/4.8042)
 
-![répartition des salons de coiffure à Paris](/img/faq/outils/Heatmap-salons-coiffure-paris-opendatasoft.png)
+![répartition des salons de coiffure à Paris](https://raw.githubusercontent.com/amagovpt/docs.dados.gov.pt/master/img/faq/outils/Heatmap-salons-coiffure-paris-opendatasoft.png)
 *Exemple : répartition des salons de coiffure à Paris*
 
 Un outil de création de cartes interactives mis à disposition par [OpenDataSoft][]
@@ -332,7 +332,7 @@ Une fois terminée, pour diffuser votre carte, il suffit de copier-coller l'URL 
 
 [GEOPLAY.FR][] est une application d'illustration cartographique en ligne.
 
-![Inventaire Poitou-Charentes](/img/faq/outils/800px-Inventaire_du_patrimoine_Poitou-Charentes.png)
+![Inventaire Poitou-Charentes](https://raw.githubusercontent.com/amagovpt/docs.dados.gov.pt/master/img/faq/outils/800px-Inventaire_du_patrimoine_Poitou-Charentes.png)
 *Exemple : Inventaire Poitou-Charentes*
 
 L'utilisation de la version 1.0 est gratuite et fourni les fonctionnalités suivantes:
@@ -350,12 +350,12 @@ L'utilisation de la version 1.0 est gratuite et fourni les fonctionnalités suiv
 - Cartes hors ligne totalement indépendantes.
 - Cartes exportables sous forme d'archives.
 
-![Inventaire Poitou-Charentes](/img/faq/outils/800px-Inventaire_du_patrimoine_vecteurs.png)
+![Inventaire Poitou-Charentes](https://raw.githubusercontent.com/amagovpt/docs.dados.gov.pt/master/img/faq/outils/800px-Inventaire_du_patrimoine_vecteurs.png)
 *Exemple : Inventaire Poitou-Charentes*
 
 ### Des infographies animées
 
-![Exemple : graphique à bulles](/img/faq/outils/Dependencies.png)
+![Exemple : graphique à bulles](https://raw.githubusercontent.com/amagovpt/docs.dados.gov.pt/master/img/faq/outils/Dependencies.png)
 *Exemple : graphique à bulles*
 
 Certaines données correspondent à des séries temporelles qu'il est intéressant de visualiser dynamiquement,
@@ -380,7 +380,7 @@ n'oubliez pas de la rendre publique en cliquant sur "Sharing Settings" dans le j
 
 ### Des Treemaps, des diagrammes en bulle, diagrammes alluviaux
 
-![Exemple : diagramme alluvial](/img/faq/outils/Alluvial.png)
+![Exemple : diagramme alluvial](https://raw.githubusercontent.com/amagovpt/docs.dados.gov.pt/master/img/faq/outils/Alluvial.png)
 *Exemple : diagramme alluvial*
 
 L'outil RAW par Densitydesign permet de copier/coller très simplement des données issues d'un tableur,
