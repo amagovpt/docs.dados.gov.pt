@@ -1,8 +1,10 @@
 # Sobre dados abertos
 
-Dados abertos, de acordo com a Open Definition, são dados que "qualquer pessoa pode aceder, utilizar, modificar e partilhar, para qualquer propósito". 
+Dados abertos, de acordo com a Open Definition, são 
 
-São um subconjunto muito importante do vasto domínio de informação do setor público, cuja reutilização é promovida por uma diretiva europeia http://ec.europa.eu/digital-agenda/en/european-legislation-reuse-public-sector-information (transposta em Portugal pela Lei n.º 26/2016, de 22 de Agosto).
+>"dados que qualquer pessoa pode aceder, utilizar, modificar e partilhar, para qualquer propósito". 
+
+Representam um subconjunto muito importante do vasto domínio de informação do setor público, cuja reutilização é promovida por uma [diretiva europeia](http://ec.europa.eu/digital-agenda/en/european-legislation-reuse-public-sector-information "Diretiva PSI") (transposta em Portugal pela Lei n.º 26/2016, de 22 de Agosto).
 
 O movimento dos dados abertos, que é parte integral das políticas dedicadas ao Governo Aberto (Open Government), combina os príncipios da transparência, participação e colaboração, assim como o potencial de desenvolvimento económico que o digital trouxe. 
 
