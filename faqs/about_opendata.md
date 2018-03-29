@@ -29,7 +29,7 @@ Grande parte desta informação pode até já estar disponível publicamente, ma
 
 Assim, distingue-se dados abertos de dados que sejam apenas disponibilizados ao público. Os dados abertos são sempre abrangidos por licenças abertas, que permitem reutilização comercial. Se assim não for – não poderão ser considerados dados abertos.
 
-## Dados abertos públicos e dados não públicos
+## Privacidade e dados abertos públicos
 
 Nem toda a informação do sector público deve ser tornada pública. Há um vasto conjunto de dados na Administração Pública que deve continuar na esfera de acesso restrito, seja por razões de segurança, razões legais, ou direito à privacidade dos cidadãos. **As políticas de dados abertos não estipulam que se “abra” toda a informação do Estado, apenas aquela que pode ser considerada pública**.
 
