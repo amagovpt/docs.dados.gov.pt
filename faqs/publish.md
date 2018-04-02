@@ -20,7 +20,7 @@ No dados.gov, um único conjunto de dados pode ter vários recursos associados.
 
 Por exemplo, um conjunto específico pode ter a mesma informação sob formatos diferentes:
 
-
+![Exemplo](https://raw.githubusercontent.com/amagovpt/docs.dados.gov.pt/master/img/ex%20dataset%20recursos.JPG)
 
 
 Nesta reflexão estratégica devem ser ponderadas preocupações distintas face a dois tipos de datasets:
