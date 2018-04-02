@@ -2,13 +2,26 @@
 
 Quem pode publicar dados em dados.gov?
 
-O dados.gov é um portal vocacionado para a abertura de dados por parte de organismos e entidades da Administração Pública, conforme definido no [art. 4º da Lei n.º26/2016, de 22 de Agosto](http://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2591&tabela=leis&ficha=1&pagina=1&so_miolo= "Lei nº26/2016 de 22 de Agosto"), mas qualquer cidadão ou organização pode registar-se no portal e carregar, ou referenciar, dados que considere de interesse público.
+O dados.gov é um portal vocacionado para a abertura de dados por parte de organismos e entidades da Administração Pública, conforme caracterizadas pelo [art. 4º da Lei n.º26/2016, de 22 de Agosto](http://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2591&tabela=leis&ficha=1&pagina=1&so_miolo= "Lei nº26/2016 de 22 de Agosto"), mas qualquer cidadão ou organização pode registar-se no portal e carregar, ou referenciar, dados que considere de interesse público.
 
 Certificação de organismos públicos
 
 De modo a diferenciar os conjuntos de dados provenientes de fontes oficiais do Estado, as organizações e entidades da Administração Pública serão certificadas com um selo de "Fornecedor Oficial". A certificação pode ser pedida através do e-mail dados@ama.pt.
 
 O que é um "conjunto de dados"?
+
+>Um conjunto de dados, publicados ou geridos por um único agente, e disponibilizado para acesso ou download atavés de um ou mais formatos.
+>
+>--W3C Data Catalogue Vocabulary ([DCAT](http://www.w3.org/TR/2014/REC-vocab-dcat-20140116/))
+
+Conjuntos de dados, no contexto dos dados abertos públicos, são agrupamentos de dados em formato digital, dedicados a um tema específico. Uma lista de moradas de serviços de atendimento ao público, por exemplo, ou dados mensais sobre práticas de gestão ou contratação de um organismo público.
+
+No dados.gov, um único conjunto de dados pode ter vários recursos associados.
+
+Por exemplo, um conjunto específico pode ter a mesma informação sob formatos diferentes:
+
+
+
 
 Nesta reflexão estratégica devem ser ponderadas preocupações distintas face a dois tipos de datasets:
 •	Constantes
