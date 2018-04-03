@@ -26,6 +26,13 @@ Ou podemos criar um conjunto de dados relativo a um período temporal definido (
 
 ![Exemplo recursos sequenciais](https://raw.githubusercontent.com/amagovpt/docs.dados.gov.pt/master/img/ex%20dataset%20recursosv21.JPG)
 
+## Publicar conjuntos de dados em dados.gov
+
+
+
+
+
+
 ## Como identificar conjuntos de dados para publicação?
 
 No caso de não existirem ainda vários conjuntos de dados delimitados e estruturados num organismo, que possam ser imediatamente abertos, podemos começar por abrir apenas um subconjunto desses dados.
@@ -53,7 +60,9 @@ O organismo poderá fazer algum tipo de consulta pública e perguntar aos seus i
 A AMA também poderá ajudar neste processo, incluindo colaborar na organização de workshops / eventos com vista a promover estas interacções, contacte-nos em dados@ama.pt.
 
 
-## Como faço para publicar conjuntos de dados em dados.gov?
+
+
+
 
 
 ## Carregar ou linkar?
