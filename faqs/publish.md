@@ -18,9 +18,13 @@ Conjuntos de dados, no contexto dos dados abertos públicos, são agrupamentos d
 
 No dados.gov, um único conjunto de dados pode ter vários recursos associados.
 
-Por exemplo, um conjunto específico pode ter a mesma informação sob formatos diferentes:
+Por exemplo, podemos criar um conjunto específico que disponibiliza a mesma informação em formatos diferentes (para que se adeque a diferentes tipos de reutilização):
 
 ![Exemplo](https://raw.githubusercontent.com/amagovpt/docs.dados.gov.pt/master/img/ex%20dataset%20recursos.JPG)
+
+Ou podemos criar um conjunto de dados relativo a um período temporal definido (i.e. ano, mês, outro) e carregar uma série de recursos sequenciais:
+
+![Exemplo](https://raw.githubusercontent.com/amagovpt/docs.dados.gov.pt/master/img/ex%20dataset%20recursos%20v2.JPG)
 
 
 Nesta reflexão estratégica devem ser ponderadas preocupações distintas face a dois tipos de datasets:
