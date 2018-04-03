@@ -24,7 +24,7 @@ Por exemplo, podemos criar um conjunto específico que disponibiliza a mesma inf
 
 Ou podemos criar um conjunto de dados relativo a um período temporal definido (i.e. ano, mês, outro) e carregar uma série de recursos sequenciais:
 
-![Exemplo](https://raw.githubusercontent.com/amagovpt/docs.dados.gov.pt/master/img/ex%20dataset%20recursos%20v2.JPG)
+![Exemplo](https://raw.githubusercontent.com/amagovpt/docs.dados.gov.pt/master/img/ex%20dataset%20recursosv21.JPG)
 
 
 Nesta reflexão estratégica devem ser ponderadas preocupações distintas face a dois tipos de datasets:
