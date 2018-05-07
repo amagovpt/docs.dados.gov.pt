@@ -24,10 +24,10 @@ Documento administrativo: qualquer conteúdo, ou parte desse conteúdo, que este
 Conjunto de dados: agrupamento de dados abertos sobre um tema específico, organizados e disponibilizados sobre a forma de recursos e/ou serviços de informação (ficheiros de dados, documentação, API, serviços em linha, outros) e de meta-informação (dados relativos a data de criação, modificação, periodicidade, palavras-chave, outros).
 Participantes: qualquer pessoa registada no dados.gov, com o intuito de disponibilizar conjuntos de dados de interesse público, no sentido de:
 
-*Assegurar a disponibilização de informação de qualidade aos cidadãos, nomeadamente em questões económicas, sociais ou ambientais;
-*Permitir o escrutínio das políticas públicas;
-*Promover para o desenvolvimento económico;
-*Contribuir para a investigação científica ou jornalística;
+* Assegurar a disponibilização de informação de qualidade aos cidadãos, nomeadamente em questões económicas, sociais ou ambientais;
+* Permitir o escrutínio das políticas públicas;
+* Promover para o desenvolvimento económico;
+* Contribuir para a investigação científica ou jornalística;
 
 Ou apenas com registo efetuado para participar em discussões, trocar comentários ou promover reutilizações de dados.
 
@@ -37,21 +37,28 @@ Reutilização: utilização de dados abertos, por uma pessoa singular ou coleti
 
 Utilizador: qualquer pessoa, registada ou não, que aceda ao dados.gov para consultar informação, aceder a dados ou contribuir com conteúdos.
 
-##Objeto
+## Objeto
 
 O dados.gov permite:
 
-*A publicação de dados de interesse público por organismos públicos e todos os outros Participantes;
-*A consulta ou o descarregamento de dados por qualquer Utilizador;
-*Discussões sobre conjuntos específicos de dados;
-*Partilha de conjuntos de dados enriquecidos ou alterados; 
-*Divulgação de reutilizações de dados abertos.
-Funcionalidades
+* A publicação de dados de interesse público por organismos públicos e todos os outros Participantes;
+* A consulta ou o descarregamento de dados por qualquer Utilizador;
+* Discussões sobre conjuntos específicos de dados;
+* Partilha de conjuntos de dados enriquecidos ou alterados; 
+* Divulgação de reutilizações de dados abertos.
+
+## Funcionalidades
+
 A utilização do dados.gov é livre e gratuita.
+
 Consultar e descarregar dados abertos
+
 A consulta e descarregamento dos dados disponibilizados em dados.gov não necessita de nenhum tipo de inscrição ou registo prévio.
+
 Registo no dados.gov e acesso a funcionalidades específicas
+
 Qualquer pessoa, singular ou coletiva, pública ou privada, pode contribuir para o dados.gov, publicando conjuntos de dados, reutilização, conteúdos, recursos e comentários relativos a conjuntos de dados.
+
 Para este efeito, o utilizador terá de registar-se / autenticar-se no dados.gov. Este registo pertence a um utilizador individual, e não a uma organização ou pessoa coletiva. 
 Ao registar-se, o utilizador cria um perfil em dados.gov. Para mais pormenores, consultar o ponto relativo a “Proteção de dados”.
 Depois de validado este registo, passam a estar disponíveis várias funcionalidades.
