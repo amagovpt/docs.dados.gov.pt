@@ -1,41 +1,51 @@
-Termos e condições de utilização
+#Termos e condições de utilização
 
 Dados.gov é o portal nacional de dados abertos da Administração Pública Portuguesa.
+
 É desenvolvido e gerido pela Agência para a Modernização Administrativa, IP (AMA), que prossegue as atribuições da Presidência do Conselho de Ministros nas áreas da modernização e simplificação administrativa e da administração eletrónica, sob superintendência e tutela da Secretária de Estado Adjunta e da Modernização Administrativa A utilização da plataforma dados.gov está subordinada à aceitação dos presentes termos e condições de utilização (TCU).
+
 Para efeitos destes TCU, considera-se:
 
 API (web): interface web estruturado que permite interagir de forma automática com um sistema de informação, incluindo pedidos de obtenção de dados;
+
 Órgãos da Administração Pública: as entidades integradas na Ad. Pública conforme definido no artigo 2.º do Código do Procedimento Administrativo
+
 Fornecedores: entidades ou indivíduos que disponibilizam dados através do dados.gov (nota, todos os fornecedores são participantes, mas nem todos os participantes são fornecedores).
+
 Dados Abertos: dados que podem ser livremente utilizados, reutilizados e redistribuídos por qualquer um.
+
 Documento administrativo: qualquer conteúdo, ou parte desse conteúdo, que esteja na posse ou seja detido em nome dos órgãos da Administração Pública, seja o suporte de informação sob forma escrita, visual, sonora, eletrónica ou outra forma material, neles se incluindo, designadamente, e conforme o definido na [Lei de Acesso aos Documentos Administrativos]( http://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2591&tabela=leis&ficha=1&pagina=1&so_miolo=) – Lei nº26/2016 de 22 Agosto -, aqueles relativos a:
 
-•	Procedimentos de emissão de atos e regulamentos administrativos; 
-•	Procedimentos de contratação pública, incluindo os contratos celebrados; 
-•	Gestão orçamental e financeira dos órgãos e entidades;
-•	Gestão de recursos humanos, nomeadamente os dos procedimentos de recrutamento, avaliação, exercício do poder disciplinar e quaisquer modificações das respetivas relações jurídicas. 
+*Procedimentos de emissão de atos e regulamentos administrativos; 
+*Procedimentos de contratação pública, incluindo os contratos celebrados; 
+*Gestão orçamental e financeira dos órgãos e entidades;
+*Gestão de recursos humanos, nomeadamente os dos procedimentos de recrutamento, avaliação, exercício do poder disciplinar e quaisquer modificações das respetivas relações jurídicas. 
 
 Conjunto de dados: agrupamento de dados abertos sobre um tema específico, organizados e disponibilizados sobre a forma de recursos e/ou serviços de informação (ficheiros de dados, documentação, API, serviços em linha, outros) e de meta-informação (dados relativos a data de criação, modificação, periodicidade, palavras-chave, outros).
 Participantes: qualquer pessoa registada no dados.gov, com o intuito de disponibilizar conjuntos de dados de interesse público, no sentido de:
-•	Assegurar a disponibilização de informação de qualidade aos cidadãos, nomeadamente em questões económicas, sociais ou ambientais;
-•	Permitir o escrutínio das políticas públicas;
-•	Promover para o desenvolvimento económico;
-•	Contribuir para a investigação científica ou jornalística;
+
+*Assegurar a disponibilização de informação de qualidade aos cidadãos, nomeadamente em questões económicas, sociais ou ambientais;
+*Permitir o escrutínio das políticas públicas;
+*Promover para o desenvolvimento económico;
+*Contribuir para a investigação científica ou jornalística;
 
 Ou apenas com registo efetuado para participar em discussões, trocar comentários ou promover reutilizações de dados.
 
 Recursos: ficheiro ou serviço com informação relativa a um conjunto de dados (ex. um conjunto de dados pode ser composto por vários recursos).
+
 Reutilização: utilização de dados abertos, por uma pessoa singular ou coletiva, para partilha, fins ou disponibilização diversa da intencionada pelos detentores originais da informação.
+
 Utilizador: qualquer pessoa, registada ou não, que aceda ao dados.gov para consultar informação, aceder a dados ou contribuir com conteúdos.
 
-Objeto
+##Objeto
 
 O dados.gov permite:
-•	A publicação de dados de interesse público por organismos públicos e todos os outros Participantes;
-•	A consulta ou o descarregamento de dados por qualquer Utilizador;
-•	Discussões sobre conjuntos específicos de dados;
-•	Partilha de conjuntos de dados enriquecidos ou alterados; 
-•	Divulgação de reutilizações de dados abertos.
+
+*A publicação de dados de interesse público por organismos públicos e todos os outros Participantes;
+*A consulta ou o descarregamento de dados por qualquer Utilizador;
+*Discussões sobre conjuntos específicos de dados;
+*Partilha de conjuntos de dados enriquecidos ou alterados; 
+*Divulgação de reutilizações de dados abertos.
 Funcionalidades
 A utilização do dados.gov é livre e gratuita.
 Consultar e descarregar dados abertos
@@ -46,22 +56,22 @@ Para este efeito, o utilizador terá de registar-se / autenticar-se no dados.gov
 Ao registar-se, o utilizador cria um perfil em dados.gov. Para mais pormenores, consultar o ponto relativo a “Proteção de dados”.
 Depois de validado este registo, passam a estar disponíveis várias funcionalidades.
 O participante dispõe de funcionalidades “comunitárias”, tais como:
-•	Criar ou associar-se a uma organização (ver XXXXXX);
-•	Publicar um conjunto de dados, sob a forma de um ficheiro descarregável, ligação (link) ou API;
-•	Publicar recursos adicionais associados a um conjunto de dados publicado por outro participante (i.e. um conjunto de dados a que foram adicionados colunas relativas a informação geográfica);
-•	Publicar uma reutilização, seja sobre a forma de uma ligação web ou um formato de apresentação;
-•	Iniciar discussões e publicar comentários, para assinalar problemas ou fazer sugestões, por exemplo.
+*Criar ou associar-se a uma organização (ver XXXXXX);
+*Publicar um conjunto de dados, sob a forma de um ficheiro descarregável, ligação (link) ou API;
+*Publicar recursos adicionais associados a um conjunto de dados publicado por outro participante (i.e. um conjunto de dados a que foram adicionados colunas relativas a informação geográfica);
+*Publicar uma reutilização, seja sobre a forma de uma ligação web ou um formato de apresentação;
+*Iniciar discussões e publicar comentários, para assinalar problemas ou fazer sugestões, por exemplo.
 O participante tem também a possibilidade de partilhar ou integrar conteúdos com outros sítios web, e pode também contribuir para a manutenção da qualidade do dados.gov, ajudando, por exemplo, a sinalizar conteúdos que não estejam em conformidade com os TCU.
 Funcionalidades relacionadas com organizações
 Os participantes podem criar ou registar-se em organizações, as quais podem ser formais ou informais. As organizações são criadas e geridas no dados.gov por um, ou mais, administrador(es).
 As organizações poderão:
-•	Publicar conjuntos de dados;
-•	Publicar recursos adicionais;
-•	Publicar reutilizações.
+*Publicar conjuntos de dados;
+*Publicar recursos adicionais;
+*Publicar reutilizações.
 Não poderão comentar ou participar em discussões – apenas participantes individuais o poderão fazer.
 A AMA propõe dois tipos de certificação a nível de organizações:
-•	Certificação de Serviço Público: identifica os organismos públicos;
-•	Certificação de autenticidade de organização: certifica a validade de contas associadas a empresas, organizações não-governamentais, ou outras.
+*Certificação de Serviço Público: identifica os organismos públicos;
+*Certificação de autenticidade de organização: certifica a validade de contas associadas a empresas, organizações não-governamentais, ou outras.
 Para pedidos de certificação, enviar e-mail para: dados@ama.pt.
 A certificação garante aos utilizadores que os dados disponibilizados foram carregados por um participante do organismo respetivo. Possibilita também que os dados de organizações certificadas atinjam melhores resultados no funcionamento do motor de pesquisa. 
 Em caso de incumprimento destes termos e condições de utilização, a AMA reserva-se a possibilidade de revogar certificações atribuídas a entidades.
@@ -72,9 +82,9 @@ Publicações de conjuntos de dados ou de reutilizações
 Regras gerais
 O dados.gov disponibiliza dados e informação pública ou de interesse público, carregados ou referenciados por Participantes, passando a estar disponíveis por descarregamento, disponibilização de ligação externa (link) ou através de uma API.
 O dados.gov não está vocacionado para:
-•	Difusão de dados publicitários;
-•	Promoção de interesses privados;
-•	Atividades ilícitas.
+*Difusão de dados publicitários;
+*Promoção de interesses privados;
+*Atividades ilícitas.
 Em caso de detecção de qualquer tipo de situação anómala, a AMA poderá, sem necessidade de pré-aviso, suspender ou remover o acesso a quaisquer conjuntos de dados que tenham sido carregados no dados.gov.
 Os participantes que publiquem conjuntos de dados deverão manter atualizada a página dedicada a cada conjunto e promover a interação com a comunidade de utilizadores. Para o efeito, serão notificados, por e-mail, caso existam novas contribuições relativas a esse conjunto de dados (discussões, comentários, alertas, carregamento de recursos adicionais ou reutilizações).
 Os participantes são os únicos responsáveis pelos dados, metadados, e conteúdos que carregam no dados.gov.
