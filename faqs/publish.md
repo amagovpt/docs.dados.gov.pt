@@ -8,13 +8,15 @@ Para processos de carregamento e integração automática com o portal, consulte
 
 O dados.gov é um portal vocacionado para a abertura de dados por parte de organismos e entidades da Administração Pública, conforme caracterizadas pelo [art. 4º da Lei n.º26/2016, de 22 de Agosto](http://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2591&tabela=leis&ficha=1&pagina=1&so_miolo= "Lei nº26/2016 de 22 de Agosto"), **mas qualquer cidadão ou organização pode registar-se no portal e carregar, ou referenciar, dados que considere de interesse público**.
 
-## Publicar conjuntos de dados em dados.gov
+
+## Como publicar conjuntos de dados em dados.gov
 
 Para publicar um conjunto de dados neste portal é necessário criar uma conta de utilizador, ou, no caso de já estar registado, efetuar a autenticação. Depois de criada uma conta e de entrar com registo no portal, basta escolher a opção "Contribuir". Pode também carregar no ícone "+" a partir da zona de administração (backoffice).
 
 De seguida deverá seleccionar ou criar uma organização para publicar os dados. Poderá também fazê-lo em nome individual (não recomendado para organismos públicos).
 
 Depois deverá caracterizar o conjunto de dados e carregar o(s) recurso(s) associado(s), ou indicar o link onde se encontram os dados - mais informação nos pontos seguintes.
+
 
 ## Conjuntos de dados e recursos
 
@@ -28,6 +30,7 @@ Ou podemos criar um conjunto de dados relativo a um período temporal definido (
 
 ![Exemplo recursos sequenciais](https://raw.githubusercontent.com/amagovpt/docs.dados.gov.pt/master/img/ex%20dataset%20recursosv21.JPG)
 
+
 ## Carregar dados ou indexar?
 
 A opção de carregar ou indexar (_linkar_) os dados está totalmente do lado do organismo fornecedor. 
@@ -37,6 +40,7 @@ A AMA recomenda que organismos que possuam as suas próprias páginas ou portais
 No caso do organismo não possuir uma infrastura web que considere adequada para disponibilizar e manter dados, poderá carregá-los diretamente através do backoffice ou da API do dados.gov.
 
 No caso de organismos que possuam os seus próprios portais ou catálogos de dados abertos, o processo de publicação poderá ser feito através de um _harvester_, que recolhe a metainformação sobre esses conjuntos de dados de forma regular e completamente automatizada. A configuração do _harvester_ é feita pela AMA, com a colaboração da entidade, se necessário.
+
 
 ## Certificação de organismos públicos
 
