@@ -1,6 +1,6 @@
 # Publicar Dados
 
-Esta secção explica alguns príncipios básicos sobre publicação e acesso às funcionalidades de carregamento de conjuntos de dados abertos no portal. 
+Esta secção explica alguns príncipios básicos sobre publicação e acesso às funcionalidades de **carregamento de conjuntos de dados abertos no portal**. 
 
 Para processos de carregamento e integração automática com o portal, consulte a documentação da [API](/apidoc/).
 
@@ -15,12 +15,12 @@ Para publicar um conjunto de dados neste portal é necessário criar uma conta d
 
 De seguida deverá seleccionar ou criar uma organização para publicar os dados. Poderá também fazê-lo em nome individual (não recomendado para organismos públicos).
 
-Depois deverá caracterizar o conjunto de dados e carregar o(s) recurso(s) associado(s), ou indicar o link onde se encontram os dados - mais informação nos pontos seguintes.
+Depois deverá caracterizar o conjunto de dados e carregar o(s) recurso(s) associado(s), ou indicar o link onde se encontram os dados.
 
 
 ## Conjuntos de dados e recursos
 
-No dados.gov, um único conjunto de dados pode ter vários recursos associados.
+**No dados.gov, um único conjunto de dados pode ter vários recursos (ficheiros) associados**.
 
 Por exemplo, podemos criar um conjunto específico que disponibiliza a mesma informação em formatos diferentes (para que se adeque a diferentes tipos de reutilização):
 
@@ -35,7 +35,7 @@ Ou podemos criar um conjunto de dados relativo a um período temporal definido (
 
 A opção de carregar ou indexar (_linkar_) os dados está totalmente do lado do organismo fornecedor. 
 
-A AMA recomenda que organismos que possuam as suas próprias páginas ou portais web alojem os ficheiros nesses portais, e passem a referenciá-los através da indicação do URL (ou de uma API, caso exista) em dados.gov. Nesta situação, o organismo fornecedor apenas preocupar-se-á com a gestão dos dados na sua fonte de origem, sendo a indexação no dados.gov feita automaticamente ao longo do tempo.
+A AMA recomenda que organismos que possuam as suas próprias páginas ou portais web alojem os ficheiros nesses portais, e passem a referenciá-los através da indicação do URL (ou de uma API, caso exista) em dados.gov. Nesta situação, o organismo fornecedor preocupa-se apenas com a gestão dos dados na sua fonte de origem, sendo a indexação no dados.gov feita automaticamente ao longo do tempo.
 
 No caso do organismo não possuir uma infrastura web que considere adequada para disponibilizar e manter dados, poderá carregá-los diretamente através do backoffice ou da API do dados.gov.
 
