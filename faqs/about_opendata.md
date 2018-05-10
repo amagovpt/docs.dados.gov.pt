@@ -6,7 +6,7 @@ Dados abertos, de acordo com a [Open Definition](http://opendefinition.org/ "Ope
 
 Representam um subconjunto muito importante do vasto domínio de **informação do setor público**, cuja reutilização é promovida por uma [diretiva europeia](http://ec.europa.eu/digital-agenda/en/european-legislation-reuse-public-sector-information "Diretiva PSI") (transposta em Portugal pela Lei n.º 26/2016, de 22 de Agosto).
 
-O movimento dos dados abertos, que é parte integral das políticas dedicadas ao **Governo Aberto** (Open Government), combina os príncipios da transparência, participação e colaboração, assim como o potencial de desenvolvimento económico que o digital trouxe. 
+O movimento dos dados abertos, que é parte integral das políticas dedicadas ao **Governo Aberto** (Open Government), combina os princípios da transparência, participação e colaboração, assim como o potencial de desenvolvimento económico que o digital trouxe. 
 
 A enorme quantidade de dados que é gerada e centralizada pela Administração Pública congrega em si um enorme potencial de utilização e de desenvolvimentos que podem ser úteis e importantes tanto para o Estado como para a sociedade civil e mundo empresarial. 
 
@@ -21,7 +21,7 @@ Esse desafio passa por disponibilizar os dados em formatos passíveis de serem l
 
 ## Conjuntos de dados abertos
 
->Um conjunto de dados, publicados ou geridos por um único agente, e disponibilizado para acesso ou download atavés de um ou mais formatos.
+>Um conjunto de dados, publicados ou geridos por um único agente, e disponibilizado para acesso ou download através de um ou mais formatos.
 >
 >--W3C Data Catalogue Vocabulary ([DCAT](http://www.w3.org/TR/2014/REC-vocab-dcat-20140116/))
 
@@ -49,9 +49,9 @@ Quando se fala de dados abertos fala-se sobretudo em dados governamentais que j�
 
 No caso de não existirem ainda vários conjuntos de dados delimitados e estruturados num organismo, que possam ser imediatamente abertos, podemos começar por abrir apenas um subconjunto desses dados.
 
-Podemos começar por considerar disponibilizar informação que já está disponível ao público, seja sob a forma de conteúdos num site ou através de pedidos à organização, sob a forma menos "tratada" de conjuntos de dados. Aqui é patente a vantagem de disponibilizar dados em bruto, em formatos abertos e lidos por máquina, de forma a privegiar a sua reutilização de forma livre.
+Podemos começar por considerar disponibilizar informação que já está disponível ao público, seja sob a forma de conteúdos num site ou através de pedidos à organização, sob a forma menos "tratada" de conjuntos de dados. Aqui é patente a vantagem de disponibilizar dados em bruto, em formatos abertos e lidos por máquina, de forma a privilegiar a sua reutilização de forma livre.
 
-Regra geral, são especialmente apreciados pelos reutilizadores dados que privilegiem preocupações como:
+Regra geral, são especialmente apreciados pelos reutilizadores de dados que privilegiem preocupações como:
 
 *	Acesso às entidades, serviços disponíveis e pontos de atendimento;
 *	Transparência das contas, atividades e recursos da entidade;
@@ -69,7 +69,7 @@ A interação com a comunidade de reutilizadores poderá fornecer pistas precios
 
 O organismo poderá fazer algum tipo de consulta pública e perguntar aos seus interlocutores mais frequentes, ou a outras partes interessadas, a que tipo de dados gostaria de ter acesso.
 
-A AMA também poderá ajudar neste processo, incluindo colaborar na organização de workshops / eventos com vista a promover estas interacções, contacte-nos em dados@ama.pt.
+A AMA também poderá ajudar neste processo, incluindo colaborar na organização de workshops / eventos com vista a promover estas interações, contacte-nos em dados@ama.pt.
 
 
 
