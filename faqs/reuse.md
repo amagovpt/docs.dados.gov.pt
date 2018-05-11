@@ -1,5 +1,7 @@
 # Reutilizar Dados
 
+**[Para informação técnica sobre acessos automatizados aos conjuntos de dados e outras funcionalidades do portal, visite a página da API](/apidoc/).**
+
 As principais funções de um portal de dados abertos são facilitar e promover a reutilização dos dados, ao abrigo de licenças abertas, o que significa que qualquer cidadão, empresa ou organização pode utilizar os dados para fins comerciais ou não-comerciais.
 
 Existem vários casos internacionais de sucesso na área da reutilização de dados abertos, com propósitos e contextos diferentes, tais como:
