@@ -1,6 +1,6 @@
 # Licenças
 
-**[Caso procure os Termos e Condições do site pode encontrá-los carregando neste link](/docs/terms/).**
+**[Caso procure os Termos e Condições do site pode encontrá-los carregando neste link](https://dados.gov.pt/pt/docs/terms/).**
 
 A licença de reutilização é uma das condições essenciais para disponibilizar e publicar dados abertos. É a licença que estipula a possibilidade de reutilização dos dados para vários fins, incluindo a reutilização comercial.
 
