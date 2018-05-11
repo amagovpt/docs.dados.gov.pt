@@ -105,7 +105,7 @@ O dados.gov não está vocacionado para:
 * Promoção de interesses privados;
 * Atividades ilícitas.
 
-Em caso de detecção de qualquer tipo de situação anómala, a AMA poderá, sem necessidade de pré-aviso, suspender ou remover o acesso a quaisquer conjuntos de dados que tenham sido carregados no dados.gov.
+Em caso de deteção de qualquer tipo de situação anómala, a AMA poderá, sem necessidade de pré-aviso, suspender ou remover o acesso a quaisquer conjuntos de dados que tenham sido carregados no dados.gov.
 
 Os participantes que publiquem conjuntos de dados deverão manter atualizada a página dedicada a cada conjunto e promover a interação com a comunidade de utilizadores. Para o efeito, serão notificados, por e-mail, caso existam novas contribuições relativas a esse conjunto de dados (discussões, comentários, alertas, carregamento de recursos adicionais ou reutilizações).
 
@@ -125,7 +125,7 @@ Sempre que um organismo público ou um participante publique um conjunto de dado
 
 #### Licenças 
 
-Todos os dados carregados por organismos do estado são publicados ao abrigo de uma licença Creative Commons CC BY 4.0, excepto se houver uma especificação em contrário. (mais informações em [Licenças](/docs/licenses/)) 
+Todos os dados carregados por organismos do estado são publicados ao abrigo de uma licença Creative Commons CC BY 4.0, exceto se houver uma especificação em contrário. (mais informações em [Licenças](/docs/licenses/)) 
 
 Os outros participantes poderão publicar ao abrigo de outras licenças abertas, disponibilizadas pela plataforma.
 
@@ -157,7 +157,7 @@ A AMA reserva-se a liberdade de evoluir, modificar ou suspender, sem pré-aviso,
 
 A AMA tem a responsabilidade de produção e gestão de conteúdo da plataforma.
 
-A AMA não efetua um controlo *a priori* das publicações efetuadas pelos organismos públicos ou os participantees do dados.gov. Sempre que forem detetadas situações irregulares ou em não-conformidade com estes TCU, a AMA agirá rapidamente para remover esses dados ou tornar impossível o seu acesso. Para este efeito, os utilizadores da plataforma também poderão sinalizar conteúdos que considerem problemáticos, sendo que caberá a AMA a decisão final sobre a necessidade, ou não, de intervenção.
+A AMA não efetua um controlo *a priori* das publicações efetuadas pelos organismos públicos ou os participantes do dados.gov. Sempre que forem detetadas situações irregulares ou em não-conformidade com estes TCU, a AMA agirá rapidamente para remover esses dados ou tornar impossível o seu acesso. Para este efeito, os utilizadores da plataforma também poderão sinalizar conteúdos que considerem problemáticos, sendo que caberá a AMA a decisão final sobre a necessidade, ou não, de intervenção.
 
 ### Transparência na forma de apresentação dos conteúdos
 
@@ -167,7 +167,7 @@ Em certas zonas do portal, a AMA destaca certos tipos de conteúdos de acordo co
 
 ### Conteúdos criados pela AMA
 
-Os conteúdos criados pela AMA são publicados ao abrigo da licença CC BY 4.0, podendo ser reutilizados para quaisquer fins. Exceptuam-se representações iconográficas e fotográficas, que estão abrangidas por licenças próprias.
+Os conteúdos criados pela AMA são publicados ao abrigo da licença CC BY 4.0, podendo ser reutilizados para quaisquer fins. Excetuam-se representações iconográficas e fotográficas, que estão abrangidas por licenças próprias.
 
 ### Utilização da plataforma uDdata
 
