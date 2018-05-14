@@ -61,7 +61,7 @@ Regra geral, são especialmente apreciados pelos reutilizadores de dados que pri
 
 ### Dados com informação geográfica
 
-Nos dados a abrir deverá ser dedicada uma atenção e esforço especiais à georreferenciação da informação, porque eleva significativamente o interesse e o potencial de utilização dos dados abertos. Ao enriquecer um conjunto de dados com campos de referência geográfica, a entidade está a abrir o potencial para o desenvolvimento de aplicações que permitem visualizar os dados sobre um mapa. E estas são aplicações bastante apreciadas quer por utilizadores finais quer pela comunidade de desenvolvimento, porque permitem navegar nos dados de forma mais intuitiva e agradável e porque impulsionam a criação apps para dispositivos móveis. 
+Nos dados a abrir deverá ser dedicada uma atenção e esforço especiais à georreferenciação da informação, porque eleva significativamente o interesse e o potencial de utilização dos dados abertos. Ao enriquecer um conjunto de dados com campos de referência geográfica, a entidade está a abrir o potencial para o desenvolvimento de aplicações que permitem visualizar os dados sobre um mapa. E estas são aplicações bastante apreciadas quer por utilizadores finais quer pela comunidade de desenvolvimento, porque permitem navegar nos dados de forma mais intuitiva e agradável e porque impulsionam a criação de apps para dispositivos móveis. 
 
 ### Interagir com os reutilizadores
 
