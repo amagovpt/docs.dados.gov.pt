@@ -8,7 +8,7 @@ Existem vários casos internacionais de sucesso na área da reutilização de da
 
 [_Dollars for Docs_](https://projects.propublica.org/docdollars/) - Site para promover a transparência na relação da indústria farmacêutica com médicos e hospitais. 
 
-[_Mejora tu escuela_](http://www.mejoratuescuela.org) - Plataforma d participação cidadão para comparar dados sobre escolas no México.
+[_Mejora tu escuela_](http://www.mejoratuescuela.org) - Plataforma de participação cidadão para comparar dados sobre escolas no México.
 
 [_be walking be.brussels_](https://play.google.com/store/apps/details?id=be.tragewegen.brussels) - Aplicação que sugere e ajuda a planear passeios pedestres por Bruxelas.
 
