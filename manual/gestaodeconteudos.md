@@ -6,4 +6,4 @@ Para ter acesso a todas estas funcionalidades terá de efectuar o seu registo e/
 
 ## Conjuntos de Dados 
 
-Publicar um conjunto de dados_*
+_Publicar um conjunto de dados_
