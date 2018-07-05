@@ -12,4 +12,4 @@ _Publicar um conjunto de dados_
 
 4.	Preencher os campos do formulário
 
-    *Licença: Selecionar a licença que mais se adequa ao conjunto de dados. Para mais informações consulte (https://dados.gov.pt/pt/docs/licenses/).
+    a. Licença: Selecionar a licença que mais se adequa ao conjunto de dados. Para mais informações consulte (https://dados.gov.pt/pt/docs/licenses/).
