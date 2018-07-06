@@ -1,3 +1,5 @@
+# Gestão de Conteúdos com a API (ADMIN)
+
 O dados.gov disponibiliza uma API do tipo REST com a qual é possivel interagir para efectuar praticamente qualquer acção permitida pela plataforma, de forma a perceber facilmente estas interacções siga a documentação presente no site (dados.gov.pt/apidoc/), a informação está agrupada por tipo de acção e inclui os “endpoints” a utilizar para cada pedido GET/PUT/POST/DELETE.
  
 ## Interação com o Insomnia
@@ -12,11 +14,11 @@ Um pedido GET permite efectuar operações de consulta à API, na qual é possí
 
 Um pedido PUT permite realizar operações de actualização de dados, na sua representação técnica é um envio de uma resposta JSON obtida com um pedido GET alterando o valor dos campos pretendidos.
 
-## Pedidos POST:
+## Pedidos POST
 
 Um pedido POST permite criar novos dados, é utilizado enviando um pedido POST ao servidor no endoint respectivo e enviando em formato JSON os campos obrigatórios para a criação de novos dados.
 
 
-## Pedidos DELETE:
+## Pedidos DELETE
 
 Um pedido DELETE serve para eliminar dados, atenção que qualquer pedido DELETE enviado pela API é irreversível.
