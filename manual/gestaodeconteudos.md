@@ -145,7 +145,7 @@ A transferência permite que um conjunto de dados ou uma reutilização seja tra
 
 ![Transferência](screenshots/transferencia.JPG)
  
-Por fim, quando um conteúdo é eliminado do portal o mesmo deixa de estar visível para os outros utilizadores e é associada automaticamente uma etiqueta ‘Eliminado’. O conteúdo continuará a ser visível para o administrador do conteúdo durante 24 horas. Depois disso, o conteúdo será eliminado definitavemente do portal.
+Por fim, quando um conteúdo é eliminado do portal o mesmo deixa de estar visível para os outros utilizadores e é associada automaticamente uma etiqueta ‘Eliminado’. O conteúdo continuará a ser visível para o administrador do conteúdo durante 24 horas. Depois disso, o conteúdo será eliminado definitivamente do portal.
  
 ![Eliminar](screenshots/eliminar.JPG)
 
@@ -156,5 +156,6 @@ Por fim, quando um conteúdo é eliminado do portal o mesmo deixa de estar visí
 
 Um ponto importante relativamente à gestão de utilizadores é que existe a possibilidade de adicionar outros utilizadores como administradores. Para isso, basta ir para a edição do utilizador e selecionar a opção ‘admin’ no campo ‘Perfis’.
 
+![Tag eliminado](screenshots/adminchoose.JPG)
 
 Para remover o perfil administrador de um utilizador basta realizar o mesmo processo e selecionar a opção ‘admin’ juntamente com a tecla CTRL.
