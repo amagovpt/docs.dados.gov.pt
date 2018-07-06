@@ -4,7 +4,7 @@ O dados.gov disponibiliza uma API do tipo REST com a qual é possivel interagir 
  
 ## Interação com o Insomnia
 
-O Insomina é um cliente REST em ambiente gráfico que além de ser extramamente prático e intuitivo permite facilmente interagir com a API do dados.gov, descarregue o insomnia aqui ( https://insomnia.rest/ ).
+O Insomina é um cliente REST em ambiente gráfico que além de ser extramamente prático e intuitivo permite facilmente interagir com a API do dados.gov, descarregue o insomnia aqui (https://insomnia.rest/).
 
 ## Pedidos GET
 
