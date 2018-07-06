@@ -11,6 +11,8 @@ Se ainda não fez o seu registo escolha ‘Criar conta’ e selecione ‘Email/P
 ![Criar Conta](screenshots/criarconta.JPG)
 
 Caso contrário, precisa apenas de iniciar sessão com as credênciais respetivas ou via Autenticação.Gov.
+
+![Iniciar Sessão](screenshots/iniciarsessao.JPG)
  
 ## Pesquisas
 
