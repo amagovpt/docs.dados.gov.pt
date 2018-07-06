@@ -3,8 +3,12 @@
 ## Registo de Utilizador
 
 Para se autenticar no portal dados.gov basta clicar em ‘Entrar/Registar’ e escolher o caso que mais se adequa a si. 
- 
+
+![Entrar/Registar](screenshots/entrar-registar.JPG)
+
 Se ainda não fez o seu registo escolha ‘Criar conta’ e selecione ‘Email/Palavra-passe’ ou ‘Autenticação.Gov’ se pretender utilizar o cartão de cidadão ou a chave móvel digital para fazer a sua autenticação. Uma vez que efectuou o registo receberá no e-mail que inseriu, um link para ativar a sua conta.
+
+![Criar Conta](screenshots/criarconta.JPG)
 
 Caso contrário, precisa apenas de iniciar sessão com as credênciais respetivas ou via Autenticação.Gov.
  
