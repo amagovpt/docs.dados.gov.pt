@@ -24,7 +24,7 @@ Existem dois campos de pesquisa no portal dados.gov. Um deles é vísivel quando
 
 Nestes campos pode pesquisar nomes de conjuntos de dados, organizações, reutilizações, distritos, concelhos e freguesias.Tem ainda possibilidade de personalizar ainda mais a sua pesquisa selecionando mais opções que se encontram na barra lateral direita da página, como por exemplo, etiquetas, licenças, cobertura temporal, formatos, etc. 
 
-![Pesquisa com Tags](screenshots/searchtabs.JPG)
+![Pesquisa com Tags](screenshots/searchtabs.png)
 
 ## Interações Sociais 
 
@@ -32,7 +32,7 @@ O portal dados.gov também tem uma vertente social, isto é, é possível seguir
 
 ![Seguir Utilizador](screenshots/seguirutilizador.JPG)
 
-![Seguir Organização](screenshots/seguirorg.JPG)
+![Seguir Organização](screenshots/seguirorg.png)
 
 Pode também trocar mensagens entre a organização e a comunidade sobre um dado conjunto de dados. Para isso basta utilizar o formulário ‘Discussões’ em ‘Contribuições da comunidade’ para interagir com os fornecedores de dados. Nesta mesma área também pode carregar e partilhar um recurso que ache que tenha um interpretação diferente do conjuntos de dados (i.e. com colunas adicionais, outra ordenação, etc). 
 
