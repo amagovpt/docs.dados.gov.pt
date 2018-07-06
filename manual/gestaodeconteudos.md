@@ -16,8 +16,25 @@ Publicar um conjunto de dados
 
 2.	Selecionar ‘Publicar um conjunto de dados’ ou ‘Adicionar um conjunto de dados’;
 
+![Publicar conjuntos de dados - frontend](screenshots/datasetcont.JPG)
+
+![Adicionar conjuntos de dados - backtend](screenshots/plusdataset.JPG)
+
 3.	Escolher sob qual a identidade deseja publicar o conjunto de dados;
 
 4.	Preencher os campos do formulário:
 
-    a. Licença: Selecionar a licença que mais se adequa ao conjunto de dados. Para mais informações consulte (https://dados.gov.pt/pt/docs/licenses/).
+    a. Licença: 
+    
+    Selecionar a licença que mais se adequa ao conjunto de dados. Para mais informações consulte     (https://dados.gov.pt/pt/docs/licenses/).
+    
+    b. Etiquetas:
+    
+    Adicionar as etiquetas que mais se adequam ao conjunto de dados que serão indexadores do mesmo. Poderá adicionar etiquetas novas ou         selecionar as que já existem que poderão ser dadas como sugestão à medida que vai inserido palavras no campo respetivo.
+    
+    ![Adicionar etiquetas](screenshots/etiquetas.JPG)
+    
+    c. Cobertura espacial:
+    
+    
+    
