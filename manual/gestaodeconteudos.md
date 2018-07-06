@@ -13,12 +13,14 @@ Publicar um conjunto de dados
 
 ![Contribuir](screenshots/contribuir.JPG)
 
+*Vista da Administração*
 ![Mais(Contribuir)](screenshots/plus.JPG)
 
 2.	Selecionar ‘Publicar um conjunto de dados’ ou ‘Adicionar um conjunto de dados’;
 
 ![Publicar um conjuntos de dados - frontend](screenshots/datasetcont.JPG)
 
+*Vista da Administração*
 ![Adicionar um conjuntos de dados - backend](screenshots/plusdataset.JPG)
 
 3.	Escolher sob qual a identidade deseja publicar o conjunto de dados;
@@ -49,12 +51,14 @@ Publicar uma organização
 
 ![Contribuir](screenshots/contribuir.JPG)
 
+*Vista da Administração*
 ![Mais(Contribuir)](screenshots/plus.JPG)
 
 2.	Selecionar ‘Criar ou encontrar a sua organização’ ou ‘Adicionar uma organização’;
 
 ![Publicar uma organização - frontend](screenshots/orgcont.JPG)
 
+*Vista da Administração*
 ![Adicionar uma organização - backend](screenshots/plusorg.JPG)
 
 3.	Verificar se a organização que deseja publicar não se encontra já inserida no portal;
@@ -91,6 +95,7 @@ Publicar uma reutilização
 
 ![Contribuir](screenshots/contribuir.JPG)
 
+*Vista da Administração*
 ![Mais(Contribuir)](screenshots/plus.JPG)
 
 
@@ -98,6 +103,7 @@ Publicar uma reutilização
 
 ![Publicar uma reutilização - frontend](screenshots/reutcont.JPG)
 
+*Vista da Administração*
 ![Adicionar uma reutilização - backend](screenshots/plusreut.JPG)
 
 
