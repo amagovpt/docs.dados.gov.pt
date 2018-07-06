@@ -1,4 +1,4 @@
-# Funcionalidades
+# Funcionalidades (<-- two spaces)
 
 ## Registo de Utilizador
 
@@ -19,6 +19,8 @@ Caso contrário, precisa apenas de iniciar sessão com as credênciais respetiva
 Existem dois campos de pesquisa no portal dados.gov. Um deles é vísivel quando  clica no icon ‘lupa’ quando se encontra na página inicial. Uma vez que sai desta página passará a ter o mesmo campo ‘Pesquisar’ na parte superior de cada página do portal.
 
 Nestes campos pode pesquisar nomes de conjuntos de dados, organizações, reutilizações, distritos, concelhos e freguesias.Tem ainda possibilidade de personalizar ainda mais a sua pesquisa selecionando mais opções que se encontram na barra lateral direita da página, como por exemplo, etiquetas, licenças, cobertura temporal, formatos, etc. 
+
+![Iniciar Sessão](screenshots/iniciarsessao.JPG)
 
 ## Interações Sociais 
 
