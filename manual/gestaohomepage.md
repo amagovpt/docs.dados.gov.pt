@@ -18,6 +18,7 @@ A etiqueta “destaque” é utilizada para colocar em pré-visualização um ar
 ## Banners:
 A etiqueta “banner” é utilizada para colocar em destaque na parte principal da home-page um ou mais artigos. Serão apresentados todos os artigos com esta etiqueta por ordem cronológica. É ainda possivel controlar o endereço do botão ao utilizar a tag “vernoticia” que passa a endereçar para o corpo da notícia (“Ver Mais”), caso contrário será endereçado para a listagem dos conjuntos de dados por defeito (“Ver Dados”).
 
+![Ver Mais](screenshots/bannervermais.JPG)
+
 ![Ver Dados](screenshots/bannerverdados.JPG)
 
-![Ver Mais](screenshots/bannervermais.JPG)
