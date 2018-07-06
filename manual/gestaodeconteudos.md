@@ -16,9 +16,9 @@ Publicar um conjunto de dados
 
 2.	Selecionar ‘Publicar um conjunto de dados’ ou ‘Adicionar um conjunto de dados’;
 
-![Publicar conjuntos de dados - frontend](screenshots/datasetcont.JPG)
+![Publicar um conjuntos de dados - frontend](screenshots/datasetcont.JPG)
 
-![Adicionar conjuntos de dados - backend](screenshots/plusdataset.JPG)
+![Adicionar um conjuntos de dados - backend](screenshots/plusdataset.JPG)
 
 3.	Escolher sob qual a identidade deseja publicar o conjunto de dados;
 
@@ -36,7 +36,8 @@ Publicar um conjunto de dados
     Este campo serve para referir a cobertura geográfica referente ao conjunto de dados. Deve referir zonas geográficas, tais como: países, distritos, concelhos ou freguesias que mais se adequam ao seu conjunto de dados de modo a que a mesma seja explícita e o menos redundante possível.
     
 5.	Escolher o tipo de ficheiro do recurso que quer adicionar ao conjunto de dados.
-     
+
+    
 ## Organizações
 
 Uma organização é uma entidade responsável pela disponibilização de conjuntos de dados  e organização dos mesmos.
@@ -51,9 +52,9 @@ Publicar uma organização
 
 2.	Selecionar ‘Criar ou encontrar a sua organização’ ou ‘Adicionar uma organização’;
 
-![Publicar organização - frontend](screenshots/orgcont.JPG)
+![Publicar uma organização - frontend](screenshots/orgcont.JPG)
 
-![Adicionar organização - backend](screenshots/plusorg.JPG)
+![Adicionar uma organização - backend](screenshots/plusorg.JPG)
 
 3.	Verificar se a organização que deseja publicar não se encontra já inserida no portal;
 
@@ -69,57 +70,48 @@ Adicionar certificados a uma organização (ADMIN):
 
 ![Organização certificada](screenshots/orgcertificada.jpg)
  
+1. Clicar na opção ‘Editar’ na página de perfil da organização ou pesquise a mesma na administração e selecione-a;
+
+![Organização certificada](screenshots/editarorg.JPG)
+
+2. Selecionar ‘Emblemas’;
+
+![Organização certificada](screenshots/emblemas.JPG)
+
+3. Selecionar os certificados que mais se adequam à organização.
 
 
+## Reutilizações
 
+Publicar uma reutilização
 
-
-
-
-                          1. Clicar na opção ‘Editar’ na página de perfil da organização ou pesquise a mesma na                administração e selecione-a;
-
-
-
-
-
-
-                          
-
-
-
-
-        2. Selecionar ‘Emblemas’;
-        
-        
-        c.	Reutilizações
-Publicar uma reutilização:
 1.	Clicar em ‘Contribuir!’ no seu frontend ou em ‘+’ na administração;
 
- 
+![Contribuir](screenshots/contribuir.JPG)
 
- 
+![Mais(Contribuir)](screenshots/plus.JPG)
+
 
 2.	Selecionar ‘Publicar uma reutilização’ ou ‘Adicionar uma reutilização’;
 
- 
+![Publicar uma reutilização - frontend](screenshots/reutcont.JPG)
 
- 
+![Adicionar uma reutilização - backend](screenshots/plusreut.JPG)
+
 
 3.	Escolher sob qual a identidade deseja publicar a reutilização;
 
 4.	Preencher os campos do formulário:
-a.	URL:
-Representa o repositório/endereço de alojamento da reutilização.
+
+    a.	URL:
+    Representa o repositório/endereço de alojamento da reutilização.
 
 5.	Pesquisar e selecionar os conjuntos de dados a relacionar à reutilização;
 
 6.	Escolher uma imagem para a reutilização.
 
 
-
-
-
-d.	Temas (Admin)
+## Temas (Admin)
 
 Publicar um tema:
 
