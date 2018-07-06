@@ -24,7 +24,7 @@ Existem dois campos de pesquisa no portal dados.gov. Um deles é vísivel quando
 
 Nestes campos pode pesquisar nomes de conjuntos de dados, organizações, reutilizações, distritos, concelhos e freguesias.Tem ainda possibilidade de personalizar ainda mais a sua pesquisa selecionando mais opções que se encontram na barra lateral direita da página, como por exemplo, etiquetas, licenças, cobertura temporal, formatos, etc. 
 
-![Pesquisa com Tags](screenshots/searchtabs.png)
+![Pesquisa com Tags](screenshots/searchtabs.JPG)
 
 ## Interações Sociais 
 
