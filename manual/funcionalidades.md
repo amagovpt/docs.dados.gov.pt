@@ -1,8 +1,8 @@
 # Funcionalidades
-<br/>
+
 ## Registo de Utilizador
 
-Para se autenticar no portal dados.gov basta clicar em ‘Entrar/Registar’ e escolher o caso que mais se adequa a si. 
+Para se autenticar no portal dados.gov basta clicar em ‘Entrar/Registar’ e \escolher o caso que mais se adequa a si. 
 
 ![Entrar/Registar](screenshots/entrar-registar.JPG)
 
