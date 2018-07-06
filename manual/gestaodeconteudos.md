@@ -67,7 +67,7 @@ Publicar uma organização
 
 Adicionar certificados a uma organização (ADMIN):
 
-![Organização certificada](screenshots/orgcertificada.JPG)
+![Organização certificada](screenshots/orgcertificada.jpg)
  
 
 
