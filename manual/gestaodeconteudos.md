@@ -12,6 +12,8 @@ Publicar um conjunto de dados
 
 ![Contribuir](screenshots/contribuir.JPG)
 
+![Mais(Contribuir)](screenshots/plus.JPG)
+
 2.	Selecionar ‘Publicar um conjunto de dados’ ou ‘Adicionar um conjunto de dados’;
 
 3.	Escolher sob qual a identidade deseja publicar o conjunto de dados;
