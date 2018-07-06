@@ -36,5 +36,6 @@ Publicar um conjunto de dados
     
     c. Cobertura espacial:
     
+    Este campo serve para referir a cobertura geográfica referente ao conjunto de dados. Deve referir zonas geográficas, tais como: países, distritos, concelhos ou freguesias que mais se adequam ao seu conjunto de dados de modo a que a mesma seja explícita e o menos redundante possível.
     
     
