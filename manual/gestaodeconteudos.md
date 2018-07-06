@@ -4,6 +4,7 @@ Esta secção explica alguns dos princípios básicos sobre a publicação e ace
 
 Para ter acesso a todas estas funcionalidades terá de efectuar o seu registo e/ou iniciar sessão. Para saber mais consulte ‘link para a secção Registo de Utilizador’.
 
+
 ## Conjuntos de Dados 
 
 Publicar um conjunto de dados
@@ -66,7 +67,8 @@ Publicar uma organização
 5.	Escolher um logótipo para a organização.
 
 
-Adicionar certificados a uma organização (ADMIN):
+
+Adicionar certificados a uma organização (ADMIN)
 
 ![Organização certificada](screenshots/orgcertificada.jpg)
  
@@ -117,52 +119,42 @@ Publicar um tema:
 
 1.	Clicar em ‘+’ na administração;
 
-
-
-
-
-
-
+![Mais(Contribuir)](screenshots/plus.JPG)
 
 2.	Selecionar ‘Adicionar um tema’;
 
+![Mais(Contribuir)](screenshots/plustema.JPG)
  
 3.	Preencher os campos do formulário:
-a.	Etiquetas:
-O dados.gov seleciona os conjuntos de dados que melhor se adequam ao tema, para tal deve apenas selecionar etiquetas relacionadas com o mesmo.
 
-b.	Em Destaque:
-Este campo deverá ser selecionado para que o tema fique público no portal.
+    a.	Etiquetas: O dados.gov seleciona os conjuntos de dados que melhor se adequam ao tema, para tal deve apenas selecionar etiquetas relacionadas com o mesmo.
+
+    b.	Em Destaque: Este campo deverá ser selecionado para que o tema fique público no portal.
 
 4.	Adicionar os conjuntos de dados (se existirem) relacionados ao tema;
 
 5.	Adicionar as reutilizações (se existirem) relacionadas ao tema.
 
 Existem também outras funcionalidades para ajudar na gestão dos conteúdos do portal, nomeadamente, editar, transferir ou eliminar.
-A edição serve para editar o conteúdo de conjuntos de dados, reutilizações, organizações, temas ou utilizadores. 
+
+A edição serve para editar o conteúdo de conjuntos de dados, reutilizações, organizações, temas ou utilizadores.
+
+![Editar](screenshots/edit.JPG)
    
 A transferência permite que um conjunto de dados ou uma reutilização seja transferida para outro utilizador ou outra organização. Para concluir a transferência será sempre necessário que esta seja aceite pelas entidades de destino e, no caso de o destino ser uma organização, o utilizador tem de ser administrador da mesma.
+
+![Transferência](screenshots/transferencia.JPG)
  
 Por fim, quando um conteúdo é eliminado do portal o mesmo deixa de estar visível para os outros utilizadores e é associada automaticamente uma etiqueta ‘Eliminado’. O conteúdo continuará a ser visível para o administrador do conteúdo durante 24 horas. Depois disso, o conteúdo será eliminado definitavemente do portal.
  
- 
+![Eliminar](screenshots/eliminar.JPG)
+
+![Tag eliminado](screenshots/eliminado.JPG)
 
 
+## Utilizadores (Admin)
 
-
-e.	Utilizadores (Admin)
 Um ponto importante relativamente à gestão de utilizadores é que existe a possibilidade de adicionar outros utilizadores como administradores. Para isso, basta ir para a edição do utilizador e selecionar a opção ‘admin’ no campo ‘Perfis’.
 
 
-
-
-
-
 Para remover o perfil administrador de um utilizador basta realizar o mesmo processo e selecionar a opção ‘admin’ juntamente com a tecla CTRL.
-
-
-
-
-
-                                           3. Selecionar os certificados que mais se adequam à organização.
-
