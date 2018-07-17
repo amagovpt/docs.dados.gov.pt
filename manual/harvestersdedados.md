@@ -1,4 +1,4 @@
-# Módulo Sistema (ADMIN)
+# Harvesters para indexação de dados
 
 ## Criar um Harvester para recolha de dados
 
