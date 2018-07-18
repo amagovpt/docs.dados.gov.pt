@@ -2,8 +2,8 @@
 
 Esta secção explica alguns dos princípios básicos sobre a publicação e acesso às funcionalidades dos harvesters no portal.
 
-- [Criar um Harvester para recolha de dados](#conjuntos-de-dados)
-- [Gestão de harvesters](#organizações)
+- [Criar um Harvester para recolha de dados](#criar-um-harvester-para-recolha-de-dados)
+- [Gestão de harvesters](#gestão-de-harvesters)
 
 ## Criar um Harvester para recolha de dados
 
