@@ -14,12 +14,26 @@ O Insomina é um cliente REST em ambiente gráfico que além de ser extramamente
 
 ## Pedidos GET
 
-Um pedido GET permite efectuar operações de consulta à API, na qual é possível especificar parâmetros de pesquisa ou filtros, para obter o detalhe ou os filtros que podem ser utilizados, consulte na apidoc a especificação do pedido GET pretendido.
+Um pedido GET permite efectuar operações de consulta à API, na qual é possível especificar parâmetros de pesquisa ou filtros, para obter o detalhe ou os filtros que podem ser utilizados, consulte na apidoc a especificação do pedido GET pretendido. Como por exemplo, obter todos os datasets de uma determinada organização.
 
 ```
 # code block
-print '3 backticks or'
-print 'indent 4 spaces'
+import requests
+
+payload = ""
+headers = {
+   'x-api-key': "<YOUR_API_KEY>"
+    }
+
+url = "https://dados.gov.pt/api/1/datasets/"
+
+querystring = {
+    "page_size":"100",
+    "organization":"5b06d347acac33199b8c7bb5"
+}
+response = requests.request("GET", url, data=payload, headers=headers, params=querystring)
+
+print(response.text)
 ```
 
 ##	Pedidos PUT
