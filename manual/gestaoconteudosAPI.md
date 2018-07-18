@@ -22,7 +22,7 @@ import requests
 payload = ""
 headers = {
    'x-api-key': "<YOUR_API_KEY>"
-    }
+}
 
 url = "https://dados.gov.pt/api/1/datasets/"
 
@@ -88,7 +88,7 @@ import requests
 payload = ""
 headers = {
    'x-api-key': "<YOUR_API_KEY>"
-    }
+}
 
 url = "https://172.31.204.12/api/1/datasets/<ID_DATASET>/"
 
