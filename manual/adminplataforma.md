@@ -1,4 +1,4 @@
-# Administração da plataforma:
+# Administração da plataforma
 
 ![Homepage Destaques](screenshots/homepage-destaques.JPG)
 
