@@ -1,5 +1,7 @@
 # Administração da plataforma
 
+Esta secção explica as funcionalidades que um administrador do portal tem acesso para gerir os conteúdos do mesmo.
+
 - [Homepage](#homepage)
 - [Banners](#banners)
 - [Destaques](#destaques)
