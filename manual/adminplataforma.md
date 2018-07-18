@@ -16,11 +16,6 @@ Esta secção explica as funcionalidades que um administrador do portal tem aces
 
 Para controlar dinamicamente os conteúdos presentes no dados.gov foram criados vários tipos de exposição dos mesmos em que o seu controlo é baseado em etiquetas. Todos os conteúdos têm por base artigos na perspectiva do uData.
 
-![Etiquetas de um artigo](screenshots/artigoetiquetas.JPG)
-
-### Notícias
-Uma notícia é o formato mais simples de um artigo, qualquer artigo criado no uData é considerado uma notícia, sem necessidade de atribuir qualquer etiqueta.
-
 Publicar um artigo:
 
 1.	Clicar em ‘+’ na administração;
@@ -30,6 +25,14 @@ Publicar um artigo:
 2.	Selecionar ‘Adicionar um artigo’;
 
 ![Selecionar Artigo](screenshots/selecionar-artigo.JPG)
+
+3.	Preencher os campos do formulário:
+
+![Etiquetas de um artigo](screenshots/artigoetiquetas.JPG)
+
+### Notícias
+
+Uma notícia é o formato mais simples de um artigo, qualquer artigo criado no uData é considerado uma notícia, sem necessidade de atribuir qualquer etiqueta.
 
 ### Eventos
 Um evento é um artigo no qual a etiqueta “evento” foi adicionada, o dados.gov vai detectar essa etiqueta para realçar e possibilitar o filtrar de eventos.
