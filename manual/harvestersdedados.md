@@ -9,13 +9,14 @@ Esta secção explica alguns dos princípios básicos sobre a publicação e ace
 
 A acção de fazer “harvesting” é uma das funcionalidades mais importantes do dados.gov, esta permite indexar e catalogar outros portais de dados abertos.
 
-Para criar/agendar uma tarefa de harvesting é necessário no backend selecionar a opção ‘Adicionar um harvester’, escolher a entidade sob a qual os conjuntos de dados serão publicados, preencher os campos do formulário com especial atenção para o URL que deve ser o endpoint do serviço a indexar e o Backend que estabelece o protocolo a utilizar para a indexação ( DCAT, CKAN, ODS, etc... ). 
+Para criar/agendar uma tarefa de harvesting é necessário no backend selecionar a opção ‘Adicionar um harvester’, escolher a entidade sob a qual os conjuntos de dados serão publicados, preencher os campos do formulário com especial atenção para o URL que deve ser o endpoint do serviço a indexar e o Backend que estabelece o protocolo que é utilizado pelo o portal de origem para a indexação ( DCAT, CKAN, ODS, etc... ). 
 No caso dos backends com extensão PT ( CKAN PT, OpenDataSoftPT ), o acto de harvesting vair indexar/criar organizações no dados.gov, nesse caso e para evitar duplicados é necessário garantir que o “slug” da organização coincida com o da origem.
 
 ![Mais](screenshots/plus.JPG)
  
 ![Adicionar um Harvester](screenshots/harvester.JPG)
  
+O harvester só ficará válido após a confirmação do administrador do portal.
 
 ## Gestão de harvesters
 
