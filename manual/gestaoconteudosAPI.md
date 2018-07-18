@@ -100,7 +100,7 @@ headers = {
 # URL do dataset a ser eliminado
 url = "https://172.31.204.12/api/1/datasets/<ID_DATASET>/"
 
-#Pedido DELETE
+# Pedido DELETE
 response = requests.request("DELETE", url, headers=headers, params=querystring)
 
 print(response.text)
