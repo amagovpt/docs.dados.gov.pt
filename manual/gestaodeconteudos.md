@@ -2,7 +2,7 @@
 
 Esta secção explica alguns dos princípios básicos sobre a publicação e acesso às funcionalidades dos conteúdos abertos no portal.
 
-Para ter acesso a todas estas funcionalidades terá de efectuar o seu registo e/ou iniciar sessão. Para saber mais consulte ‘link para a secção Registo de Utilizador’.
+Para ter acesso a todas estas funcionalidades terá de efectuar o seu registo e/ou iniciar sessão. Para saber mais consulte [Registo de Utilizador](http://a.com)
 
 ## Registo de Utilizador
 
