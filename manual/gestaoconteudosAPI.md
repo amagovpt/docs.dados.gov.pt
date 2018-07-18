@@ -20,12 +20,8 @@ Um pedido GET permite efectuar operações de consulta à API, na qual é possí
 import requests
 
 payload = ""
-```
-Para que seja possível executar as operações de escrita, precisa de obter primeiro uma Chave da API nas configurações do seu perfil.
-Esta chave deve ser fornecida em cada chamada à API no cabeçalho HTTP X-API-KEY.
 
-```python
-
+# Insira o sua API_KEY (para mais detalhes consulte a seguinte documentação: https://dados.gov.pt/pt/apidoc/)
 headers = {
    'x-api-key': "<YOUR_API_KEY>"
 }
