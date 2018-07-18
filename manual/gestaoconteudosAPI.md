@@ -1,6 +1,12 @@
 # Gestão de Conteúdos com a API (ADMIN)
 
 O dados.gov disponibiliza uma API do tipo REST com a qual é possivel interagir para efectuar praticamente qualquer acção permitida pela plataforma, de forma a perceber facilmente estas interacções siga a documentação presente no site (dados.gov.pt/apidoc/), a informação está agrupada por tipo de acção e inclui os “endpoints” a utilizar para cada pedido GET/PUT/POST/DELETE.
+
+- [Interação com o Insomnia](#interação-com-o-insomnia)
+- [Pedidos GET](#pedidos-get)
+- [Pedidos PUT](#pedidos-put)
+- [Pedidos POST](#pedidos-post)
+- [Pedidos DELETE](#pedidos-delete)
  
 ## Interação com o Insomnia
 
