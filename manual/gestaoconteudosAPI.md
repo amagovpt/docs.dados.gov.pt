@@ -21,7 +21,7 @@ import requests
 
 payload = ""
 
-# Insira o sua API_KEY (para mais detalhes consulte a seguinte documentação: https://dados.gov.pt/pt/apidoc/)
+# Insira a sua API_KEY (para mais detalhes consulte a seguinte documentação: https://dados.gov.pt/pt/apidoc/)
 headers = {
    'x-api-key': "<YOUR_API_KEY>"
 }
