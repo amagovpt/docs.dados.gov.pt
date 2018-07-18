@@ -3,10 +3,10 @@
 ![Homepage Destaques](screenshots/homepage-destaques.JPG)
 
 - [Homepage](#homepage)
+- [Banners](#banners)
+- [Destaques](#destaques)
 - [Notícias](#notícias)
 - [Eventos](#eventos)
-- [Destaques](#destaques)
-- [Banners](#banners)
 - [Temas](#temas)
 - [Utilizadores](#utilizadores)
 
