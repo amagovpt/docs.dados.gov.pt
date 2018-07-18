@@ -14,6 +14,8 @@ Esta secção explica as funcionalidades que um administrador do portal tem aces
 
 ![Homepage Destaques](screenshots/homepage-destaques.JPG)
 
+![Homepage Destaques](screenshots/homepage-destaques2.JPG)
+
 Para controlar dinamicamente os conteúdos presentes no dados.gov foram criados vários tipos de exposição dos mesmos em que o seu controlo é baseado em etiquetas. Todos os conteúdos têm por base artigos na perspectiva do uData.
 
 Publicar um artigo:
