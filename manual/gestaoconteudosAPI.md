@@ -26,11 +26,29 @@ print 'indent 4 spaces'
 
 Um pedido PUT permite realizar operações de actualização de dados, na sua representação técnica é um envio de uma resposta JSON obtida com um pedido GET alterando o valor dos campos pretendidos.
 
+```
+# code block
+print '3 backticks or'
+print 'indent 4 spaces'
+```
+
 ## Pedidos POST
 
 Um pedido POST permite criar novos dados, é utilizado enviando um pedido POST ao servidor no endoint respectivo e enviando em formato JSON os campos obrigatórios para a criação de novos dados.
+
+```
+# code block
+print '3 backticks or'
+print 'indent 4 spaces'
+```
 
 
 ## Pedidos DELETE
 
 Um pedido DELETE serve para eliminar dados, atenção que qualquer pedido DELETE enviado pela API é irreversível.
+
+```
+# code block
+print '3 backticks or'
+print 'indent 4 spaces'
+```
