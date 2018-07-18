@@ -10,7 +10,7 @@
 
 ## Homepage
 
-Em virtude da necessidade de controlar dinamicamente os conteúdos presentes no dados.gov foram criados vários tipos de exposição dos mesmos em que o seu controlo é baseado em etiquetas. Todos os conteúdos têm por base artigos na perspectiva do uData.
+Para controlar dinamicamente os conteúdos presentes no dados.gov foram criados vários tipos de exposição dos mesmos em que o seu controlo é baseado em etiquetas. Todos os conteúdos têm por base artigos na perspectiva do uData.
 
 ![Etiquetas de um artigo](screenshots/artigoetiquetas.JPG)
 
@@ -35,7 +35,7 @@ A etiqueta “banner” é utilizada para colocar em destaque na parte principal
 
 ## Temas
 
-Estas funcionalidades só são válidas para utilizadores que sejam administradores.
+Estas funcionalidades só são válidas para utilizadores que sejam administradores do portal.
 
 Publicar um tema:
 
@@ -76,7 +76,7 @@ Por fim, quando um conteúdo é eliminado do portal o mesmo deixa de estar visí
 
 ## Utilizadores
 
-Um ponto importante relativamente à gestão de utilizadores é que existe a possibilidade de adicionar outros utilizadores como administradores. Para isso, basta ir para a edição do utilizador e selecionar a opção ‘admin’ no campo ‘Perfis’.
+Um ponto importante relativamente à gestão de utilizadores é que existe a possibilidade de adicionar outros utilizadores como administradores. Para isso, basta ir para a edição do utilizador e selecionar a opção ‘admin’ no campo ‘Perfis’. Esta funcionalidade só está disponível para utilizadores que sejam administradores do portal.
 
 ![Tag eliminado](screenshots/adminchoose.JPG)
 
