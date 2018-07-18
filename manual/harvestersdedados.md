@@ -20,7 +20,7 @@ O harvester só ficará válido após a confirmação do administrador do portal
 
 ## Gestão de harvesters
 
-O gerenciamento de harvesters é feito no backend na secção “Sistema” na qual é possivel visualizar o estado, historico de execução e agendamento, ao selecionar um harvester é possivel obter um histórico completo de todas as operações efectuadas bem como perceber se há problemas com a indexação de algum dataset.
+O gerenciamento de harvesters é feito no backend na secção “Sistema” na qual é possivel visualizar o estado, histórico de execução e agendamento, ao selecionar um harvester é possível obter um histórico completo de todas as operações efectuadas bem como perceber se há problemas com a indexação de algum dataset.
 
 ![Módulo Sistema](screenshots/sistemaclick.JPG)
  
