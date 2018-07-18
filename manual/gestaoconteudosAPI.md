@@ -14,7 +14,9 @@ O Insomina é um cliente REST em ambiente gráfico que além de ser extramamente
 
 ## Pedidos GET
 
-Um pedido GET permite efectuar operações de consulta à API, na qual é possível especificar parâmetros de pesquisa ou filtros, para obter o detalhe ou os filtros que podem ser utilizados, consulte na apidoc a especificação do pedido GET pretendido. Como por exemplo, obter todos os datasets de uma determinada organização.
+Um pedido GET permite efectuar operações de consulta à API, na qual é possível especificar parâmetros de pesquisa ou filtros, para obter o detalhe ou os filtros que podem ser utilizados, consulte na apidoc a especificação do pedido GET pretendido. 
+
+*Exemplo: obter todos os datasets de uma determinada organização*
 
 ```python
 import requests
@@ -41,7 +43,10 @@ print(response.text)
 
 ##	Pedidos PUT
 
-Um pedido PUT permite realizar operações de actualização de dados, na sua representação técnica é um envio de uma resposta JSON obtida com um pedido GET alterando o valor dos campos pretendidos. Como por exemplo, atualizar as zonas geográficas de um conjunto de datasets.
+Um pedido PUT permite realizar operações de actualização de dados, na sua representação técnica é um envio de uma resposta JSON obtida com um pedido GET alterando o valor dos campos pretendidos. 
+
+
+*Exemplo: atualizar as zonas geográficas de um conjunto de datasets*
 
 ```python
 
@@ -112,7 +117,9 @@ print(response.text)
 
 ## Pedidos DELETE
 
-Um pedido DELETE serve para eliminar dados, atenção que qualquer pedido DELETE enviado pela API é irreversível. Como por exemplo, eliminar um determinado dataset.
+Um pedido DELETE serve para eliminar dados, atenção que qualquer pedido DELETE enviado pela API é irreversível. 
+
+*Exemplo: eliminar um determinado dataset*
 
 ```python 
 import requests
