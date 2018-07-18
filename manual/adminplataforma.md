@@ -19,6 +19,16 @@ Para controlar dinamicamente os conteúdos presentes no dados.gov foram criados 
 ### Notícias
 Uma notícia é o formato mais simples de um artigo, qualquer artigo criado no uData é considerado uma notícia, sem necessidade de atribuir qualquer etiqueta.
 
+Publicar um artigo:
+
+1.	Clicar em ‘+’ na administração;
+
+![Mais(Contribuir)](screenshots/plus.JPG)
+
+2.	Selecionar ‘Adicionar um tema’;
+
+![Selecionar Artigo](screenshots/selecionar-artigo.JPG)
+
 ### Eventos
 Um evento é um artigo no qual a etiqueta “evento” foi adicionada, o dados.gov vai detectar essa etiqueta para realçar e possibilitar o filtrar de eventos.
 
