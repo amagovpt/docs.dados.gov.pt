@@ -30,6 +30,10 @@ Publicar um artigo:
 
 ![Etiquetas de um artigo](screenshots/artigoetiquetas.JPG)
 
+4. Adicionar os conjuntos de dados relacionados ao artigo (opcional);
+
+5. Adicionar as reutilizações relacionadas ao artigo (opcional);
+
 ### Notícias
 
 Uma notícia é o formato mais simples de um artigo, qualquer artigo criado no uData é considerado uma notícia, sem necessidade de atribuir qualquer etiqueta.
