@@ -74,7 +74,7 @@ Por fim, quando um conteúdo é eliminado do portal o mesmo deixa de estar visí
 ![Tag eliminado](screenshots/eliminado.JPG)
 
 
-## Utilizadores (Admin)
+## Utilizadores
 
 Um ponto importante relativamente à gestão de utilizadores é que existe a possibilidade de adicionar outros utilizadores como administradores. Para isso, basta ir para a edição do utilizador e selecionar a opção ‘admin’ no campo ‘Perfis’.
 
