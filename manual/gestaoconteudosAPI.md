@@ -19,6 +19,7 @@ Um pedido GET permite efectuar operações de consulta à API, na qual é possí
 ```python
 import requests
 
+# 
 payload = ""
 
 # Insira a sua API_KEY (para mais detalhes consulte a seguinte documentação: https://dados.gov.pt/pt/apidoc/)
@@ -29,7 +30,9 @@ headers = {
 url = "https://dados.gov.pt/api/1/datasets/"
 
 querystring = {
+    # Número de datasets a aparecer por página
     "page_size":"100",
+    # ID da organização
     "organization":"5b06d347acac33199b8c7bb5"
 }
 response = requests.request("GET", url, data=payload, headers=headers, params=querystring)
