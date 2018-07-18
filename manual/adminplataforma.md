@@ -34,8 +34,9 @@ Publicar um artigo:
 
 5. Adicionar as reutilizações relacionadas ao artigo (opcional);
 
-### Notícias
+6. Selecionar a imagem que mais se adequa ao seu artigo.
 
+### Notícias
 Uma notícia é o formato mais simples de um artigo, qualquer artigo criado no uData é considerado uma notícia, sem necessidade de atribuir qualquer etiqueta.
 
 ### Eventos
