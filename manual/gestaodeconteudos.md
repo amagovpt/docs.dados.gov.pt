@@ -2,9 +2,9 @@
 
 Esta secção explica alguns dos princípios básicos sobre a publicação e acesso às funcionalidades dos conteúdos abertos no portal.
 
-List
-List
-List
+- [Conjunto de Dados](#conjunto-de-dados)
+- [Organizações](#organizacoes)
+- [Reutilizações](#reutilizacoes)
 
 Para ter acesso a todas estas funcionalidades terá de efectuar o seu registo e/ou iniciar sessão. Para saber mais consulte [Registo de Utilizador](#registo-de-utilizador).
 
