@@ -32,6 +32,7 @@ A etiqueta “banner” é utilizada para colocar em destaque na parte principal
 
 ![Ver Dados](screenshots/bannerverdados.JPG)
 
+Resolução recomendada para a imagem a utilizar como banner: 2100x1050 pixéis.
 
 ## Temas
 
