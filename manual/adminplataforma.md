@@ -5,7 +5,8 @@
 - [Eventos](#eventos)
 - [Destaques](#destaques)
 - [Banners](#banners)
-- [Temas](#pedidos-delete)
+- [Temas](#temas)
+- [Utilizadores](#utilizadores)
 
 ## Homepage
 
