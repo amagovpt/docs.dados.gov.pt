@@ -79,10 +79,34 @@ for dataset in datasets:
 
 Um pedido POST permite criar novos dados, é utilizado enviando um pedido POST ao servidor no endoint respectivo e enviando em formato JSON os campos obrigatórios para a criação de novos dados.
 
-```
-# code block
-print '3 backticks or'
-print 'indent 4 spaces'
+```python
+
+import requests
+
+payload =
+{
+   "title":"Dataset",
+   "description":"description",
+   "frequency":"unknown",
+   "license":"cc-by",
+   "organization":{
+      "id":"5b0596c1acac334356038198"
+   },
+   "private":false,
+   "slug":"dataset"
+}
+
+headers = {
+   'x-api-key': "<YOUR_API_KEY>"
+   'content-type': "application/json"
+}
+
+url = "https://dados.gov.pt/api/1/datasets/"
+
+# Pedido POST
+response = requests.request("POST", url, data=payload, headers=headers)
+
+print(response.text)
 ```
 
 
