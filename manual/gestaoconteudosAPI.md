@@ -84,6 +84,8 @@ for dataset in datasets:
 
 Um pedido POST permite criar novos dados, é utilizado enviando um pedido POST ao servidor no endoint respectivo e enviando em formato JSON os campos obrigatórios para a criação de novos dados.
 
+*Exemplo: adicionar um dataset a uma determinada organização*
+
 ```python
 
 import requests
