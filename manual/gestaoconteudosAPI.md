@@ -19,9 +19,6 @@ Um pedido GET permite efectuar operações de consulta à API, na qual é possí
 ```python
 import requests
 
-# 
-payload = ""
-
 # Insira a sua API_KEY (para mais detalhes consulte a seguinte documentação: https://dados.gov.pt/pt/apidoc/)
 headers = {
    'x-api-key': "<YOUR_API_KEY>"
@@ -35,7 +32,9 @@ querystring = {
     # ID da organização
     "organization":"5b06d347acac33199b8c7bb5"
 }
-response = requests.request("GET", url, data=payload, headers=headers, params=querystring)
+
+# Pedido GET
+response = requests.request("GET", url, headers=headers, params=querystring)
 
 print(response.text)
 ```
@@ -48,6 +47,7 @@ Um pedido PUT permite realizar operações de actualização de dados, na sua re
 
 import requests
 
+# Conteúdo a ser atualizado
 payload =
 {
     "spatial":{
@@ -60,14 +60,17 @@ headers = {
    'content-type': "application/json"
 }
 
+# Lista de datasets que pode ser obtida através de um pedido GET
 datasets = [
     '5b06d49eacac3351a85f5df8',
     'c3351a85f5df85b06d49eaca',
     (...)
 ]
 
+# Ciclo que percorre a lista de datasets
 for dataset in datasets:
     url = "https://dados.gov.pt/api/1/datasets/" + dataset + "/"
+    # Pedido PUT
     response = requests.request("PUT", url, data=payload, headers=headers)
     print(response.text)
 ```
@@ -90,14 +93,15 @@ Um pedido DELETE serve para eliminar dados, atenção que qualquer pedido DELETE
 ```python 
 import requests
 
-payload = ""
 headers = {
    'x-api-key': "<YOUR_API_KEY>"
 }
 
+# URL do dataset a ser eliminado
 url = "https://172.31.204.12/api/1/datasets/<ID_DATASET>/"
 
-response = requests.request("DELETE", url, data=payload, headers=headers, params=querystring)
+#Pedido DELETE
+response = requests.request("DELETE", url, headers=headers, params=querystring)
 
 print(response.text)
 ```
