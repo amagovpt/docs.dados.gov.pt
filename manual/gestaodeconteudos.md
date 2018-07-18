@@ -1,4 +1,4 @@
-# Gestão de Conteúdos e funcionalidades base
+# Gestão de dados, conteúdos e funcionalidades base
 
 Esta secção explica alguns dos princípios básicos sobre a publicação e acesso às funcionalidades dos conteúdos abertos no portal.
 
