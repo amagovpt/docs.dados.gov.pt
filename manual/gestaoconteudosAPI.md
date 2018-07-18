@@ -16,6 +16,7 @@ O Insomina é um cliente REST em ambiente gráfico que além de ser extramamente
 
 Um pedido GET permite efectuar operações de consulta à API, na qual é possível especificar parâmetros de pesquisa ou filtros, para obter o detalhe ou os filtros que podem ser utilizados, consulte na apidoc a especificação do pedido GET pretendido.
 
+```
 # code block
 print '3 backticks or'
 print 'indent 4 spaces'
