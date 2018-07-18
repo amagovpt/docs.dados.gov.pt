@@ -25,7 +25,7 @@ Publicar um artigo:
 
 ![Mais(Contribuir)](screenshots/plus.JPG)
 
-2.	Selecionar ‘Adicionar um tema’;
+2.	Selecionar ‘Adicionar um artigo’;
 
 ![Selecionar Artigo](screenshots/selecionar-artigo.JPG)
 
