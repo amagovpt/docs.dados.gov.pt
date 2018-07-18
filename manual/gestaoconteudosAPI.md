@@ -80,10 +80,19 @@ print 'indent 4 spaces'
 
 ## Pedidos DELETE
 
-Um pedido DELETE serve para eliminar dados, atenção que qualquer pedido DELETE enviado pela API é irreversível.
+Um pedido DELETE serve para eliminar dados, atenção que qualquer pedido DELETE enviado pela API é irreversível. Como por exemplo, eliminar um determinado dataset.
 
-```
-# code block
-print '3 backticks or'
-print 'indent 4 spaces'
+```python 
+import requests
+
+payload = ""
+headers = {
+   'x-api-key': "<YOUR_API_KEY>"
+    }
+
+url = "https://172.31.204.12/api/1/datasets/<ID_DATASET>/"
+
+response = requests.request("DELETE", url, data=payload, headers=headers, params=querystring)
+
+print(response.text)
 ```
