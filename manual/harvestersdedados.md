@@ -1,5 +1,10 @@
 # Harvesters para indexação de dados
 
+Esta secção explica alguns dos princípios básicos sobre a publicação e acesso às funcionalidades dos harvesters no portal.
+
+- [Criar um Harvester para recolha de dados](#conjuntos-de-dados)
+- [Gestão de harvesters](#organizações)
+
 ## Criar um Harvester para recolha de dados
 
 A acção de fazer “harvesting” é uma das funcionalidades mais importantes do dados.gov, esta permite indexar e catalogar outros portais de dados abertos.
