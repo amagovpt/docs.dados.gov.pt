@@ -1,5 +1,7 @@
 # Administração da plataforma:
 
+![Homepage Destaques](screenshots/homepage-destaques.JPG)
+
 - [Homepage](#homepage)
 - [Notícias](#notícias)
 - [Eventos](#eventos)
