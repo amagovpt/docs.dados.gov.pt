@@ -16,7 +16,7 @@ O Insomina é um cliente REST em ambiente gráfico que além de ser extramamente
 
 Um pedido GET permite efectuar operações de consulta à API, na qual é possível especificar parâmetros de pesquisa ou filtros, para obter o detalhe ou os filtros que podem ser utilizados, consulte na apidoc a especificação do pedido GET pretendido. Como por exemplo, obter todos os datasets de uma determinada organização.
 
-```
+```python
 import requests
 
 payload = ""
@@ -37,12 +37,34 @@ print(response.text)
 
 ##	Pedidos PUT
 
-Um pedido PUT permite realizar operações de actualização de dados, na sua representação técnica é um envio de uma resposta JSON obtida com um pedido GET alterando o valor dos campos pretendidos.
+Um pedido PUT permite realizar operações de actualização de dados, na sua representação técnica é um envio de uma resposta JSON obtida com um pedido GET alterando o valor dos campos pretendidos. Como por exemplo, atualizar as zonas geográficas de um conjunto de datasets.
 
-```
-# code block
-print '3 backticks or'
-print 'indent 4 spaces'
+```python
+
+import requests
+
+payload =
+{
+    "spatial":{
+        "zones": "pt:concelho:1106"
+    }
+}
+
+headers = {
+   'x-api-key': "<YOUR_API_KEY>"
+   'content-type': "application/json"
+}
+
+datasets = [
+    '5b06d49eacac3351a85f5df8',
+    'c3351a85f5df85b06d49eaca',
+    (...)
+]
+
+for dataset in datasets:
+    url = "https://dados.gov.pt/api/1/datasets/" + dataset + "/"
+    response = requests.request("PUT", url, data=payload, headers=headers)
+    print(response.text)
 ```
 
 ## Pedidos POST
