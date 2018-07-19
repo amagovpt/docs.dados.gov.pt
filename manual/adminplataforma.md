@@ -56,7 +56,9 @@ A etiqueta “destaque” é utilizada para colocar em pré-visualização um ar
 
 ![Reutilizações em Destaque](screenshots/reutilizaçõesdestaque.JPG)
 
-Para colocar reutilizações em destaque é necessário 
+Para colocar reutilizações em destaque é necessário que aceda à 'Administração' e, por sua vez, à secção 'Editorial' onde terá de clicar 'Editar' em 'Reutilizações em destaque'. Basta procurar pelo nome da reutilização e confirmar a mesma.
+
+![Editar Reutilizações em Destaque](screenshots/editarreutilizacoesdestaque.JPG)
 
 ### Conjuntos de dados em destaque
 
