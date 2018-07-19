@@ -65,7 +65,7 @@ Para colocar reutilizações em destaque é necessário que aceda à 'Administra
 
 ![Últimas Reutizações](screenshots/ultimasreutilizacoes.JPG)
 
-Para adicionar reutilizações em 'Últimas Reutilizações' é necessário que aceda à página perfil da reutilização no portal (frontend) e, por sua vez, clicar no botão 'Em destaque'.
+Para adicionar reutilizações em 'Últimas Reutilizações' é necessário que aceda à página/perfil da reutilização no portal (frontend) e, por sua vez, clicar no botão 'Em destaque'.
 
 ![Destacar Últimas Reutizações](screenshots/ultimasreutilizacoesdestaque.JPG)
 
