@@ -4,17 +4,14 @@ Esta secção explica as funcionalidades que um administrador do portal tem aces
 
 - [Homepage](#homepage)
 - [Banners](#banners)
-- [Destaques](#destaques)
+- [Artigo em destaque](#artigo-em-destaque)
+- [Reutilizações em destaque](#reutilizações-em-destaque)
 - [Notícias](#notícias)
 - [Eventos](#eventos)
 - [Temas](#temas)
 - [Utilizadores](#utilizadores)
 
 ## Homepage
-
-![Homepage Destaques](screenshots/homepage-destaques.JPG)
-
-![Homepage Destaques](screenshots/homepage-destaques2.JPG)
 
 Para controlar dinamicamente os conteúdos presentes no dados.gov foram criados vários tipos de exposição dos mesmos em que o seu controlo é baseado em etiquetas. Todos os conteúdos têm por base artigos na perspectiva do uData.
 
@@ -44,10 +41,16 @@ Uma notícia é o formato mais simples de um artigo, qualquer artigo criado no u
 ### Eventos
 Um evento é um artigo no qual a etiqueta “evento” foi adicionada, o dados.gov vai detectar essa etiqueta para realçar e possibilitar o filtrar de eventos.
 
-### Destaques
+### Artigo em destaque
 A etiqueta “destaque” é utilizada para colocar em pré-visualização um artigo na parte central da home-page (entre as reutilizações e os conjuntos de dados em destaque), apenas um artigo será apresentado, no caso de vários artigos com esta tag apenas o mais recente será selecionado. 
 
 ![Destaque da Homepage](screenshots/destaquehome.JPG)
+
+### Reutilizações em destaque
+
+![Reutilizações em Destaque](screenshots/reutilizaçõesdestaque.JPG)
+
+Para colocar reutilizações em destaque
 
 ### Banners
 A etiqueta “banner” é utilizada para colocar em destaque na parte principal da home-page um ou mais artigos. Serão apresentados todos os artigos com esta etiqueta por ordem cronológica. É ainda possivel controlar o endereço do botão ao utilizar a tag “vernoticia” que passa a endereçar para o corpo da notícia (“Ver Mais”), caso contrário será endereçado para a listagem dos conjuntos de dados por defeito (“Ver Dados”).
