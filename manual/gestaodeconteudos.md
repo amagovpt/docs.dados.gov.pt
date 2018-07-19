@@ -85,7 +85,7 @@ Publicar uma organização
     a.	Sigla:
     No caso dessa organização ser atualizada por um harvester a sigla deve coincidir com a providenciada na fonte do mesmo.
     
-*Exemplo: sigla da organização câmara municipal de Lisboa*
+*Exemplo: sigla da organização câmara municipal de Lisboa (camara-municipal-lisboa)*
 ![Sigla CM Lisboa](screenshots/siglacmlisboa.png)
 
 5.	Escolher um logótipo para a organização (resolução recomendada: 750x300 pixéis).
