@@ -9,12 +9,33 @@ Esta secção explica alguns dos princípios básicos sobre a publicação e ace
 
 A acção de fazer “harvesting” é uma das funcionalidades mais importantes do dados.gov, esta permite indexar e catalogar outros portais de dados abertos.
 
-Para criar/agendar uma tarefa de harvesting é necessário no backend selecionar a opção ‘Adicionar um harvester’, escolher a entidade sob a qual os conjuntos de dados serão publicados, preencher os campos do formulário com especial atenção para o URL que deve ser o endpoint do serviço a indexar e o Backend que estabelece o protocolo que é utilizado pelo o portal de origem para a indexação ( DCAT, CKAN, ODS, etc... ). 
+Criar/agendar uma tarefa de harvesting:
+
+1. Clicar em ‘+’ na administração;
+
+*Vista da administração*
+![Mais](screenshots/plus.JPG)
+
+2. Selecionar a opção ‘Adicionar um harvester’;
+
+*Vista da administração*
+![Adicionar um Harvester](screenshots/harvester.JPG)
+
+3. Escolha sob qual identidade deseja publicar (deverá criar previamente, se for o caso, a organização que deseja associar ao harvester);
+
+4. Preencher o formulário:
+   
+   a. URL: Representa o endereço da organização/serviço a catalogar; 
+   
+
+   *Exemplo: URL do portal de dados abertos da câmara municipal de Lisboa*
+   ![CM Lisboa](screenshots/portalcmlisboa.png)
+   
+   b. 
+
+escolher a entidade sob a qual os conjuntos de dados serão publicados, preencher os campos do formulário com especial atenção para o URL que deve ser o endpoint do serviço a indexar e o Backend que estabelece o protocolo que é utilizado pelo o portal de origem para a indexação ( DCAT, CKAN, ODS, etc... ). 
 No caso dos backends com extensão PT ( CKAN PT, OpenDataSoftPT ), o acto de harvesting vair indexar/criar organizações no dados.gov, nesse caso e para evitar duplicados é necessário garantir que o “slug” da organização coincida com o da origem.
 
-![Mais](screenshots/plus.JPG)
- 
-![Adicionar um Harvester](screenshots/harvester.JPG)
  
 O harvester só ficará válido após a confirmação do administrador do portal.
 
