@@ -37,7 +37,7 @@ Criar/agendar uma tarefa de harvesting:
    ![Backend CM Lisboa](screenshots/backendcmlisboa.JPG)
  
    
-No caso dos backends com extensão PT ( CKAN PT, OpenDataSoftPT ), o acto de harvesting vair indexar/criar organizações no dados.gov, nesse caso e para evitar duplicados é necessário garantir que o “slug” da organização coincida com o da origem.
+O portal dados.gov adaptou dois backends, respetivamente, CKAN e ODS com extensão PT ( CKAN PT, OpenDataSoftPT ), em que adicionalmente o acto de harvesting vai indexar/criar organizações que estejam associadas ao portal de origem de dados abertos para o dados.gov, caso ainda não estejam criadas. Para evitar duplicados é necessário garantir que o sigla da organização coincida com o da origem.
 
  
 O harvester só ficará válido após a confirmação do administrador do portal.
