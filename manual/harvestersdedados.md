@@ -25,15 +25,18 @@ Criar/agendar uma tarefa de harvesting:
 
 4. Preencher o formulário:
    
-   a. URL: Representa o endereço da organização/serviço a catalogar (para o url ser válido é necessário que cumpra este formato http:// <url-do-portal> /); 
+   a. URL: Representa o endereço da organização/serviço a catalogar (para o url ser válido é necessário indexar 'http://' ao mesmo);
   
 
    *Exemplo: URL do portal de dados abertos da câmara municipal de Lisboa (http://dados.cm-lisboa.pt/)*
-   ![CM Lisboa](screenshots/portalcmlisboa.png)
+   ![URL CM Lisboa](screenshots/portalcmlisboa.png)
    
-   b. 
-
-escolher a entidade sob a qual os conjuntos de dados serão publicados, preencher os campos do formulário com especial atenção para o URL que deve ser o endpoint do serviço a indexar e o Backend que estabelece o protocolo que é utilizado pelo o portal de origem para a indexação ( DCAT, CKAN, ODS, etc... ). 
+   b. Backend: estabelece o protocolo que é utilizador pelo o portal de origem para a indexação ( DCAT, CKAN, ODS, etc... )
+   
+   *Exemplo: backend do portal de dados abertos da câmara municipal de Lisboa (http://dados.cm-lisboa.pt/)*
+   ![Backend CM Lisboa](screenshots/backendcmlisboa.JPG)
+ 
+   
 No caso dos backends com extensão PT ( CKAN PT, OpenDataSoftPT ), o acto de harvesting vair indexar/criar organizações no dados.gov, nesse caso e para evitar duplicados é necessário garantir que o “slug” da organização coincida com o da origem.
 
  
