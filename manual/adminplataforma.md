@@ -56,7 +56,7 @@ A etiqueta “destaque” é utilizada para colocar em pré-visualização um ar
 
 ![Reutilizações em Destaque](screenshots/reutilizaçõesdestaque.JPG)
 
-Para colocar reutilizações em destaque é necessário que aceda à 'Administração' e, por sua vez, à secção 'Editorial' onde terá de clicar 'Editar' em 'Reutilizações em destaque'. Basta procurar pelo nome da reutilização e confirmar a mesma.
+Para colocar reutilizações em destaque é necessário que aceda à 'Administração' e, por sua vez, à secção 'Editorial' onde terá de clicar 'Editar' em 'Reutilizações em destaque'. Em seguida, basta procurar pelo nome da reutilização que deseja destacar e confirmar a mesma.
 
 ![Editar Reutilizações em Destaque](screenshots/editarreutilizacoesdestaque.JPG)
 
@@ -64,6 +64,9 @@ Para colocar reutilizações em destaque é necessário que aceda à 'Administra
 
 ![Conjuntos de dados em destaque](screenshots/conjuntodadosemdestaque.JPG)
 
+Para colocar conjuntos de dados em destaque é necessário que aceda à 'Administração' e, por sua vez, à secção 'Editorial' onde terá de clicar 'Editar' em 'Conjuntos de dados em destaque'. Em seguida, basta procurar pelo nome do conjunto de dados que deseja destacar e confirmar o mesmo.
+
+![Editar Conjunto de Dados em Destaque](screenshots/editarconjuntodadosemdestaque.JPG)
 
 ### Banners
 A etiqueta “banner” é utilizada para colocar em destaque na parte principal da home-page um ou mais artigos. Serão apresentados todos os artigos com esta etiqueta por ordem cronológica. É ainda possivel controlar o endereço do botão ao utilizar a tag “vernoticia” que passa a endereçar para o corpo da notícia (“Ver Mais”), caso contrário será endereçado para a listagem dos conjuntos de dados por defeito (“Ver Dados”).
