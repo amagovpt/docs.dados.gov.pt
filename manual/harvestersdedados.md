@@ -25,7 +25,7 @@ Criar/agendar uma tarefa de harvesting:
 
 4. Preencher o formulário:
    
-   a. URL: Representa o endereço da organização/serviço a catalogar (para o url ser válida é necessário que cumpra este formato http://<urldoportal>/); 
+   a. URL: Representa o endereço da organização/serviço a catalogar (para o url ser válido é necessário que cumpra este formato http://urldoportal/); 
    
 
    *Exemplo: URL do portal de dados abertos da câmara municipal de Lisboa (http://dados.cm-lisboa.pt/)*
