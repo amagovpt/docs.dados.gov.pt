@@ -31,15 +31,17 @@ Criar/agendar uma tarefa de harvesting:
    *Exemplo: URL do portal de dados abertos da câmara municipal de Lisboa (http://dados.cm-lisboa.pt/)*
    ![URL CM Lisboa](screenshots/portalcmlisboa.png)
    
-   b. Backend: estabelece o protocolo que é utilizador pelo o portal de origem para a indexação ( DCAT, CKAN, ODS, etc... )
+   b. Backend: estabelece o protocolo que é utilizado pelo o portal de origem para a indexação ( DCAT, CKAN, ODS, etc... )
    
-   *Exemplo: backend do portal de dados abertos da câmara municipal de Lisboa (http://dados.cm-lisboa.pt/)*
+   *Exemplo: backend do portal de dados abertos da câmara municipal de Lisboa*
    ![Backend CM Lisboa](screenshots/backendcmlisboa.JPG)
  
    
-O portal dados.gov adaptou dois backends, respetivamente, CKAN e ODS com extensão PT ( CKAN PT, OpenDataSoftPT ), em que adicionalmente o acto de harvesting vai indexar/criar organizações que estejam associadas ao portal de origem de dados abertos para o dados.gov, caso ainda não estejam criadas. Para evitar duplicados é necessário garantir que o sigla da organização coincida com o da origem.
+O portal dados.gov adaptou dois backends, respetivamente, CKAN e ODS com extensão PT ( CKAN PT, OpenDataSoftPT ), em que adicionalmente o acto de harvesting vai indexar/criar organizações que estejam associadas ao portal de origem de dados abertos para o dados.gov, caso ainda não estejam criadas. Para evitar duplicados é necessário garantir que quando se cria uma origanização a sigla da mesma coincida com o da origem. 
 
- 
+*Exemplo: Organizações associadas ao portal de dados aberto da câmara municipal de Lisboa*
+![Organizações associadas CM Lisboa](screenshots/organizacoescmlisboas.JPG)
+
 O harvester só ficará válido após a confirmação do administrador do portal.
 
 ## Gestão de harvesters
