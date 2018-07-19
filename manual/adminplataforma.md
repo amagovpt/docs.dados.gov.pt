@@ -6,6 +6,7 @@ Esta secção explica as funcionalidades que um administrador do portal tem aces
 - [Banners](#banners)
 - [Artigo em destaque](#artigo-em-destaque)
 - [Reutilizações em destaque](#reutilizações-em-destaque)
+- [Últimas Reutilizações](#últimas-reutilizações)
 - [Conjuntos de dados em destaque](#conjuntos-de-dados-em-destaque)
 - [Notícias](#notícias)
 - [Eventos](#eventos)
@@ -59,6 +60,14 @@ A etiqueta “destaque” é utilizada para colocar em pré-visualização um ar
 Para colocar reutilizações em destaque é necessário que aceda à 'Administração' e, por sua vez, à secção 'Editorial' onde terá de clicar 'Editar' em 'Reutilizações em destaque'. Em seguida, basta procurar pelo nome da reutilização que deseja destacar e confirmar a mesma.
 
 ![Editar Reutilizações em Destaque](screenshots/editarreutilizacoesdestaque.JPG)
+
+### Últimas Reutilizações
+
+![Últimas Reutizações](screenshots/ultimasreutilizacoes.JPG)
+
+Para adicionar reutilizações em 'Últimas Reutilizações' é necessário que aceda à página perfil da reutilização no portal (frontend) e, por sua vez, clicar no botão 'Em destaque'.
+
+![Destacar Últimas Reutizações](screenshots/ultimasreutilizacoesdestaque.JPG)
 
 ### Conjuntos de dados em destaque
 
