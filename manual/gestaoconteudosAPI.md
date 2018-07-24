@@ -14,7 +14,7 @@ O Insomina é um cliente REST em ambiente gráfico que além de ser extramamente
 
 ## Pedidos GET
 
-Um pedido GET permite efectuar operações de consulta à API, na qual é possível especificar parâmetros de pesquisa ou filtros, para obter o detalhe ou os filtros que podem ser utilizados, consulte na [apidoc](https://dados.gov.pt/pt/apidoc/apidoc) a especificação do pedido GET pretendido. 
+Um pedido GET permite efectuar operações de consulta à API, na qual é possível especificar parâmetros de pesquisa ou filtros, para obter o detalhe ou os filtros que podem ser utilizados, consulte na [apidoc](https://dados.gov.pt/pt/apidoc/) a especificação do pedido GET pretendido. 
 
 *Exemplo: obter todos os datasets de uma determinada organização*
 
