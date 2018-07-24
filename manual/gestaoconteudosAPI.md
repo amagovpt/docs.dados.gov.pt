@@ -1,4 +1,4 @@
-# Gestão de Conteúdos com a API (ADMIN)
+# Gestão de Conteúdos com a API
 
 O dados.gov disponibiliza uma API do tipo REST com a qual é possivel interagir para efectuar praticamente qualquer acção permitida pela plataforma, de forma a perceber facilmente estas interacções siga a documentação presente no site (dados.gov.pt/apidoc/), a informação está agrupada por tipo de acção e inclui os “endpoints” a utilizar para cada pedido GET/PUT/POST/DELETE.
 
@@ -31,7 +31,7 @@ url = "https://dados.gov.pt/api/1/datasets/"
 querystring = {
     # Número de datasets a aparecer por página
     "page_size":"100",
-    # ID da organização
+    # ID da organização (pode obtê-lo através do URL da página de perfil da organização em backend ou através de outro pedido GET)
     "organization":"5b06d347acac33199b8c7bb5"
 }
 
@@ -92,8 +92,8 @@ import requests
 
 payload =
 {
-   "title":"Dataset",
-   "description":"description",
+   "title":"<títlo_dataset>",
+   "description":"<descrição_dataset>",
    "frequency":"unknown",
    "license":"cc-by",
    "organization":{
