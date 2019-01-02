@@ -11,11 +11,11 @@ O dados.gov é um portal vocacionado para a abertura de dados por parte de organ
 
 ## Como publicar conjuntos de dados em dados.gov
 
-Para publicar um conjunto de dados neste portal é necessário criar uma conta de utilizador, ou, no caso de já estar registado, efetuar a autenticação. Depois de criada uma conta e de entrar com registo no portal, basta escolher a opção "Contribuir". Pode também carregar no ícone "+" a partir da zona de administração (backoffice).
+Para publicar um conjunto de dados neste portal é necessário criar uma conta de utilizador, ou, no caso de já estar registado, efetuar a autenticação. Depois de criada uma conta e de entrar com registo no portal, basta escolher a opção "Contribuir", na barra superior. Em alternativa, também pode carregar no ícone "+" a partir da zona de administração (backoffice).
 
-De seguida deverá selecionar ou criar uma organização para publicar os dados. Poderá também fazê-lo em nome individual (não recomendado para organismos públicos).
+Caso a sua organização não exista ainda no dados.gov, deverá criá-la selecionando "Criar ou encontrar a sua organização". Poderá também fazê-lo em nome individual (não recomendado para organismos públicos).
 
-Depois deverá caracterizar o conjunto de dados e carregar o(s) recurso(s) associado(s), ou indicar o link onde se encontram os dados.
+No processo de carregamento de dados, deverá escolher a organização sob a qual deseja publicar o dataset. Depois deverá caracterizar o conjunto de dados e carregar o(s) recurso(s) associado(s), ou indicar o link onde se encontram os dados.
 
 
 ## Conjuntos de dados e recursos
