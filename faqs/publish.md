@@ -4,6 +4,8 @@ Esta secção explica alguns princípios básicos sobre publicação e acesso à
 
 Para processos de carregamento e integração automática com o portal, consulte a documentação da [API](/apidoc/).
 
+Se for administrador ou gestor de um portal de dados abertos, ou se possuir a metainformação da sua entidade organizada sobre a forma de catálogo, entre em contacto connosco para configuração de um _harvester_ para recolha automática dos dados.
+
 ## Quem pode publicar dados em dados.gov?
 
 O dados.gov é um portal vocacionado para a abertura de dados por parte de organismos e entidades da Administração Pública, conforme caracterizadas pelo [art. 4º da Lei n.º26/2016, de 22 de Agosto](http://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2591&tabela=leis&ficha=1&pagina=1&so_miolo= "Lei nº26/2016 de 22 de Agosto"), **mas qualquer cidadão ou organização pode registar-se no portal e carregar, ou referenciar, dados que considere de interesse público**.
