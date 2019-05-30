@@ -4,7 +4,7 @@ No dados.gov as entidades fornecedoras possuem controlo e autonomia relativa à 
 
 Através destas funcionalidade é possível carregar manualmente, efetuando upload, conjuntos de dados e respestivos recursos (ficheiros associados). O carregamento de datasets é apenas recomendado apenas para entidades que não possuam infrastruturas de alojamento de dados.
 
-**A AMA recomenda que os dados estejam alojados nos sistemas das entidades fornecedoras, seja através de ficheiros, serviços ou portais de dados, sem nessidade de os duplicar no dados.gov. Neste cenário, os dados ficarão apenas indexados no portal nacional, através da sua metainformação**.
+**A AMA recomenda que os dados estejam alojados nos sistemas das entidades fornecedoras, seja através de ficheiros, serviços ou portais de dados, sem nessidade de os duplicar no dados.gov. Neste cenário, o portal nacional indexa apenas a metainformação dos dados e não os dados em si**.
 
 Existem várias diferentes maneiras de otimizar a integração dados com o dados.gov.
 
@@ -25,6 +25,12 @@ Para entidades que disponibilizem poucos conjuntos de dados, e no caso dos recur
 A forma mais eficiente de assegurar a catalogação e indexação de conjuntos de dados publicados por outras entidades (nas suas plataformas ou portais) é através do obtenção desses catálogos através da criação de um mecanismo de _harvesting_ no dados.gov.
 
 Para que esse mecanismo seja criado, é necessário que as entidades exponham a informação relativa ao seu catálogo num ponto web. Essa informação deverá conter os elementos principais de metainformação relativo aos datasets, para que possam ser indexados e apresentados no dados.gov. 
+
+Exemplos de catálogos:
+
+[Catálogo do dados.gov](https://dados.gov.pt/catalog)
+[Catálogo do Portal Turismo Portugal - Dados Abertos](http://dadosabertos.turismodeportugal.pt/data.json)
+[Catálogo do portal da Transparência SNS](https://transparencia.sns.gov.pt/api/v2/catalog/exports/rdf) 
 
 As plataformas mais comuns para partilha de dados abertos (ex. CKAN, DKAN, OpenDataSoft, uDATA, entre outros) já disponibilizam esta informação por defeito, sendo facilmente integráveis com o dados.gov.
 
