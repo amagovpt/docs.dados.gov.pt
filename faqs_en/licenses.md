@@ -1,6 +1,6 @@
 # Licenses
 
-**note: The [Terms and Conditions of the website can be found on another portal section](https://dados.gov.pt/pt/docs/terms/).**
+**Note: the [Terms and Conditions of the website can be found on another portal section](https://dados.gov.pt/pt/docs/terms/).**
 
 The reuse license is one of the essential conditions to provide and publish open data. It is the license which stipulates the possibility to reuse the data for several purposes, including the commercial reuse.
 
