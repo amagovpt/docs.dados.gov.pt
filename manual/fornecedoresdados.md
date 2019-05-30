@@ -2,7 +2,7 @@
 
 No dados.gov as entidades fornecedoras possuem controlo e autonomia relativa à forma como gerem e disponibilizam a informação. As entidades poderão criar conta de utilizador, carregar datasets e gerir os conteúdos associados às respetivas páginas sem necessidade de intervenção da AMA. Mais informações em na página [Publicar Dados na área de documentação do portal](https://dados.gov.pt/pt/docs/publish/).
 
-Através destas funcionalidade é possível carregar manualmente, efetuando upload, conjuntos de dados e respestivos recursos (ficheiros associados). O carregamento de datasets é apenas recomendado apenas para entidades que não possuam infrastruturas de alojamento de dados.
+Através destas funcionalidade é possível carregar manualmente, efetuando upload, conjuntos de dados e respetivos recursos (ficheiros associados). O carregamento de datasets é apenas recomendado apenas para entidades que não possuam infrastruturas de alojamento de dados.
 
 **A AMA recomenda que os dados estejam alojados nos sistemas das entidades fornecedoras, seja através de ficheiros, serviços ou portais de dados, sem nessidade de os duplicar no dados.gov. Neste cenário, o portal nacional indexa apenas a metainformação dos dados e não os dados em si**.
 
