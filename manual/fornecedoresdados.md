@@ -28,9 +28,9 @@ Para que esse mecanismo seja criado, é necessário que as entidades exponham a 
 
 Exemplos de catálogos:
 
-[Catálogo do dados.gov](https://dados.gov.pt/catalog)
-[Catálogo do Portal Turismo Portugal - Dados Abertos](http://dadosabertos.turismodeportugal.pt/data.json)
-[Catálogo do portal da Transparência SNS](https://transparencia.sns.gov.pt/api/v2/catalog/exports/rdf) 
+* [Catálogo do dados.gov](https://dados.gov.pt/catalog)
+* [Catálogo do Portal Turismo Portugal - Dados Abertos](http://dadosabertos.turismodeportugal.pt/data.json)
+* [Catálogo do portal da Transparência SNS](https://transparencia.sns.gov.pt/api/v2/catalog/exports/rdf) 
 
 As plataformas mais comuns para partilha de dados abertos (ex. CKAN, DKAN, OpenDataSoft, uDATA, entre outros) já disponibilizam esta informação por defeito, sendo facilmente integráveis com o dados.gov.
 
