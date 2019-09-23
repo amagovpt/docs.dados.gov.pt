@@ -14,9 +14,16 @@ Existem vários casos internacionais de sucesso na área da reutilização de da
 
 Cabe também às entidades que promovem a abertura ou disponibilização de dados garantir que estes sejam disponibilizados de forma livre, não obrigando a nenhum tipo de registo ou pedido de reutilização. Todos os conjuntos de dados em dados.gov são disponibilizados desta forma, e podem ser descarregados por qualquer reutilizador.
 
+## Como reutilizar dados
+
+No âmbito do [Plano Nacional de Administração Aberta](https://ogp.eportugal.gov.pt/) O ISCTE - Instituto Universitário de Lisboa (ICSTE-IUL) criou um conjunto de vídeos tutoriais sobre algumas possibilidades da reutilização de dados, utilizando a ferramenta R.
+
+Os vídeos estão disponíveis na plataforma de aprendizagem do ISCTE em: https://online-learning.iscte-iul.pt/bo/courses/plano-nacional-de-acao-de-administracao-aberta-pt (necessário registo).
+
 ## Promover reutilizações
 
 No dados.gov qualquer cidadão pode também divulgar reutilizações que tenha feito a partir de dados abertos públicos. Para promover reutilizações é necessário criar uma conta no portal, aceder à página de administração e carregar uma reutilização. As reutilizações mais interessantes poderão ser partilhadas na página principal do portal, na secção de destaque.
+
 
 ## Interagir com os fornecedores
 
