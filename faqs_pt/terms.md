@@ -137,7 +137,7 @@ As discussões nos comentários deverão versar sobre o conjunto de dados em que
 
 Ao publicar um comentário, os contribuintes cedem todos os direitos de propriedade intelectual, a título gracioso, para o mundo inteiro.
 
-### Utilização do e-mail dados@ama.pt
+### Utilização do e-mail dados(arroba)ama.pt
 
 Este endereço de correio eletrónico permite contatar a equipa de projeto do dados.gov, para questões relacionadas com o funcionamento geral da plataforma. Não deverá ser utilizado para endereçar questões específicas sobre conjuntos de dados ou fornecedores. Os participantes deverão ser contatados através do sistema de comentários relativo a cada conjunto de dados.
 
