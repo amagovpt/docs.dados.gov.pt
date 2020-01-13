@@ -2,7 +2,7 @@
 
 Dados.gov é o portal nacional de dados abertos da Administração Pública Portuguesa.
 
-É desenvolvido e gerido pela Agência para a Modernização Administrativa, IP (AMA), que prossegue as atribuições da Presidência do Conselho de Ministros nas áreas da modernização e simplificação administrativa e da administração eletrónica, sob superintendência e tutela da Secretária de Estado Adjunta e da Modernização Administrativa A utilização da plataforma dados.gov está subordinada à aceitação dos presentes termos e condições de utilização (TCU).
+É desenvolvido e gerido pela Agência para a Modernização Administrativa, IP (AMA), que prossegue as atribuições da Presidência do Conselho de Ministros nas áreas da modernização e simplificação administrativa e da administração eletrónica. A utilização da plataforma dados.gov está subordinada à aceitação dos presentes termos e condições de utilização (TCU).
 
 Para efeitos destes TCU, considera-se:
 
