@@ -17,7 +17,7 @@ De acordo com o artigo 9º do DL n.º 83/2018, as entidades devem adotar os proc
 1. (2020-09-11). Relatório: [Relatório do Observatório Português da Acessibilidade Web](http://accessmonitor.acessibilidade.gov.pt/amp/results/dados.gov.pt)
     * Ferramenta utilizada: AccessMonitor
     * Amostra: 15 páginas.
-    * Principais resultados (sumário): Foram avaliadas 15 páginas, tendo sido obtida uma avaliação média de 10.
+    * Principais resultados (sumário): Foram avaliadas 15 páginas, tendo sido obtida uma avaliação média de 9.8.
     
 **B. Avaliações manuais levadas a efeito:**
 
