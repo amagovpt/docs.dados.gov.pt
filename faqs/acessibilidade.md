@@ -8,7 +8,7 @@ O sítio Web [dados.gov.pt](http://dados.gov.pt) da AMA - Agência para a Modern
 
 ## II. Elaboração da presente declaração de acessibilidade e usabilidade 
 
-Esta declaração foi atualizada a 2020-09-11.
+Esta declaração foi atualizada a 2020-09-22.
 
 De acordo com o artigo 9º do DL n.º 83/2018, as entidades devem adotar os procedimentos de monitorização a seguir apresentados. Os procedimentos A) e B) são obrigatórios. O procedimento C) é recomendado.
 
@@ -17,21 +17,21 @@ De acordo com o artigo 9º do DL n.º 83/2018, as entidades devem adotar os proc
 1. (2020-09-11). Relatório: [Relatório do Observatório Português da Acessibilidade Web](http://accessmonitor.acessibilidade.gov.pt/amp/results/dados.gov.pt)
     * Ferramenta utilizada: AccessMonitor
     * Amostra: 15 páginas.
-    * Principais resultados (sumário): Foram avaliadas 15 páginas, tendo sido obtida uma avaliação média de 10.
+    * Principais resultados (sumário): Foram avaliadas 15 páginas, tendo sido obtida uma avaliação média de 9.8.
     
 **B. Avaliações manuais levadas a efeito:**
 
-1. (2020-09-11). Relatório: [Recolha de evidências relativa à Checklist 10 Aspetos Funcionais (xlsx; 1,3MB)](https://dados.gov.pt/s/resources/selo-de-usabilidade-e-acessibilidade-do-dados-gov/20200912-121222/20200910-sintese-funcionais-dadosabertos.xlsx)
+1. (2020-09-11). Relatório: [Recolha de evidências relativa à Checklist 10 Aspetos Funcionais (xlsx; 1,1MB)](https://dados.gov.pt/pt/datasets/r/f5a5f624-077b-416d-ab69-faa9975ca122)
     * Amostra: 15 páginas.
-    * Principais resultados (heurísticas satisfeitas/total heurísticas aplicadas): 17/19
+    * Principais resultados (heurísticas satisfeitas/total heurísticas aplicadas): 15/19
     
-2. (2020-09-11). Relatório: [Recolha de evidências relativa à Checklist Transação (xlsx; 379 KB)](https://dados.gov.pt/s/resources/selo-de-usabilidade-e-acessibilidade-do-dados-gov/20200912-121219/20200910-sintese-transacao-dadosabertos.xlsx)
+2. (2020-09-11). Relatório: [Recolha de evidências relativa à Checklist Transação (xlsx; 379 KB)](https://dados.gov.pt/pt/datasets/r/fa93681b-61cb-4a56-8958-26fb9ecec22e)
     * Amostra: 1 páginas.
     * Principais resultados (heurísticas satisfeitas/total heurísticas aplicadas): 8/8
 
-3. (2020-09-11). Relatório: [Recolha de evidências relativa à Checklist Conteúdos (xlsx; 1.6MB)](https://dados.gov.pt/s/resources/selo-de-usabilidade-e-acessibilidade-do-dados-gov/20200912-121223/20200910-sintese-conteudo-dadosabertos.xlsx)
+3. (2020-09-11). Relatório: [Recolha de evidências relativa à Checklist Conteúdos (xlsx; 1.7MB)](https://dados.gov.pt/pt/datasets/r/5d6d2d66-ef5f-4a09-a8bf-80a6ed27c3ff)
     * Amostra: 15 páginas.
-    * Principais resultados (heurísticas satisfeitas/total heurísticas aplicadas): 16/16
+    * Principais resultados (heurísticas satisfeitas/total heurísticas aplicadas): 14/16
     
 **C. Testes de usabilidade com pessoas com deficiência:**
 
