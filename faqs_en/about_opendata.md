@@ -22,7 +22,7 @@ This challenge implies the provision of data in formats which may be read by aut
 
 >A dataset, public or managed by a single agent, and made available for access or download through one or more formats.
 >
->--W3C Data Catalogue Vocabulary (DCAT)
+>--W3C Data Catalogue Vocabulary ([DCAT](https://www.w3.org/TR/vocab-dcat-1/))
 
 Datasets, within the scope of public open data, are sets of data in digital format, focused on a specific topic. A list of addresses of public services, for instance, or the monthly data on management or adjudication practices of a public body.
 
