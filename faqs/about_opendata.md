@@ -23,7 +23,7 @@ Esse desafio passa por disponibilizar os dados em formatos passíveis de serem l
 
 >Um conjunto de dados, publicados ou geridos por um único agente, e disponibilizado para acesso ou download através de um ou mais formatos.
 >
->--W3C Data Catalogue Vocabulary ([DCAT](http://www.w3.org/TR/2014/REC-vocab-dcat-20140116/))
+>--W3C Data Catalogue Vocabulary ([DCAT](https://www.w3.org/TR/vocab-dcat-1/))
 
 Conjuntos de dados, no contexto dos dados abertos públicos, são agrupamentos de dados em formato digital, dedicados a um tema específico. Uma lista de moradas de serviços de atendimento ao público, por exemplo, ou dados mensais sobre práticas de gestão ou contratação de um organismo público.
 
