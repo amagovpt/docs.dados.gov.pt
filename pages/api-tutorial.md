@@ -261,4 +261,4 @@ Uma vez feito, você pode verificar se é eficaz enviando um GET para a URL ante
                 
 
 
-Uma vez feito, você pode verificar se é eficaz enviando um GET para a URL anterior: [exemplos mostrando como usar essa API em Python](https://github.com/opendatalu/udata-examples), bem como a [documentação de referência](/en/docapi).
+Uma vez feito, você pode verificar se é eficaz enviando um GET para a URL anterior: [exemplos mostrando como usar essa API em Python](https://github.com/opendatalu/udata-examples), bem como a [documentação de referência](/pt/docapi).

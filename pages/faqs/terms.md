@@ -86,7 +86,7 @@ A AMA propõe dois tipos de certificação a nível de organizações:
 * Certificação de Serviço Público: identifica os organismos públicos;
 * Certificação de autenticidade de organização: certifica a validade de contas associadas a empresas, organizações não-governamentais, ou outras.
 
-Para pedidos de certificação, enviar e-mail para: dados@ama.pt.
+Para pedidos de certificação, enviar [e-mail](mailto:dados@ama.pt).
 
 A certificação garante aos utilizadores que os dados disponibilizados foram carregados por um participante do organismo respetivo. Possibilita também que os dados de organizações certificadas atinjam melhores resultados no funcionamento do motor de pesquisa. 
 
