@@ -1,8 +1,8 @@
 # Termos e condições de utilização
 
-Dados.gov é o portal nacional de dados abertos da Administração Pública Portuguesa.
+O dados.gov.pt é o portal nacional de dados abertos da Administração Pública Portuguesa.
 
-É desenvolvido e gerido pela Agência para a Modernização Administrativa, IP (AMA), que prossegue as atribuições da Presidência do Conselho de Ministros nas áreas da modernização e simplificação administrativa e da administração eletrónica. A utilização da plataforma dados.gov está subordinada à aceitação dos presentes termos e condições de utilização (TCU).
+É desenvolvido e gerido pela Agência para a Modernização Administrativa, IP (AMA), que prossegue as atribuições da Presidência do Conselho de Ministros nas áreas da modernização e simplificação administrativa e da administração eletrónica. A utilização da plataforma dados.gov.pt está subordinada à aceitação dos presentes termos e condições de utilização (TCU).
 
 Para efeitos destes TCU, considera-se:
 
@@ -10,7 +10,7 @@ Para efeitos destes TCU, considera-se:
 
 **Órgãos da Administração Pública**: as entidades integradas na Ad. Pública conforme definido no artigo 2.º do Código do Procedimento Administrativo
 
-**Fornecedores**: entidades ou indivíduos que disponibilizam dados através do dados.gov (nota, todos os fornecedores são participantes, mas nem todos os participantes são fornecedores).
+**Fornecedores**: entidades ou indivíduos que disponibilizam dados através do dados.gov.pt (nota, todos os fornecedores são participantes, mas nem todos os participantes são fornecedores).
 
 **Dados Abertos**: dados que podem ser livremente utilizados, reutilizados e redistribuídos por qualquer um.
 
@@ -22,7 +22,7 @@ Para efeitos destes TCU, considera-se:
 
 **Conjunto de dados**: agrupamento de dados abertos sobre um tema específico, organizados e disponibilizados sobre a forma de recursos e/ou serviços de informação (ficheiros de dados, documentação, API, serviços em linha, outros) e de meta-informação (dados relativos a data de criação, modificação, periodicidade, palavras-chave, outros).
 
-**Participantes**: qualquer pessoa registada no dados.gov, com o intuito de disponibilizar conjuntos de dados de interesse público, no sentido de:
+**Participantes**: qualquer pessoa registada no dados.gov.pt, com o intuito de disponibilizar conjuntos de dados de interesse público, no sentido de:
 * Assegurar a disponibilização de informação de qualidade aos cidadãos, nomeadamente em questões económicas, sociais ou ambientais;
 * Permitir o escrutínio das políticas públicas;
 * Promover para o desenvolvimento económico;
@@ -34,11 +34,11 @@ Ou apenas com registo efetuado para participar em discussões, trocar comentári
 
 **Reutilização**: utilização de dados abertos, por uma pessoa singular ou coletiva, para partilha, fins ou disponibilização diversa da intencionada pelos detentores originais da informação.
 
-**Utilizador**: qualquer pessoa, registada ou não, que aceda ao dados.gov para consultar informação, aceder a dados ou contribuir com conteúdos.
+**Utilizador**: qualquer pessoa, registada ou não, que aceda ao dados.gov.pt para consultar informação, aceder a dados ou contribuir com conteúdos.
 
 ## Objeto
 
-O dados.gov permite:
+O dados gov permite:
 * A publicação de dados de interesse público por organismos públicos e todos os outros Participantes;
 * A consulta ou o descarregamento de dados por qualquer Utilizador;
 * Discussões sobre conjuntos específicos de dados;
@@ -47,19 +47,19 @@ O dados.gov permite:
 
 ## Funcionalidades
 
-A utilização do dados.gov é livre e gratuita.
+A utilização do dados gov é livre e gratuita.
 
 ### Consultar e descarregar dados abertos
 
-A consulta e descarregamento dos dados disponibilizados em dados.gov não necessita de nenhum tipo de inscrição ou registo prévio.
+A consulta e descarregamento dos dados disponibilizados em dados.gov.pt não necessita de nenhum tipo de inscrição ou registo prévio.
 
-### Registo no dados.gov e acesso a funcionalidades específicas
+### Registo no dados gov e acesso a funcionalidades específicas
 
-Qualquer pessoa, singular ou coletiva, pública ou privada, pode contribuir para o dados.gov, publicando conjuntos de dados, reutilização, conteúdos, recursos e comentários relativos a conjuntos de dados.
+Qualquer pessoa, singular ou coletiva, pública ou privada, pode contribuir para o dados.gov.pt, publicando conjuntos de dados, reutilização, conteúdos, recursos e comentários relativos a conjuntos de dados.
 
-Para este efeito, o utilizador terá de registar-se / autenticar-se no dados.gov. Este registo pertence a um utilizador individual, e não a uma organização ou pessoa coletiva. 
+Para este efeito, o utilizador terá de registar-se / autenticar-se no dados.gov.pt. Este registo pertence a um utilizador individual, e não a uma organização ou pessoa coletiva. 
 
-Ao registar-se, o utilizador cria um perfil em dados.gov. Para mais pormenores, consultar o ponto relativo a “Proteção de dados”.
+Ao registar-se, o utilizador cria um perfil em dados.gov.pt. Para mais pormenores, consultar o ponto relativo a “Proteção de dados”.
 Depois de validado este registo, passam a estar disponíveis várias funcionalidades.
 
 O participante dispõe de funcionalidades “comunitárias”, tais como:
@@ -69,11 +69,11 @@ O participante dispõe de funcionalidades “comunitárias”, tais como:
 * Publicar uma reutilização, seja sobre a forma de uma ligação web ou um formato de apresentação;
 * Iniciar discussões e publicar comentários, para assinalar problemas ou fazer sugestões, por exemplo.
 
-O participante tem também a possibilidade de partilhar ou integrar conteúdos com outros sítios web, e pode também contribuir para a manutenção da qualidade do dados.gov, ajudando, por exemplo, a sinalizar conteúdos que não estejam em conformidade com os TCU.
+O participante tem também a possibilidade de partilhar ou integrar conteúdos com outros sítios web, e pode também contribuir para a manutenção da qualidade do dados gov, ajudando, por exemplo, a sinalizar conteúdos que não estejam em conformidade com os TCU.
 
 ### Funcionalidades relacionadas com organizações
 
-Os participantes podem criar ou registar-se em organizações, as quais podem ser formais ou informais. As organizações são criadas e geridas no dados.gov por um, ou mais, administrador(es).
+Os participantes podem criar ou registar-se em organizações, as quais podem ser formais ou informais. As organizações são criadas e geridas no dados.gov.pt por um, ou mais, administrador(es).
 
 As organizações poderão:
 * Publicar conjuntos de dados;
@@ -98,24 +98,24 @@ Em caso de incumprimento destes termos e condições de utilização, a AMA rese
 
 #### Regras gerais
 
-O dados.gov disponibiliza dados e informação pública ou de interesse público, carregados ou referenciados por Participantes, passando a estar disponíveis por descarregamento, disponibilização de ligação externa (link) ou através de uma API.
+O dados gov disponibiliza dados e informação pública ou de interesse público, carregados ou referenciados por Participantes, passando a estar disponíveis por descarregamento, disponibilização de ligação externa (link) ou através de uma API.
 
-O dados.gov não está vocacionado para:
+O dados gov não está vocacionado para:
 * Difusão de dados publicitários;
 * Promoção de interesses privados;
 * Atividades ilícitas.
 
-Em caso de deteção de qualquer tipo de situação anómala, a AMA poderá, sem necessidade de pré-aviso, suspender ou remover o acesso a quaisquer conjuntos de dados que tenham sido carregados no dados.gov.
+Em caso de deteção de qualquer tipo de situação anómala, a AMA poderá, sem necessidade de pré-aviso, suspender ou remover o acesso a quaisquer conjuntos de dados que tenham sido carregados no dados.gov.pt.
 
 Os participantes que publiquem conjuntos de dados deverão manter atualizada a página dedicada a cada conjunto e promover a interação com a comunidade de utilizadores. Para o efeito, serão notificados, por e-mail, caso existam novas contribuições relativas a esse conjunto de dados (discussões, comentários, alertas, carregamento de recursos adicionais ou reutilizações).
 
-Os participantes são os únicos responsáveis pelos dados, metadados, e conteúdos que carregam no dados.gov.
+Os participantes são os únicos responsáveis pelos dados, metadados, e conteúdos que carregam no dados.gov.pt.
 
 #### Dados de caráter pessoal 
 
-Os conjuntos de dados que contenham informação de caráter pessoal, ou que possibilitem a identificação de pessoas físicas, não poderão ser publicados no dados.gov , exceto se existir um consentimento expresso das pessoas identificadas, ou uma disposição legal que permita a publicação desses dados.
+Os conjuntos de dados que contenham informação de caráter pessoal, ou que possibilitem a identificação de pessoas físicas, não poderão ser publicados no dados.gov.pt , exceto se existir um consentimento expresso das pessoas identificadas, ou uma disposição legal que permita a publicação desses dados.
 
-O Participante é responsável pelos conjuntos de dados que publica no dados.gov, e deve assegurar-se que essa publicação está conforme a legislação em vigor. Caso existam dados pessoais num determinado conjunto de dados, a AMA aconselha a que o facto seja referido na documentação do respetivo conjunto, e que sejam mencionadas – caso existam – quaisquer restrições jurídicas à sua reutilização.
+O Participante é responsável pelos conjuntos de dados que publica no dados.gov.pt, e deve assegurar-se que essa publicação está conforme a legislação em vigor. Caso existam dados pessoais num determinado conjunto de dados, a AMA aconselha a que o facto seja referido na documentação do respetivo conjunto, e que sejam mencionadas – caso existam – quaisquer restrições jurídicas à sua reutilização.
 
 O Reutilizador desses dados deverá também respeitar a legislação relativa à proteção de dados pessoais em vigor no seu território de residência, e respeitar todas as estipulações relativas à licença que se aplica a esses dados.
 
@@ -125,7 +125,7 @@ Sempre que um organismo público ou um participante publique um conjunto de dado
 
 #### Licenças 
 
-Todos os dados carregados por organismos do estado são publicados ao abrigo de uma licença Creative Commons CC BY 4.0, exceto se houver uma especificação em contrário. (mais informações em [Licenças](/docs/licenses/)) 
+Todos os dados carregados por organismos do estado são publicados ao abrigo de uma licença Creative Commons CC BY 4.0, exceto se houver uma especificação em contrário. (mais informações em [Licenças](/pages/faqs/licenses/)) 
 
 Os outros participantes poderão publicar ao abrigo de outras licenças abertas, disponibilizadas pela plataforma.
 
@@ -139,7 +139,7 @@ Ao publicar um comentário, os contribuintes cedem todos os direitos de propried
 
 ### Utilização do e-mail dados(arroba)ama.pt
 
-Este endereço de correio eletrónico permite contatar a equipa de projeto do dados.gov, para questões relacionadas com o funcionamento geral da plataforma. Não deverá ser utilizado para endereçar questões específicas sobre conjuntos de dados ou fornecedores. Os participantes deverão ser contatados através do sistema de comentários relativo a cada conjunto de dados.
+Este endereço de correio eletrónico permite contatar a equipa de projeto do dados gov, para questões relacionadas com o funcionamento geral da plataforma. Não deverá ser utilizado para endereçar questões específicas sobre conjuntos de dados ou fornecedores. Os participantes deverão ser contatados através do sistema de comentários relativo a cada conjunto de dados.
 
 ## Deveres e responsabilidades da AMA
 
@@ -151,13 +151,13 @@ A AMA oferece a possibilidade de contribuir a aceder à plataforma através de u
 
 A AMA deverá garantir as melhores condições para preservar a integridade e disponibilização dos conjuntos de dados. Reserva-se também a possibilidade de alterar ou acrescentar a metainformação associada a conjuntos de dados, quando considerar que essa alteração é benéfica para o utilizador.
 
-A AMA reserva-se a liberdade de evoluir, modificar ou suspender, sem pré-aviso, o dados.gov por motivos de manutenção ou outra razão que considere necessária. A indisponibilidade da plataforma não dá direito a nenhuma indemnização.
+A AMA reserva-se a liberdade de evoluir, modificar ou suspender, sem pré-aviso, o dados gov por motivos de manutenção ou outra razão que considere necessária. A indisponibilidade da plataforma não dá direito a nenhuma indemnização.
 
 ### Responsabilidades da AMA
 
 A AMA tem a responsabilidade de produção e gestão de conteúdo da plataforma.
 
-A AMA não efetua um controlo *a priori* das publicações efetuadas pelos organismos públicos ou os participantes do dados.gov. Sempre que forem detetadas situações irregulares ou em não-conformidade com estes TCU, a AMA agirá rapidamente para remover esses dados ou tornar impossível o seu acesso. Para este efeito, os utilizadores da plataforma também poderão sinalizar conteúdos que considerem problemáticos, sendo que caberá a AMA a decisão final sobre a necessidade, ou não, de intervenção.
+A AMA não efetua um controlo *a priori* das publicações efetuadas pelos organismos públicos ou os participantes do dados.gov.pt. Sempre que forem detetadas situações irregulares ou em não-conformidade com estes TCU, a AMA agirá rapidamente para remover esses dados ou tornar impossível o seu acesso. Para este efeito, os utilizadores da plataforma também poderão sinalizar conteúdos que considerem problemáticos, sendo que caberá a AMA a decisão final sobre a necessidade, ou não, de intervenção.
 
 ### Transparência na forma de apresentação dos conteúdos
 
@@ -171,7 +171,7 @@ Os conteúdos criados pela AMA são publicados ao abrigo da licença CC BY 4.0, 
 
 ### Utilização da plataforma uDdata
 
-O dados.gov utiliza a plataforma livre de dados abertos – uData – criada pelo Etalab da Administração Pública francesa. O código fonte da plataforma está disponível aqui - https://github.com/opendatateam/udata.
+O dados.gov.pt utiliza a plataforma livre de dados abertos – uData – criada pelo Etalab da Administração Pública francesa. O código fonte da plataforma está disponível aqui - https://github.com/opendatateam/udata.
 
 ### Alteração e evolução dos termos e condições de utilização
 
