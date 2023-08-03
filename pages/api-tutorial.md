@@ -9,7 +9,7 @@ datasets:
 API Tutorial
 ======================
 
-Esta página descreve o comportamento da API do dados.gov.
+Esta página descreve o comportamento da API do dados.gov.pt.
 
 Autenticação
 ----------------

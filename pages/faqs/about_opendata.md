@@ -10,7 +10,7 @@ O movimento dos dados abertos, que é parte integral das políticas dedicadas ao
 
 A enorme quantidade de dados que é gerada e centralizada pela Administração Pública congrega em si um enorme potencial de utilização e de desenvolvimentos que podem ser úteis e importantes tanto para o Estado como para a sociedade civil e mundo empresarial. 
 
-A grande maioria desses dados já são, por lei, considerados públicos. O grande desafio (e a maior preocupação das iniciativas de dados abertos como o **dados.gov**) passa por facilitar o seu acesso e reutilização, beneficiando vários grupos e sectores da sociedade:
+A grande maioria desses dados já são, por lei, considerados públicos. O grande desafio (e a maior preocupação das iniciativas de dados abertos como o **dados gov**) passa por facilitar o seu acesso e reutilização, beneficiando vários grupos e sectores da sociedade:
 
 * os **cidadãos**, que passam a ter um acesso mais imediato a informação que lhes pertence por direito, reforçando a visão de transparência e prestação de contas do Estado perante os eleitores;
 *	as **instituições governamentais**, que se tornam mais transparentes e têm a oportunidade de se tornarem mais eficientes e eficazes, reforçando também o seu papel de serviço público e o próprio acesso a dados de outros organismos;

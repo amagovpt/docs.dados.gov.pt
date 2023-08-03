@@ -1,6 +1,6 @@
 # Reutilizar Dados
 
-**[Para informação técnica sobre acessos automatizados aos conjuntos de dados e outras funcionalidades do portal, visite a página da API](/apidoc/).**
+**[Para informação técnica sobre acessos automatizados aos conjuntos de dados e outras funcionalidades do portal, visite a página da API](/docapi/).**
 
 As principais funções de um portal de dados abertos são facilitar e promover a reutilização dos dados, ao abrigo de licenças abertas, o que significa que qualquer cidadão, empresa ou organização pode utilizar os dados para fins comerciais ou não-comerciais.
 
@@ -12,7 +12,7 @@ Existem vários casos internacionais de sucesso na área da reutilização de da
 
 [_be walking be.brussels_](https://play.google.com/store/apps/details?id=be.tragewegen.brussels) - Aplicação que sugere e ajuda a planear passeios pedestres por Bruxelas.
 
-Cabe também às entidades que promovem a abertura ou disponibilização de dados garantir que estes sejam disponibilizados de forma livre, não obrigando a nenhum tipo de registo ou pedido de reutilização. Todos os conjuntos de dados em dados.gov são disponibilizados desta forma, e podem ser descarregados por qualquer reutilizador.
+Cabe também às entidades que promovem a abertura ou disponibilização de dados garantir que estes sejam disponibilizados de forma livre, não obrigando a nenhum tipo de registo ou pedido de reutilização. Todos os conjuntos de dados em dados.gov.pt são disponibilizados desta forma, e podem ser descarregados por qualquer reutilizador.
 
 ## Como reutilizar dados
 
@@ -22,12 +22,12 @@ Os vídeos estão disponíveis na plataforma de aprendizagem do ISCTE em: [https
 
 ## Promover reutilizações
 
-No dados.gov qualquer cidadão pode também divulgar reutilizações que tenha feito a partir de dados abertos públicos. Para promover reutilizações é necessário criar uma conta no portal, aceder à página de administração e carregar uma reutilização. As reutilizações mais interessantes poderão ser partilhadas na página principal do portal, na secção de destaque.
+No dados gov qualquer cidadão pode também divulgar reutilizações que tenha feito a partir de dados abertos públicos. Para promover reutilizações é necessário criar uma conta no portal, aceder à página de administração e carregar uma reutilização. As reutilizações mais interessantes poderão ser partilhadas na página principal do portal, na secção de destaque.
 
 
 ## Interagir com os fornecedores
 
-Para que o ecossistema dos dados abertos possa crescer de modo a beneficiar todas as partes interessadas, é importante que seja possível a interação entre quem disponibiliza dados e quem os reutiliza. Eventos ou outros tipos de encontros presenciais terão um papel importante a desempenhar, mas existem várias funcionalidades no dados.gov que poderão ser utilizadas para o mesmo efeito.
+Para que o ecossistema dos dados abertos possa crescer de modo a beneficiar todas as partes interessadas, é importante que seja possível a interação entre quem disponibiliza dados e quem os reutiliza. Eventos ou outros tipos de encontros presenciais terão um papel importante a desempenhar, mas existem várias funcionalidades no dados gov que poderão ser utilizadas para o mesmo efeito.
 
 Em cada página de um conjunto de dados é possível deixar comentários ou criar tópicos de discussão que deverão ser acompanhados pelo fornecedor responsável. Também é possível promover reutilizações de dados que usem esses recursos, dando visibilidade a casos de reutilização e assinalando também que os dados estão a ser utilizados, o que reforça ainda mais a importância de os manter atualizados.
 
