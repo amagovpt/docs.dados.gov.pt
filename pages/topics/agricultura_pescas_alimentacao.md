@@ -5,7 +5,7 @@ description: Informação de dados e outros recursos relacionados com o sector d
 reuses:
 datasets:
 ---
-# Agricultura, Pescas, Alimentação
+# Agricultura, Pescas e Alimentação
 
 Informação de dados e outros recursos relacionados com o sector da Agricultura, Pescas, Alimentação.
 
