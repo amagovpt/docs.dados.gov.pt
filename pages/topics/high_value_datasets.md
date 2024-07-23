@@ -9,4 +9,4 @@ datasets:
 
 Informação de dados e outros recursos relacionados com Dados de Elevado Valor (High Value Datasets).
 
-⚠️ * Página em construção, esperamos ser breves.
+![Exemplo](https://raw.githubusercontent.com/amagovpt/docs.dados.gov.pt/master/img/em_construcao.jpg)
