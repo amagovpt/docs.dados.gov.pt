@@ -36,13 +36,21 @@ Esta página apresenta os principais conjuntos de dados relativos à categoria "
 
 # Pesca
 [**Locais de pesca profissional em águas livres**](https://dados.gov.pt/pt/datasets/locais-de-pesca-profissional-em-aguas-livres/)
+
 [**PGRH Alentejo - RH6 - Relatório Técnico Específico - Carta de pressões biológicas - infra-estruturas portuárias e zonas autorizadas à pesca profissional**](https://dados.gov.pt/pt/datasets/pgrh-alentejo-rh6-relatorio-tecnico-especifico-carta-de-pressoes-biologicas-infra-estruturas-portuarias-e-zonas-autorizadas-a-pesca-profissional/)
+
 [**PGRH Alentejo - RH6 - Parte 2 - Tomo 5B - Carta de pressões biológicas - infra-estruturas portuárias e zonas autorizadas à pesca profissional**](https://dados.gov.pt/pt/datasets/pgrh-alentejo-rh6-parte-2-tomo-5b-carta-de-pressoes-biologicas-infra-estruturas-portuarias-e-zonas-autorizadas-a-pesca-profissional/)
+
 [**PGRH Alentejo - RH7 - Parte 2 - Carta de pressões biológicas - infra-estruturas portuárias e zonas autorizadas à pesca profissional**](https://dados.gov.pt/pt/datasets/pgrh-alentejo-rh7-parte-2-carta-de-pressoes-biologicas-infra-estruturas-portuarias-e-zonas-autorizadas-a-pesca-profissional/)
+
 [**PGRH Alentejo - RH7 - Relatório Técnico Específico – Carta de pressões biológicas - infra-estruturas portuárias e zonas autorizadas à pesca profissional**](https://dados.gov.pt/pt/datasets/pgrh-alentejo-rh7-relatorio-tecnico-especifico-carta-de-pressoes-biologicas-infra-estruturas-portuarias-e-zonas-autorizadas-a-pesca-profissional/)
+
 [**PGRH Algarve - RH8 - Distribuição dos pescadores matriculados e das embarcações de pesca por concelho (2008), com indicação das aquaculturas marinhas em exploração**](https://dados.gov.pt/pt/datasets/pgrh-algarve-rh8-distribuicao-dos-pescadores-matriculados-e-das-embarcacoes-de-pesca-por-concelho-2008-com-indicacao-das-aquaculturas-marinhas-em-exploracao/)
+
 [**RH1 - Mapa 14. Aquicultura e Pescas**](https://dados.gov.pt/pt/datasets/rh1-mapa-14-aquicultura-e-pescas/)
+
 [**RH2 - Mapa 014. Aquicultura e Pescas**](https://dados.gov.pt/pt/datasets/rh2-mapa-014-aquicultura-e-pescas/)
+
 [**RH3 - Mapa 014. Aquicultura e Pescas**](https://dados.gov.pt/pt/datasets/rh3-mapa-014-aquicultura-e-pescas/)
 [**RH4 - Setor da Pesca, da Aquicultura e dos Portos**](https://dados.gov.pt/pt/datasets/rh4-setor-da-pesca-da-aquicultura-e-dos-portos/)
 [**Zonas de Pesca Ordenada**](https://dados.gov.pt/pt/datasets/zonas-de-pesca-ordenada/)
