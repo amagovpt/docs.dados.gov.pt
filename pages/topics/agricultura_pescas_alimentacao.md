@@ -11,7 +11,7 @@ Esta página apresenta os principais conjuntos de dados relativos à categoria "
 
 # Agricultura
 
-**Necessidades de Água por Concelho**: Análise das necessidades de água para a agricultura em diferentes concelhos, essencial para a gestão eficiente dos recursos hídricos e a adaptação às variabilidades climáticas regionais.
+**Necessidades de Água por Concelho**: Os dados disponibilizados pela Agência Portuguesa do Ambiente apresentam a análise das necessidades de água para a agricultura em diferentes concelhos, essencial para a gestão eficiente dos recursos hídricos e a adaptação às variabilidades climáticas regionais.
 
 •	[**PGRH Alentejo - RH6 - Parte 2 - Tomo 3B - Necessidades de água por concelho da RH6 – Agricultura**](https://dados.gov.pt/pt/datasets/pgrh-alentejo-rh6-parte-2-tomo-3b-necessidades-de-agua-por-concelho-da-rh6-agricultura/)
 
@@ -21,7 +21,7 @@ Esta página apresenta os principais conjuntos de dados relativos à categoria "
 
 •	[**Plano da Bacia Hidrográfica do Tejo - Anexo Temático 6A - Parte II - Consumos de Água na Agricultura**](https://dados.gov.pt/pt/datasets/plano-da-bacia-hidrografica-do-tejo-anexo-tematico-6a-parte-ii-consumos-de-agua-na-agricultura/)
 
-**Cargas Difusas da Agricultura**:Avaliação das cargas difusas de nutrientes (nitrogénio e fósforo) provenientes da agricultura, crucial para monitorar e mitigar a poluição hídrica e proteger a qualidade da água.
+**Cargas Difusas da Agricultura**: Avaliação das cargas difusas de nutrientes (nitrogénio e fósforo) provenientes da agricultura, crucial para monitorizar e mitigar a poluição hídrica e proteger a qualidade da água - disponibilizado pela Agência Portuguesa do Ambiente.
 
 •	[**RH1 - Mapa 43. Cargas difusas específicas provenientes da agricultura (N total)**]( https://dados.gov.pt/pt/datasets/rh1-mapa-43-cargas-difusas-especificas-provenientes-da-agricultura-n-total/)
 
@@ -40,7 +40,7 @@ Esta página apresenta os principais conjuntos de dados relativos à categoria "
 
 # Pesca
 
-**Locais e Infraestruturas de Pesca**: Informação sobre a localização e infraestrutura das zonas de pesca profissional, fornecendo uma visão clara das áreas de atividade pesqueira e das pressões biológicas associadas.
+**Locais e Infraestruturas de Pesca**: Informação sobre a localização e infraestrutura das zonas de pesca profissional, fornecendo uma visão clara das áreas de atividade pesqueira e das pressões biológicas associadas - datasets disponibilizados pela Agência Portuguesa do Ambiente e pelo Instituto da Conservação da Natureza e das Florestas.
 
 •	[**Locais de pesca profissional em águas livres**](https://dados.gov.pt/pt/datasets/locais-de-pesca-profissional-em-aguas-livres/)
 
@@ -52,11 +52,11 @@ Esta página apresenta os principais conjuntos de dados relativos à categoria "
 
 •	[**PGRH Alentejo - RH7 - Relatório Técnico Específico – Carta de pressões biológicas - infra-estruturas portuárias e zonas autorizadas à pesca profissional**](https://dados.gov.pt/pt/datasets/pgrh-alentejo-rh7-relatorio-tecnico-especifico-carta-de-pressoes-biologicas-infra-estruturas-portuarias-e-zonas-autorizadas-a-pesca-profissional/)
 
-**Distribuição de Pescadores e Embarcações**: Distribuição de pescadores e embarcações de pesca por concelho, incluindo detalhes sobre aquaculturas marinhas, essencial para a gestão e planejamento das atividades pesqueiras e aquiculturais.
+**Distribuição de Pescadores e Embarcações**: Dados disponibilizados pela Agência Portuguesa do Ambiente, relativamente à distribuição de pescadores e embarcações de pesca por concelho, incluindo detalhes sobre aquaculturas marinhas, essencial para a gestão e planeamento das atividades pesqueiras e aquiculturais.
 
 •	[**PGRH Algarve - RH8 - Distribuição dos pescadores matriculados e das embarcações de pesca por concelho (2008), com indicação das aquaculturas marinhas em exploração**](https://dados.gov.pt/pt/datasets/pgrh-algarve-rh8-distribuicao-dos-pescadores-matriculados-e-das-embarcacoes-de-pesca-por-concelho-2008-com-indicacao-das-aquaculturas-marinhas-em-exploracao/)
 
-**Aquicultura e Pesca**: Dados sobre a prática de aquicultura e pesca, oferecendo uma visão geral das atividades e sua distribuição geográfica, importante para entender as dinâmicas do setor pesqueiro.
+**Aquicultura e Pesca**: Dados sobre a prática de aquicultura e pesca, oferecendo uma visão geral das atividades e sua distribuição geográfica, importante para entender as dinâmicas do setor pesqueiro - disponibilizados pela Agência Portuguesa do Ambiente.
 
 •	[**RH1 - Mapa 14. Aquicultura e Pescas**](https://dados.gov.pt/pt/datasets/rh1-mapa-14-aquicultura-e-pescas/)
 
@@ -66,6 +66,6 @@ Esta página apresenta os principais conjuntos de dados relativos à categoria "
 
 •	[**RH4 - Setor da Pesca, da Aquicultura e dos Portos**](https://dados.gov.pt/pt/datasets/rh4-setor-da-pesca-da-aquicultura-e-dos-portos/)
 
-**Zonas de Pesca Ordenada**: Informação sobre as áreas regulamentadas para a pesca, destinada a assegurar uma exploração sustentável e ordenada dos recursos pesqueiros.
+**Zonas de Pesca Ordenada**: Informação sobre as áreas regulamentadas para a pesca, destinada a assegurar uma exploração sustentável e ordenada dos recursos de pesca - disponibilizada pelo Instituto da Conservação da Natureza e das Florestas.
 
 •	[**Zonas de Pesca Ordenada**](https://dados.gov.pt/pt/datasets/zonas-de-pesca-ordenada/)

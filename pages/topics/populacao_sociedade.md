@@ -10,7 +10,7 @@ datasets:
 Informação de dados e outros recursos relacionados com o sector da População e Sociedade.
 
 # População 
-**Dinâmica Populacional**: Conjunto de dados abrangendo a população ativa e residente de diferentes períodos, crucial para entender as mudanças demográficas e o potencial de renovação da força de trabalho.
+**Dinâmica Populacional**: Conjunto de dados abrangendo a população ativa e residente de diferentes períodos, crucial para entender as mudanças demográficas e o potencial de renovação da força de trabalho - disponibilizado pelo Instituto Nacional de Estatística.
 
 •	[**População Ativa (Série 2021 - N.º)**](https://dados.gov.pt/pt/datasets/populacao-ativa-serie-2021-n-o-1/)
 
@@ -22,7 +22,7 @@ Informação de dados e outros recursos relacionados com o sector da População
 
 •	[**População Residente (N.º)**](https://dados.gov.pt/pt/datasets/populacao-residente-n-o-11/)
 
-**Segurança Social**: Informações sobre o valor médio das pensões, a proporção entre as licenças parentais e o número de pensionistas, essenciais para análises socioeconômicas e de bem-estar.
+**Segurança Social**: Informações sobre o valor médio das pensões, a proporção entre as licenças parentais e o número de pensionistas, essenciais para análises socioeconómicas e de bem-estar - disponibilizado pelo Instituto Nacional de Estatística.
 
 •	[**Valor Médio das Pensões da Segurança Social (€/N.º)**](https://dados.gov.pt/pt/datasets/valor-medio-das-pensoes-da-seguranca-social-eur-n-o-2/)
 
