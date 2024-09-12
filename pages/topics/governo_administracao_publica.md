@@ -10,7 +10,7 @@ datasets:
 Informação de dados e outros recursos relacionados com o sector do Governo e Administração Pública.
 
 # Governo
-**Recursos Governamentais Online**: Dados disponibilizadoe pelo Arquivo.pt, que fornecem acesso a websites governamentais e ao histórico de versões arquivadas, promovendo a transparência e o acesso à informação.
+**Recursos Governamentais Online**: Dados disponibilizados pelo Arquivo.pt, que fornecem acesso a websites governamentais e ao histórico de versões arquivadas, promovendo a transparência e o acesso à informação.
 
 •	[**Websites do Governo Regional dos Açores e histórico de versões no Arquivo.pt**](https://dados.gov.pt/pt/datasets/websites-do-governo-regional-dos-acores-e-historico-de-versoes-no-arquivo-pt/)
 

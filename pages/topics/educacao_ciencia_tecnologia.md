@@ -9,13 +9,13 @@ datasets:
 
 Informação de dados e outros recursos relacionados com o sector da Educação, Ciência e Tecnologia.
 
-**Situação dos Jovens e Abandono Escolar**: Estes datasets, disponibilizados pelo Instituto Nacional de Estatística, fornecem dados sobre a situação dos jovens relativamente à sua inserção no mercado de trabalho, educação ou formação, bem como informações sobre a taxa de abandono escolar precoce em Portugal.
+**Situação dos Jovens e Abandono Escolar**: Estes conjuntos de dados, disponibilizados pelo Instituto Nacional de Estatística, fornecem dados sobre a situação dos jovens relativamente à sua inserção no mercado de trabalho, educação ou formação, bem como informações sobre a taxa de abandono escolar precoce em Portugal.
 
 •	[**Jovens com idade entre 16 e 34 anos não empregados que não estão em educação ou formação (Série 2021 - N.º)**](https://dados.gov.pt/pt/datasets/jovens-com-idade-entre-16-e-34-anos-nao-empregados-que-nao-estao-em-educacao-ou-formacao-serie-2021-n-o-1/)
 
 •	[**Taxa de abandono precoce de educação e formação (Série 2021 - %)**](https://dados.gov.pt/pt/datasets/taxa-de-abandono-precoce-de-educacao-e-formacao-serie-2021-1/)
 
-•	[**Taxa de abandono precoce de educação e formação (Série 2021 - %)**](https://dados.gov.pt/pt/datasets/taxa-de-abandono-precoce-de-educacao-e-formacao-serie-2021/)
+
 
 **Indicadores Educacionais**: Conjunto de dados que oferece uma visão abrangente dos indicadores educacionais em Portugal, incluindo estatísticas sobre o corpo docente e não docente e dados gerais sobre o sistema educativo - disponibilizado pela Direção-Geral de Estatísticas da Educação e Ciência - DGEEC.
 

@@ -5,7 +5,7 @@ description: Conjuntos de dados e outros recursos relacionados com o sector da S
 reuses:
 datasets:
 ---
-# Sáude
+# Saúde
 
 Conjuntos de dados e outros recursos relacionados com o sector da Saúde.
 
@@ -35,4 +35,3 @@ Conjuntos de dados e outros recursos relacionados com o sector da Saúde.
 
 •	[**Saúde da Mulher e Criança**](https://dados.gov.pt/pt/datasets/saude-da-mulher-e-crianca-1/)
 
-•	[**Saúde da Mulher e Criança**](https://dados.gov.pt/pt/datasets/saude-da-mulher-e-crianca/)

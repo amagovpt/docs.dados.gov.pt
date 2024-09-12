@@ -19,7 +19,7 @@ Esta página apresenta os principais conjuntos de dados relativos à categoria "
 
 •	[**Plano da Bacia Hidrográfica do Tejo - Anexo Temático 6A - Parte II - Consumos de Água na Agricultura**](https://dados.gov.pt/pt/datasets/plano-da-bacia-hidrografica-do-tejo-anexo-tematico-6a-parte-ii-consumos-de-agua-na-agricultura/)
 
-•	[**Plano da Bacia Hidrográfica do Tejo - Anexo Temático 6A - Parte II - Consumos de Água na Agricultura**](https://dados.gov.pt/pt/datasets/plano-da-bacia-hidrografica-do-tejo-anexo-tematico-6a-parte-ii-consumos-de-agua-na-agricultura/)
+
 
 **Cargas Difusas da Agricultura**: Avaliação das cargas difusas de nutrientes (nitrogénio e fósforo) provenientes da agricultura, crucial para monitorizar e mitigar a poluição hídrica e proteger a qualidade da água - disponibilizado pela Agência Portuguesa do Ambiente.
 
@@ -40,7 +40,7 @@ Esta página apresenta os principais conjuntos de dados relativos à categoria "
 
 # Pesca
 
-**Locais e Infraestruturas de Pesca**: Informação sobre a localização e infraestrutura das zonas de pesca profissional, fornecendo uma visão clara das áreas de atividade pesqueira e das pressões biológicas associadas - datasets disponibilizados pela Agência Portuguesa do Ambiente e pelo Instituto da Conservação da Natureza e das Florestas.
+**Locais e Infraestruturas de Pesca**: Informação sobre a localização e infraestrutura das zonas de pesca profissional, fornecendo uma visão clara das áreas de atividade pesqueira e das pressões biológicas associadas - conjunto de dados disponibilizados pela Agência Portuguesa do Ambiente e pelo Instituto da Conservação da Natureza e das Florestas.
 
 •	[**Locais de pesca profissional em águas livres**](https://dados.gov.pt/pt/datasets/locais-de-pesca-profissional-em-aguas-livres/)
 

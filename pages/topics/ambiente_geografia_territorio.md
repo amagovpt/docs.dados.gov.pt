@@ -23,7 +23,7 @@ Esta página apresenta os principais conjuntos de dados relativos à categoria "
 
 •	[**Rede Nacional de Alerta de Radioatividade no Ambiente (RADNET)**](https://dados.gov.pt/pt/datasets/rede-nacional-de-alerta-de-radioatividade-no-ambiente-radnet/)
 
-•	[**Rede Nacional de Alerta de Radioatividade no Ambiente (RADNET)**](https://dados.gov.pt/pt/datasets/rede-nacional-de-alerta-de-radioatividade-no-ambiente-radnet-1/)
+
 
 •	[**Atlas do Ambiente**](https://dados.gov.pt/pt/datasets/atlas-do-ambiente/)
 
@@ -59,5 +59,4 @@ Esta página apresenta os principais conjuntos de dados relativos à categoria "
 
 •	[**Plano Setorial de Ordenamento do Território para as Atividades Extrativas (PAE) - Região Autónoma dos Açores (RAA)**](https://dados.gov.pt/pt/datasets/plano-setorial-de-ordenamento-do-territorio-para-as-atividades-extrativas-pae-regiao-autonoma-dos-acores-raa/)
 
-•	[**Plano Setorial de Ordenamento do Território para as Atividades Extrativas (PAE) - Região Autónoma dos Açores (RAA)**](https://dados.gov.pt/pt/datasets/plano-setorial-de-ordenamento-do-territorio-para-as-atividades-extrativas-pae-regiao-autonoma-dos-acores-raa/)
 

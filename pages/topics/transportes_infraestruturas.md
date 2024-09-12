@@ -13,7 +13,7 @@ Informação de dados e outros recursos relacionados com o sector do Transportes
 
 •	[**Transportes Públicos**](https://dados.gov.pt/pt/datasets/transportes-publicos-1/)
 
-•	[**Transportes Públicos**](https://dados.gov.pt/pt/datasets/transportes-publicos/)
+
 
 •	[**Rede de Transportes Públicos - Intramunicipal**](https://dados.gov.pt/pt/datasets/rede-de-transportes-publicos-municipal-1/)
 
@@ -21,4 +21,3 @@ Informação de dados e outros recursos relacionados com o sector do Transportes
 
 •	[**Transportes Não-Urgentes**](https://dados.gov.pt/pt/datasets/transportes-nao-urgentes-1/)
 
-•	[**Transportes Não-Urgentes**](https://dados.gov.pt/pt/datasets/transportes-nao-urgentes/)
