@@ -35,7 +35,7 @@ Esta categoria inclui conjuntos de dados relativos aos dados de observações me
 - Os **principais atributos** incluem, entre outros, e de acordo com o tipo de conjunto de dados, todas as variáveis de observação medidas, média diária por variável, precipitação, vento, etc.
 
 ## Estatísticos
-Esta categoria inclui conjuntos de dados estatísticos referentes a fluxos turísticos na Europa, população, fecundidade, mortalidade, contas nacionais, despesas, receitas e dívida bruta das administrações públicas, taxa de pobreza, taxa de desigualdade, emprego e desemprego e mão de obra potencial. Excetuam-se os microdados relativos às obrigações de comunicação de informações estabelecidas nos atos jurídicos elencados no [Regulamento de Execução (UE) 2023/138 da Comissão](https://eur-lex.europa.eu/legal-content/PT/TXT/PDF/?uri=CELEX:32023R0138&from=EN), de 21 de dezembro de 2022.
+Esta categoria inclui conjuntos de dados estatísticos referentes a fluxos turísticos na Europa, população, fecundidade, mortalidade, contas nacionais, despesas, receitas e dívida bruta das administrações públicas, taxa de pobreza, taxa de desigualdade, emprego e desemprego e mão de obra potencial. Excetuam-se os microdados relativos às obrigações de comunicação de informações estabelecidas nos atos jurídicos elencados no [Regulamento de Execução (UE) 2023/138 da Comissão](https://eur-lex.europa.eu/legal-content/PT/TXT/PDF/?uri=CELEX:32023R0138&from=EN), de 21 de dezembro de 2022. 
 
 - Os conjuntos de dados estatísticos devem ser disponibilizados com a **granularidade** adequada às variáveis, como séries temporais detalhadas, desagregadas por critérios como idade, sexo, região e outros fatores relevantes conforme a natureza do conjunto de dados.
 
