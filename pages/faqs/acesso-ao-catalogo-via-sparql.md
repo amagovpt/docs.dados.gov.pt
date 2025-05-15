@@ -1,4 +1,4 @@
-# Consultar o Catálogo do dados.gov com SPARQL
+# Consultar o Catálogo do dados gov com SPARQL
 
 
 ## O que é o SPARQL?
@@ -7,9 +7,9 @@ O **SPARQL** (SPARQL Protocol and RDF Query Language) é uma linguagem de interr
 Esta linguagem permite a formulação de consultas complexas e expressivas, facilitando a extração, filtragem e combinação de informação proveniente de diversas fontes interligadas.
 
 
-## Para que serve no [**dados.gov.pt**] (https://dados.gov.pt/)? 
+## Para que serve no dados gov? 
 
-No contexto do portal [**dados.gov.pt**] (https://dados.gov.pt/), o SPARQL é utilizado para aceder e explorar os **metadados dos conjuntos de dados abertos** disponibilizados.
+No contexto do portal **dados.gov.pt**, o SPARQL é utilizado para aceder e explorar os **metadados dos conjuntos de dados abertos** disponibilizados.
 Através desta linguagem, é possível:
 - Consultar títulos, descrições, datas de publicação e de atualização dos conjuntos de dados;
 - Filtrar conjuntos de dados por organização ou por etiquetas;
@@ -21,11 +21,11 @@ Este acesso semântico promove a **interoperabilidade, a reutilização da infor
 
 ## Como consultar os dados do catálogo?
 
-O portal [**data.europa.eu**] (https://data.europa.eu/data/sparql) disponibiliza um endpoint [**SPARQL**] (data.europa.eu/data/sparql) onde é possível consultar dados de vários catálogos europeus, incluindo o catálogo português [**dados.gov.pt**] (https://dados.gov.pt/). 
+O portal **data.europa.eu** disponibiliza um endpoint **SPARQL** (data.europa.eu/data/sparql) onde é possível consultar dados de vários catálogos europeus, incluindo o catálogo português **dados.gov.pt**. 
 A plataforma atualiza regularmente os dados publicados em Portugal, permitindo que estes possam ser pesquisados via SPARQL. 
 
 
-### Exemplo de uma consulta SPARQL para o catálogo [**dados.gov.pt**] (https://dados.gov.pt/)
+### Exemplo de uma consulta SPARQL para o catálogo dados gov
 
 A consulta seguinte permite obter as informações acerca dos conjuntos de dados publicados no catálogo português [**dados.gov.pt**](https://dados.gov.pt/), com o título, a descrição e a entidade responsável pela sua publicação (limitada a 10 conjuntos de dados): 
 
@@ -53,7 +53,7 @@ LIMIT 10
 
 ## Como realizar esta interrogação? 
 
-1. Aceder ao endpoint e editor SPARQL em data.europa.eu/data/sparql; 
+1. Aceder ao endpoint e editor SPARQL em data.europa.eu/data/sparql ; 
 
 2. Colar a consulta no editor; 
 
@@ -66,4 +66,4 @@ LIMIT 10
 
 ### Saiba mais
 
-Para mais informações, consultar a [documentação sobre data.europa] (https://data.europa.eu/en/about/sparql) no portal europeu.
+Para mais informações, consultar a documentação sobre data.europa em https://data.europa.eu/en/about/sparql no portal europeu.
