@@ -30,17 +30,17 @@ A plataforma atualiza regularmente os dados publicados em Portugal, permitindo q
 A consulta seguinte permite obter as informações acerca dos conjuntos de dados publicados no catálogo português [**dados.gov.pt**](https://dados.gov.pt/), com o título, a descrição e a entidade responsável pela sua publicação (limitada a 10 conjuntos de dados): 
 
 
-```sparql
-PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX foaf: <http://xmlns.com/foaf/0.1/>
-PREFIX fo: <http://www.w3.org/1999/XSL/Format#>
-PREFIX dct: <http://purl.org/dc/terms/>
-PREFIX dcat: <http://www.w3.org/ns/dcat#>
-PREFIX dcterms: <http://purl.org/dc/terms/>
+<pre><code>
+PREFIX skos: &lt;http://www.w3.org/2004/02/skos/core#&gt;
+PREFIX foaf: &lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX fo: &lt;http://www.w3.org/1999/XSL/Format#&gt;
+PREFIX dct: &lt;http://purl.org/dc/terms/&gt;
+PREFIX dcat: &lt;http://www.w3.org/ns/dcat#&gt;
+PREFIX dcterms: &lt;http://purl.org/dc/terms/&gt;
 
 SELECT ?dataset ?title ?description ?publisher
 WHERE {
-  <http://data.europa.eu/88u/catalogue/dados-gov-pt> dcat:dataset ?dataset .
+  &lt;http://data.europa.eu/88u/catalogue/dados-gov-pt&gt; dcat:dataset ?dataset .
   ?dataset dct:title ?title ;
            dct:description ?description ;
            dct:publisher ?publisher .
@@ -48,7 +48,7 @@ WHERE {
   FILTER(lang(?description) = '') .
 }
 LIMIT 10
-```
+</code></pre>
 
 
 ## Como realizar esta interrogação? 
