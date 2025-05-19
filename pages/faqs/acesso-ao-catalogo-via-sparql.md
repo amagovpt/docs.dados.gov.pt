@@ -44,8 +44,8 @@ WHERE {
   ?dataset dct:title ?title ;
            dct:description ?description ;
            dct:publisher ?publisher .
-  FILTER(lang(?title) = '') .
-  FILTER(lang(?description) = '') .
+  FILTER(lang(?title) = 'pt') .
+  FILTER(lang(?description) = 'pt') .
 }
 LIMIT 10
 </code></pre>
