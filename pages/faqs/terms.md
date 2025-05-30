@@ -18,7 +18,8 @@ Para efeitos destes TCU, considera-se:
 * Procedimentos de emissão de atos e regulamentos administrativos; 
 * Procedimentos de contratação pública, incluindo os contratos celebrados; 
 * Gestão orçamental e financeira dos órgãos e entidades;
-* Gestão de recursos humanos, nomeadamente os dos procedimentos de recrutamento, avaliação, exercício do poder disciplinar e quaisquer modificações das respetivas relações jurídicas.
+* Gestão de recursos humanos, nomeadamente os dos procedimentos de recrutamento, avaliação, exercício do poder disciplinar e quaisquer modificações das respetivas relações jurídicas.<br>
+<br>
 
 **Conjunto de dados**: agrupamento de dados abertos sobre um tema específico, organizados e disponibilizados sobre a forma de recursos e/ou serviços de informação (ficheiros de dados, documentação, API, serviços em linha, outros) e de meta-informação (dados relativos a data de criação, modificação, periodicidade, palavras-chave, outros).
 
@@ -26,7 +27,8 @@ Para efeitos destes TCU, considera-se:
 * Assegurar a disponibilização de informação de qualidade aos cidadãos, nomeadamente em questões económicas, sociais ou ambientais;
 * Permitir o escrutínio das políticas públicas;
 * Promover para o desenvolvimento económico;
-* Contribuir para a investigação científica ou jornalística;
+* Contribuir para a investigação científica ou jornalística;<br>
+<br>
 
 Ou apenas com registo efetuado para participar em discussões, trocar comentários ou promover reutilizações de dados.
 
@@ -43,7 +45,8 @@ O dados gov permite:
 * A consulta ou o descarregamento de dados por qualquer Utilizador;
 * Discussões sobre conjuntos específicos de dados;
 * Partilha de conjuntos de dados enriquecidos ou alterados; 
-* Divulgação de reutilizações de dados abertos.
+* Divulgação de reutilizações de dados abertos.<br>
+<br>
 
 ## Funcionalidades
 
@@ -67,7 +70,8 @@ O participante dispõe de funcionalidades “comunitárias”, tais como:
 * Publicar um conjunto de dados, sob a forma de um ficheiro descarregável, ligação (link) ou API;
 * Publicar recursos adicionais associados a um conjunto de dados publicado por outro participante (i.e. um conjunto de dados a que foram adicionados colunas relativas a informação geográfica);
 * Publicar uma reutilização, seja sobre a forma de uma ligação web ou um formato de apresentação;
-* Iniciar discussões e publicar comentários, para assinalar problemas ou fazer sugestões, por exemplo.
+* Iniciar discussões e publicar comentários, para assinalar problemas ou fazer sugestões, por exemplo.<br>
+<br>
 
 O participante tem também a possibilidade de partilhar ou integrar conteúdos com outros sítios web, e pode também contribuir para a manutenção da qualidade do dados gov, ajudando, por exemplo, a sinalizar conteúdos que não estejam em conformidade com os TCU.
 
@@ -78,13 +82,15 @@ Os participantes podem criar ou registar-se em organizações, as quais podem se
 As organizações poderão:
 * Publicar conjuntos de dados;
 * Publicar recursos adicionais;
-* Publicar reutilizações.
+* Publicar reutilizações.<br>
+<br>
 
 Não poderão comentar ou participar em discussões – apenas participantes individuais o poderão fazer.
 
 A AMA propõe dois tipos de certificação a nível de organizações:
 * Certificação de Serviço Público: identifica os organismos públicos;
-* Certificação de autenticidade de organização: certifica a validade de contas associadas a empresas, organizações não-governamentais, ou outras.
+* Certificação de autenticidade de organização: certifica a validade de contas associadas a empresas, organizações não-governamentais, ou outras.<br>
+<br>
 
 Para pedidos de certificação, enviar [e-mail](mailto:dados@ama.pt).
 
@@ -103,7 +109,8 @@ O dados gov disponibiliza dados e informação pública ou de interesse público
 O dados gov não está vocacionado para:
 * Difusão de dados publicitários;
 * Promoção de interesses privados;
-* Atividades ilícitas.
+* Atividades ilícitas.<br>
+<br>
 
 Em caso de deteção de qualquer tipo de situação anómala, a AMA poderá, sem necessidade de pré-aviso, suspender ou remover o acesso a quaisquer conjuntos de dados que tenham sido carregados no dados.gov.pt.
 
