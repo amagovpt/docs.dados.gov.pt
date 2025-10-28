@@ -1,10 +1,10 @@
 # Declaração de Acessibilidade e Usabilidade
 
-A AMA - Agência para a Modernização Administrativa, I.P. compromete-se a disponibilizar o sítio Web [dados.gov.pt](http://dados.gov.pt), em conformidade com o Decreto-lei n.º 83/2018, de 19 de outubro, que transpõe a Diretiva (UE) 2016/2102 do Parlamento Europeu e do Conselho, relativa à acessibilidade dos sítios Web e das aplicações móveis. 
+A ARTE - Agência para a Reforma Tecnológica do Estado compromete-se a disponibilizar o sítio Web [dados.gov.pt](http://dados.gov.pt), em conformidade com o Decreto-lei n.º 83/2018, de 19 de outubro, que transpõe a Diretiva (UE) 2016/2102 do Parlamento Europeu e do Conselho, relativa à acessibilidade dos sítios Web e das aplicações móveis. 
 
 ## I. Estado de conformidade
 
-O sítio Web [dados.gov.pt](http://dados.gov.pt) da AMA - Agência para a Modernização Administrativa, I.P. está plenamente conforme para com o Decreto-lei n.º 83/2018 de 19 de outubro. 
+O sítio Web [dados.gov.pt](http://dados.gov.pt) da ARTE - Agência para a Reforma Tecnológica do Estado está plenamente conforme para com o Decreto-lei n.º 83/2018 de 19 de outubro. 
 
 ## II. Elaboração da presente declaração de acessibilidade e usabilidade 
 
@@ -43,14 +43,14 @@ O presente sítio Web ainda não foi alvo de testes com utilizadores com defici�
 
 ## III. Contacto e solicitação de informação relativa ao sítio Web
 
-Para contactar, enviar sugestões, efetuar reclamações ou solicitar informação adicional relativamente aos conteúdos e/ou funcionalidades presentes no sítio Web da AMA - Agência para a Modernização Administrativa, I.P., utilize, por favor, os seguintes meios:
+Para contactar, enviar sugestões, efetuar reclamações ou solicitar informação adicional relativamente aos conteúdos e/ou funcionalidades presentes no sítio Web da ARTE - Agência para a Reforma Tecnológica do Estado, utilize, por favor, os seguintes meios:
 
 Correio electrónico
     ama@ama.pt
 
 ## IV. Outras evidências / esforços para tornar os conteúdos mais acessíveis e mais usáveis
 
-A AMA - Agência para a Modernização Administrativa, I.P. não apresentou, aquando do preenchimento da presente Declaração, outras evidências ou esforços para tornar o seu sítio Web conforme para com os requisitos de acessibilidade constantes do DL n.º 83/2018, de 19 de outubro. 
+A ARTE - Agência para a Reforma Tecnológica do Estado não apresentou, aquando do preenchimento da presente Declaração, outras evidências ou esforços para tornar o seu sítio Web conforme para com os requisitos de acessibilidade constantes do DL n.º 83/2018, de 19 de outubro. 
 
 ## V. Denúncia de situações de discriminação derivadas do incumprimento dos requisitos de acessibilidade constantes do DL n.º 83/2018
 
@@ -60,4 +60,4 @@ O Instituto Nacional para a Reabilitação (INR, I.P.), disponibiliza um [formul
 
 ---
 
-A presente Declaração de Acessibilidade e Usabilidade foi criada com o auxílio do [Gerador WAI-Tools PT v1.5](file:///home/micael/Downloads/accessibility-statement_2020-09-12.html#), desenvolvido no âmbito do projeto [WAI-Tools](https://w3.org/WAI/Tools), de cujo consórcio a AMA é parte integrante. A Declaração foi concebida em conformidade com o DL n.º 83/2018, de 19 de outubro. 
+A presente Declaração de Acessibilidade e Usabilidade foi criada com o auxílio do [Gerador WAI-Tools PT v1.5](file:///home/micael/Downloads/accessibility-statement_2020-09-12.html#), desenvolvido no âmbito do projeto [WAI-Tools](https://w3.org/WAI/Tools), de cujo consórcio a ARTE é parte integrante. A Declaração foi concebida em conformidade com o DL n.º 83/2018, de 19 de outubro. 

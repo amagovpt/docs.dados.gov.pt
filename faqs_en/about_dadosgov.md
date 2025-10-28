@@ -10,4 +10,4 @@ Dados.gov also promotes cases of reuse which use public shared data and provide 
 
 It also provides several interaction mechanisms between data suppliers and re-users, such as the possibility to commend, submit complementary data versions and suggest improvements to the platform.
 
-It is developed and managed by the Agência para a Modernização Administrativa, IP (AMA) and is based on the [udata platform](https://udata.readthedocs.io/en/stable/ "udata"), a product created by Etalab, a structure of the French Public Administration’s mission, which is developed and made available as open source.
+It is developed and managed by the Agência para a Reforma Tecnológica do Estado (ARTE) and is based on the [udata platform](https://udata.readthedocs.io/en/stable/ "udata"), a product created by Etalab, a structure of the French Public Administration’s mission, which is developed and made available as open source.

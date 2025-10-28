@@ -68,4 +68,4 @@ The interaction with the community of re-users may provide precious leads on the
 
 The body may carry out any type of public consultation and ask to its most frequent interlocutors or other stakeholders which data they would like to access.
 
-AMA may also help in this process, including with the collaboration in the organization of workshops/events aiming to promote these interactions, contact us at dados@ama.pt.
+ARTE may also help in this process, including with the collaboration in the organization of workshops/events aiming to promote these interactions, contact us at dados@ama.pt.

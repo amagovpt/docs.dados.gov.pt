@@ -69,7 +69,7 @@ A interação com a comunidade de reutilizadores poderá fornecer pistas precios
 
 O organismo poderá fazer algum tipo de consulta pública e perguntar aos seus interlocutores mais frequentes, ou a outras partes interessadas, a que tipo de dados gostaria de ter acesso.
 
-A AMA também poderá ajudar neste processo, incluindo colaborar na organização de workshops / eventos com vista a promover estas interações, contacte-nos em dados@ama.pt.
+A ARTE também poderá ajudar neste processo, incluindo colaborar na organização de workshops / eventos com vista a promover estas interações, contacte-nos em dados@ama.pt.
 
 
 

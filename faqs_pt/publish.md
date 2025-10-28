@@ -37,11 +37,11 @@ Ou podemos criar um conjunto de dados relativo a um período temporal definido (
 
 A opção de carregar ou indexar (_linkar_) os dados está totalmente do lado do organismo fornecedor. 
 
-A AMA recomenda que organismos que possuam as suas próprias páginas ou portais web alojem os ficheiros nesses portais, e passem a referenciá-los através da indicação do URL (ou de uma API, caso exista) em dados.gov. Nesta situação, o organismo fornecedor preocupa-se apenas com a gestão dos dados na sua fonte de origem, sendo a indexação no dados.gov feita automaticamente ao longo do tempo.
+A ARTE recomenda que organismos que possuam as suas próprias páginas ou portais web alojem os ficheiros nesses portais, e passem a referenciá-los através da indicação do URL (ou de uma API, caso exista) em dados.gov. Nesta situação, o organismo fornecedor preocupa-se apenas com a gestão dos dados na sua fonte de origem, sendo a indexação no dados.gov feita automaticamente ao longo do tempo.
 
 No caso do organismo não possuir uma infraestrutura web que considere adequada para disponibilizar e manter dados, poderá carregá-los diretamente através do backoffice ou da API do dados.gov.
 
-No caso de organismos que possuam os seus próprios portais ou catálogos de dados abertos, o processo de publicação poderá ser feito através de um _harvester_, que recolhe a metainformação sobre esses conjuntos de dados de forma regular e completamente automatizada. A configuração do _harvester_ é feita pela AMA, com a colaboração da entidade, se necessário.
+No caso de organismos que possuam os seus próprios portais ou catálogos de dados abertos, o processo de publicação poderá ser feito através de um _harvester_, que recolhe a metainformação sobre esses conjuntos de dados de forma regular e completamente automatizada. A configuração do _harvester_ é feita pela ARTE, com a colaboração da entidade, se necessário.
 
 
 ## Certificação de organismos públicos
