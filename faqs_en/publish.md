@@ -34,11 +34,11 @@ Or we may create a dataset regarding a specific time period (i.e. year, month, o
 
 The decision to upload or index (_link to_) the data is fully on the supplying body’s side.
 
-AMA recommends that the bodies with their own webpages or portals accommodate the files in these portals and reference them through the URL indication (or an API, if applicable) at dados.gov. In this case, the supplying body is only responsible with the data management at its original source and the indexation at dados.gov is carried out automatically throughout time.
+ARTE recommends that the bodies with their own webpages or portals accommodate the files in these portals and reference them through the URL indication (or an API, if applicable) at dados.gov. In this case, the supplying body is only responsible with the data management at its original source and the indexation at dados.gov is carried out automatically throughout time.
 
 If the body does not hold a web infrastructure deemed adequate to provide and maintain data, it may load them directly through the backoffice or API of dados.gov.
 
-In the case of bodies who hold their own open data portals or catalogues, the publication process may be carried out through an harvester, which collects the metainformation on these datasets in a regular and fully automatized way. The harvester setting is carried out by AMA, in partnership with the entity, if necessary.
+In the case of bodies who hold their own open data portals or catalogues, the publication process may be carried out through an harvester, which collects the metainformation on these datasets in a regular and fully automatized way. The harvester setting is carried out by ARTE, in partnership with the entity, if necessary.
 
 ## Certification of public bodies
 

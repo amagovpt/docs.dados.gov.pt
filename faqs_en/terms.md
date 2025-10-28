@@ -2,7 +2,7 @@
 
 Dados.gov is the Portuguese Public Administration’s national open data portal.
 
-It is developed and managed by the Agência para a Modernização Administrativa, IP (AMA – Administrative Modernization Agency), which pursues the duties of the Presidency of the Council of Ministers within the areas of administrative modernization and simplification and electronic administration, under the superintendence and authority of the Secretary of State Assistant and of Administrative Modernization. The use of the dados.gov platform is subject to the acceptance of these terms and conditions of use (TCU).
+It is developed and managed by the Agência para a Reforma Tecnológica do Estado (ARTE), which pursues the duties of the Presidency of the Council of Ministers within the areas of administrative modernization and simplification and electronic administration, under the superintendence and authority of the Secretary of State Assistant and of Administrative Modernization. The use of the dados.gov platform is subject to the acceptance of these terms and conditions of use (TCU).
 
 For the purpose of these TCU, the following are understood as:
 
@@ -82,7 +82,7 @@ The organizations may:
 
 They cannot comment or participate in discussions – only individual participants may do so.
 
-AMA suggests two types of certifications regarding organizations:
+ARTE suggests two types of certifications regarding organizations:
 *	Certification of Public Services: identifies the public bodies;
 *	Certificate of the Organization’s Authenticity: certifies the validity of the accounts associated to companies, non-governmental organizations or others.
 
@@ -90,7 +90,7 @@ For certification requests, send an email to: dados@ama.pt.
 
 The certificate ensures, to the users, that the data provided was uploaded by a participant of the correspondent body. It also allows the certificated organizations’ data to achieve better results on the search engine.
 
-In the case of non-compliance with these terms and conditions of use, AMA reserves the possibility of revoking the certifications assigned to entities.
+In the case of non-compliance with these terms and conditions of use, ARTE reserves the possibility of revoking the certifications assigned to entities.
 
 ## Participants’ Responsibilities
 
@@ -105,7 +105,7 @@ Dados.gov is not aimed for:
 *	Promotion of private interests;
 *	Illicit activities.
 
-In the case of detection of any type of anomalous situation, AMA may, without the need for a prior notice, suspend or remove the access to any data sets which had been uploaded at dados.gov.
+In the case of detection of any type of anomalous situation, ARTE may, without the need for a prior notice, suspend or remove the access to any data sets which had been uploaded at dados.gov.
 
 The participants who publish data sets must keep the page dedicated to each set up-to-date and promote and interaction with the users’ community. For this purpose, they shall be notified, by email, when new contributions regarding that data set arise (discussions, comments, alerts, upload of additional resources or reuses).
 
@@ -115,7 +115,7 @@ The participants are the only ones responsible for the data, metadata and conten
 
 The data sets which contain personal information or which enable the identification of individuals cannot be published at dados.gov, except if there is an express consent by the identified individuals or a legal provision which allows the publication of such data.
 
-The Participant is responsible for the data sets he/she publishes at dados.gov and must ensure that the publication complies with the law in force. If there are personal data in a certain data set, AMA recommends that such fact must be mentioned in the documentation of the correspondent set and that any legal restrictions to its reuse, if applicable, are also mentioned.
+The Participant is responsible for the data sets he/she publishes at dados.gov and must ensure that the publication complies with the law in force. If there are personal data in a certain data set, ARTE recommends that such fact must be mentioned in the documentation of the correspondent set and that any legal restrictions to its reuse, if applicable, are also mentioned.
 
 The Reuser of these data must always comply with the law applicable to personal data protection in force in their country of residence and comply with the stipulations regarding the license applied to these data.
 
@@ -141,33 +141,33 @@ By publishing a comment, the contributors ex gratia waiver all their intellectua
 
 This email address allows to contact the project team of dados.gov for questions regarding the platform’s general operation. It may not be used for specific questions on data sets or suppliers. The participants must be contacted through the comments system regarding each data set.
 
-## AMA’s duties and responsibilities
+## ARTE’s duties and responsibilities
 
 ### Quality of the service
 
-AMA shall endeavour to ensure a monthly availability of 99.5% of the platform, according to the calendar months.
+ARTE shall endeavour to ensure a monthly availability of 99.5% of the platform, according to the calendar months.
 
-AMA offers the possibility to contribute to and access the platform through a web interface or a programming interface (API).
+ARTE offers the possibility to contribute to and access the platform through a web interface or a programming interface (API).
 
-AMA shall ensure the best conditions to preserve the integrity and provision of data sets. It also reserves the possibility to alter or add meta-information associated to data sets, when it considers that such alteration is beneficial to the user.
+ARTE shall ensure the best conditions to preserve the integrity and provision of data sets. It also reserves the possibility to alter or add meta-information associated to data sets, when it considers that such alteration is beneficial to the user.
 
-AMA reserves the freedom to develop, modify or suspend, without a prior notice, the dados.gov for maintenance reasons or for other reason deemed as necessary. The platform’s unavailability does not entitle any right to an indemnity.
+ARTE reserves the freedom to develop, modify or suspend, without a prior notice, the dados.gov for maintenance reasons or for other reason deemed as necessary. The platform’s unavailability does not entitle any right to an indemnity.
 
-### AMA’s responsibilities
+### ARTE’s responsibilities
 
-AMA is responsible for the production and management of the platform’s content.
+ARTE is responsible for the production and management of the platform’s content.
 
-AMA does not carry out an a priori control of the publications uploaded by the public bodies or participants of the dados.gov. Whenever irregular situations or the non-conformity with these TCU are detected, AMA shall act immediately to remove these data or prevent its access. For this purpose, the platform’s users may also signal contents deemed as problematic and AMA shall have the final decision on the need, or lack of it, for intervention.
+ARTE does not carry out an a priori control of the publications uploaded by the public bodies or participants of the dados.gov. Whenever irregular situations or the non-conformity with these TCU are detected, ARTE shall act immediately to remove these data or prevent its access. For this purpose, the platform’s users may also signal contents deemed as problematic and ARTE shall have the final decision on the need, or lack of it, for intervention.
 
 ### Transparency in the contents’ presentation
 
 The order for the classification and presentation of the data sets on the search engine is determined by an open algorithm. Its source code is made available at https://github.com/opendatateam/udata/tree/master/udata/search.
 
-In certain areas of the portal, AMA highlights certain type of contents according to the editorial and promotional criteria, in areas such as “Featured Reuses”, “Featured Data Sets”, etc.
+In certain areas of the portal, ARTE highlights certain type of contents according to the editorial and promotional criteria, in areas such as “Featured Reuses”, “Featured Data Sets”, etc.
 
-### Content created by AMA
+### Content created by ARTE
 
-The content created by AMA are published under a CC BY 4.0 license and may be reused for any purposes. The iconographic and photographic representations are excluded as these are covered by specific licenses.
+The content created by ARTE are published under a CC BY 4.0 license and may be reused for any purposes. The iconographic and photographic representations are excluded as these are covered by specific licenses.
 
 ### Use of the uData platform
 
@@ -175,7 +175,7 @@ Dados.gov uses the free open data platform – uData – created by Etalab of th
 
 ### Amendment and evolution of the terms and conditions of use
 
-These TCU may be amended at any moment, without a prior notice, regarding alterations in the platform, regulatory amendments or for reasons deemed as necessary by AMA.
+These TCU may be amended at any moment, without a prior notice, regarding alterations in the platform, regulatory amendments or for reasons deemed as necessary by ARTE.
 
 ## Privacy and data protection
 
@@ -183,11 +183,11 @@ These TCU may be amended at any moment, without a prior notice, regarding altera
 
 The consultation and download of data do not imply any type of registry or logging in.
 
-To be registered in the platform, the user must provide to AMA the information regarding their “name”, “surname” and “email”. AMA undertakes to ensure the safety and confidentiality of the users’ emails, not sharing that information to third-parties.
+To be registered in the platform, the user must provide to ARTE the information regarding their “name”, “surname” and “email”. ARTE undertakes to ensure the safety and confidentiality of the users’ emails, not sharing that information to third-parties.
 
 The Participant’s profile page publicly presents your “name”, “surname” and elements regarding their activity (data sets uploaded; pages followed). This page is not referenced by the platform’s search engine.
 
-The user’s browsing history is not publicly available and may only be disclosed by AMA in cases requested by law.
+The user’s browsing history is not publicly available and may only be disclosed by ARTE in cases requested by law.
 
 ### Cookies
 
@@ -199,7 +199,7 @@ The browsing experience in the platform is not affected if the users deactivate 
 
 #### Purposes of the process of personal data
 
-The personal data is collected and processed so AMA may manage the users and accesses to the portal.
+The personal data is collected and processed so ARTE may manage the users and accesses to the portal.
 
 The personal data is not used for other purposes, apart for the execution of the above-mentioned activities.
 
