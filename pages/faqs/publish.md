@@ -1,17 +1,17 @@
 # Publicar Dados
 
-Esta secção explica alguns princípios básicos sobre publicação e acesso às funcionalidades de **carregamento de conjuntos de dados abertos no portal**. 
+Esta secção explica alguns princípios básicos sobre publicação e acesso às funcionalidades de **carregamento de conjuntos de dados abertos no portal**.
 
 Para processos de carregamento e integração automática com o portal, consulte a documentação da [API](/docapi/).
 
 Se for administrador ou gestor de um portal de dados abertos, ou se possuir a metainformação da sua entidade organizada sobre a forma de catálogo, entre em contacto connosco para configuração de um _harvester_ para recolha automática dos dados.
 
-## Quem pode publicar dados em dados gov?
+## Quem pode publicar dados no [dados.gov.pt](https://dados.gov.pt)?
 
 O dados.gov.pt é um portal vocacionado para a abertura de dados por parte de organismos e entidades da Administração Pública, conforme caracterizadas pelo [art. 4º da Lei n.º26/2016, de 22 de Agosto](http://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2591&tabela=leis&ficha=1&pagina=1&so_miolo= "Lei nº26/2016 de 22 de Agosto"), **mas qualquer cidadão ou organização pode registar-se no portal e carregar, ou referenciar, dados que considere de interesse público**.
 
 
-## Como publicar conjuntos de dados em dados gov
+## Como publicar conjuntos de dados em [dados.gov.pt](https://dados.gov.pt)
 
 Para publicar um conjunto de dados neste portal é necessário criar uma conta de utilizador, ou, no caso de já estar registado, efetuar a autenticação. Depois de criada uma conta e de entrar com registo no portal, basta escolher a opção "Contribuir", na barra superior. Em alternativa, também pode carregar no ícone "+" a partir da zona de administração (backoffice).
 
@@ -22,7 +22,7 @@ No processo de carregamento de dados, deverá escolher a organização sob a qua
 
 ## Conjuntos de dados e recursos
 
-**No dados gov, um único conjunto de dados pode ter vários recursos (ficheiros) associados**.
+**No [dados.gov.pt](https://dados.gov.pt), um único conjunto de dados pode ter vários recursos (ficheiros) associados**.
 
 Por exemplo, podemos criar um conjunto específico que disponibiliza a mesma informação em formatos diferentes (para que se adeque a diferentes tipos de reutilização):
 
@@ -35,9 +35,9 @@ Ou podemos criar um conjunto de dados relativo a um período temporal definido (
 
 ## Carregar dados ou indexar?
 
-A opção de carregar ou indexar (_linkar_) os dados está totalmente do lado do organismo fornecedor. 
+A opção de carregar ou indexar (_linkar_) os dados está totalmente do lado do organismo fornecedor.
 
-A ARTE recomenda que organismos que possuam as suas próprias páginas ou portais web alojem os ficheiros nesses portais, e passem a referenciá-los através da indicação do URL (ou de uma API, caso exista) em dados.gov.pt. Nesta situação, o organismo fornecedor preocupa-se apenas com a gestão dos dados na sua fonte de origem, sendo a indexação no dados gov feita automaticamente ao longo do tempo.
+A ARTE recomenda que organismos que possuam as suas próprias páginas ou portais web alojem os ficheiros nesses portais, e passem a referenciá-los através da indicação do URL (ou de uma API, caso exista) em dados.gov.pt. Nesta situação, o organismo fornecedor preocupa-se apenas com a gestão dos dados na sua fonte de origem, sendo a indexação no [dados.gov.pt](https://dados.gov.pt) feita automaticamente ao longo do tempo.
 
 No caso do organismo não possuir uma infraestrutura web que considere adequada para disponibilizar e manter dados, poderá carregá-los diretamente através do backoffice ou da API do dados.gov.pt.
 
