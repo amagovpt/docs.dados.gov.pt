@@ -15,8 +15,8 @@ Para efeitos destes TCU, considera-se:
 **Dados Abertos**: dados que podem ser livremente utilizados, reutilizados e redistribuídos por qualquer um.
 
 **Documento administrativo**: qualquer conteúdo, ou parte desse conteúdo, que esteja na posse ou seja detido em nome dos órgãos da Administração Pública, seja o suporte de informação sob forma escrita, visual, sonora, eletrónica ou outra forma material, neles se incluindo, designadamente, e conforme o definido na [Lei de Acesso aos Documentos Administrativos]( http://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2591&tabela=leis&ficha=1&pagina=1&so_miolo=) – Lei nº26/2016 de 22 Agosto -, aqueles relativos a:
-* Procedimentos de emissão de atos e regulamentos administrativos; 
-* Procedimentos de contratação pública, incluindo os contratos celebrados; 
+* Procedimentos de emissão de atos e regulamentos administrativos;
+* Procedimentos de contratação pública, incluindo os contratos celebrados;
 * Gestão orçamental e financeira dos órgãos e entidades;
 * Gestão de recursos humanos, nomeadamente os dos procedimentos de recrutamento, avaliação, exercício do poder disciplinar e quaisquer modificações das respetivas relações jurídicas.
 
@@ -26,7 +26,7 @@ Para efeitos destes TCU, considera-se:
 * Assegurar a disponibilização de informação de qualidade aos cidadãos, nomeadamente em questões económicas, sociais ou ambientais;
 * Permitir o escrutínio das políticas públicas;
 * Promover para o desenvolvimento económico;
-* Contribuir para a investigação científica ou jornalística;
+* Contribuir para a investigação científica ou jornalística.
 
 Ou apenas com registo efetuado para participar em discussões, trocar comentários ou promover reutilizações de dados.
 
@@ -42,7 +42,7 @@ O dados.gov permite:
 * A publicação de dados de interesse público por organismos públicos e todos os outros Participantes;
 * A consulta ou o descarregamento de dados por qualquer Utilizador;
 * Discussões sobre conjuntos específicos de dados;
-* Partilha de conjuntos de dados enriquecidos ou alterados; 
+* Partilha de conjuntos de dados enriquecidos ou alterados;
 * Divulgação de reutilizações de dados abertos.
 
 ## Funcionalidades
@@ -57,7 +57,7 @@ A consulta e descarregamento dos dados disponibilizados em dados.gov não necess
 
 Qualquer pessoa, singular ou coletiva, pública ou privada, pode contribuir para o dados.gov, publicando conjuntos de dados, reutilização, conteúdos, recursos e comentários relativos a conjuntos de dados.
 
-Para este efeito, o utilizador terá de registar-se / autenticar-se no dados.gov. Este registo pertence a um utilizador individual, e não a uma organização ou pessoa coletiva. 
+Para este efeito, o utilizador terá de registar-se / autenticar-se no dados.gov. Este registo pertence a um utilizador individual, e não a uma organização ou pessoa coletiva.
 
 Ao registar-se, o utilizador cria um perfil em dados.gov. Para mais pormenores, consultar o ponto relativo a “Proteção de dados”.
 Depois de validado este registo, passam a estar disponíveis várias funcionalidades.
@@ -88,7 +88,7 @@ A ARTE propõe dois tipos de certificação a nível de organizações:
 
 Para pedidos de certificação, enviar e-mail para: dados@ama.pt.
 
-A certificação garante aos utilizadores que os dados disponibilizados foram carregados por um participante do organismo respetivo. Possibilita também que os dados de organizações certificadas atinjam melhores resultados no funcionamento do motor de pesquisa. 
+A certificação garante aos utilizadores que os dados disponibilizados foram carregados por um participante do organismo respetivo. Possibilita também que os dados de organizações certificadas atinjam melhores resultados no funcionamento do motor de pesquisa.
 
 Em caso de incumprimento destes termos e condições de utilização, a ARTE reserva-se a possibilidade de revogar certificações atribuídas a entidades.
 
@@ -111,7 +111,7 @@ Os participantes que publiquem conjuntos de dados deverão manter atualizada a p
 
 Os participantes são os únicos responsáveis pelos dados, metadados, e conteúdos que carregam no dados.gov.
 
-#### Dados de caráter pessoal 
+#### Dados de caráter pessoal
 
 Os conjuntos de dados que contenham informação de caráter pessoal, ou que possibilitem a identificação de pessoas físicas, não poderão ser publicados no dados.gov , exceto se existir um consentimento expresso das pessoas identificadas, ou uma disposição legal que permita a publicação desses dados.
 
@@ -123,9 +123,9 @@ O Reutilizador desses dados deverá também respeitar a legislação relativa à
 
 Sempre que um organismo público ou um participante publique um conjunto de dados que contenha elementos abrangidos por direitos de propriedade intelectual, que possam obstar à sua reutilização, deverá mencionar a presença daqueles na documentação que acompanha a publicação. Nessa documentação deverá indicar a titularidade desses direitos, ou, em caso de desconhecimento sobre quem recai a titularidade, a identidade de quem forneceu essa informação.
 
-#### Licenças 
+#### Licenças
 
-Todos os dados carregados por organismos do estado são publicados ao abrigo de uma licença Creative Commons CC BY 4.0, exceto se houver uma especificação em contrário. (mais informações em [Licenças](/docs/licenses/)) 
+Todos os dados carregados por organismos do estado são publicados ao abrigo de uma licença Creative Commons CC BY 4.0, exceto se houver uma especificação em contrário. (mais informações em [Licenças](/docs/licenses/))
 
 Os outros participantes poderão publicar ao abrigo de outras licenças abertas, disponibilizadas pela plataforma.
 
@@ -161,7 +161,7 @@ A ARTE não efetua um controlo *a priori* das publicações efetuadas pelos orga
 
 ### Transparência na forma de apresentação dos conteúdos
 
-A ordem de classificação e apresentação dos conjuntos de dados no motor de pesquisa é determinada por um algoritmo aberto, cujo código fonte é disponibilizado em https://github.com/opendatateam/udata/tree/master/udata/search. 
+A ordem de classificação e apresentação dos conjuntos de dados no motor de pesquisa é determinada por um algoritmo aberto, cujo código fonte é disponibilizado em https://github.com/opendatateam/udata/tree/master/udata/search.
 
 Em certas zonas do portal, a ARTE destaca certos tipos de conteúdos de acordo com critérios editoriais e promocionais, em áreas como “Reutilizações em Destaque”, “Conjuntos de dados em destaque”, etc.
 
@@ -193,7 +193,7 @@ O histórico de navegação do utilizador não é disponibilizado publicamente, 
 
 O portal coloca “cookies” nos dispositivos dos utilizadores para registo de dados relativos a audiência (número de visitas, páginas consultadas, outros), através do plataforma aberta Matomo. Estes cookies servem apenas para produzir estatísticas anónimas, e não permitem rastrear o utilizador enquanto navega noutros sítios web.
 
-O portal também coloca “cookies” de navegação, para finalidades técnicas, que não são conservados. 
+O portal também coloca “cookies” de navegação, para finalidades técnicas, que não são conservados.
 
 A experiência de navegação na plataforma não é afetada caso os utilizadores desativem as funcionalidades de “cookies”.
 
