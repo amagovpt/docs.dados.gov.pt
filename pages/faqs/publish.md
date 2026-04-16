@@ -37,7 +37,7 @@ Ou podemos criar um conjunto de dados relativo a um período temporal definido (
 
 A opção de carregar ou indexar (_linkar_) os dados está totalmente do lado do organismo fornecedor.
 
-A ARTE recomenda que organismos que possuam as suas próprias páginas ou portais web alojem os ficheiros nesses portais, e passem a referenciá-los através da indicação do URL (ou de uma API, caso exista) em dados.gov.pt. Nesta situação, o organismo fornecedor preocupa-se apenas com a gestão dos dados na sua fonte de origem, sendo a indexação no [dados.gov.pt](https://dados.gov.pt) feita automaticamente ao longo do tempo.
+A ARTE recomenda que organismos que possuam as suas próprias páginas ou portais web alojem os ficheiros nesses portais, e passem a referenciá-los através da indicação do URL (ou de uma API, caso exista) no [dados.gov.pt](https://dados.gov.pt). Nesta situação, o organismo fornecedor preocupa-se apenas com a gestão dos dados na sua fonte de origem, sendo a indexação no [dados.gov.pt](https://dados.gov.pt) feita automaticamente ao longo do tempo.
 
 No caso do organismo não possuir uma infraestrutura web que considere adequada para disponibilizar e manter dados, poderá carregá-los diretamente através do backoffice ou da API do dados.gov.pt.
 
