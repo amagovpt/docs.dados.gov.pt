@@ -11,7 +11,7 @@ Se for administrador ou gestor de um portal de dados abertos, ou se possuir a me
 O dados.gov.pt é um portal vocacionado para a abertura de dados por parte de organismos e entidades da Administração Pública, conforme caracterizadas pelo [art. 4º da Lei n.º26/2016, de 22 de Agosto](http://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2591&tabela=leis&ficha=1&pagina=1&so_miolo= "Lei nº26/2016 de 22 de Agosto"), **mas qualquer cidadão ou organização pode registar-se no portal e carregar, ou referenciar, dados que considere de interesse público**.
 
 
-## Como publicar conjuntos de dados em [dados.gov.pt](https://dados.gov.pt)
+## Como publicar conjuntos de dados no [dados.gov.pt](https://dados.gov.pt)
 
 Para publicar um conjunto de dados neste portal é necessário criar uma conta de utilizador, ou, no caso de já estar registado, efetuar a autenticação. Depois de criada uma conta e de entrar com registo no portal, basta escolher a opção "Contribuir", na barra superior. Em alternativa, também pode carregar no ícone "+" a partir da zona de administração (backoffice).
 
