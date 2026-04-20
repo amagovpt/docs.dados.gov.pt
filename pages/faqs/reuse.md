@@ -6,11 +6,11 @@ As principais funções de um portal de dados abertos são facilitar e promover 
 
 Existem vários casos internacionais de sucesso na área da reutilização de dados abertos, com propósitos e contextos diferentes, tais como:
 
-[_Dollars for Docs_](https://projects.propublica.org/docdollars/) - Site para promover a transparência na relação da indústria farmacêutica com médicos e hospitais. 
+[_Dollars for Docs_](https://projects.propublica.org/docdollars/) - Site para promover a transparência na relação da indústria farmacêutica com médicos e hospitais.
 
 [_Mejora tu escuela_](http://www.mejoratuescuela.org) - Plataforma de participação cidadão para comparar dados sobre escolas no México.
 
-[_be walking be.brussels_](https://play.google.com/store/apps/details?id=be.tragewegen.brussels) - Aplicação que sugere e ajuda a planear passeios pedestres por Bruxelas.
+[_be walking be.brussels_](https://be.brussels/en/transport-mobility/walking-and-cycling/pedestrian-network-walking-brussels) - Aplicação que sugere e ajuda a planear passeios pedestres por Bruxelas.
 
 Cabe também às entidades que promovem a abertura ou disponibilização de dados garantir que estes sejam disponibilizados de forma livre, não obrigando a nenhum tipo de registo ou pedido de reutilização. Todos os conjuntos de dados em dados.gov.pt são disponibilizados desta forma, e podem ser descarregados por qualquer reutilizador.
 
@@ -18,7 +18,7 @@ Cabe também às entidades que promovem a abertura ou disponibilização de dado
 
 O ISCTE - Instituto Universitário de Lisboa (ICSTE-IUL), no âmbito do [Plano Nacional de Administração Aberta](https://ogp.eportugal.gov.pt/), criou um conjunto de vídeos tutoriais sobre algumas possibilidades da reutilização de dados, utilizando a ferramenta R.
 
-Os vídeos estão disponíveis na plataforma de aprendizagem do ISCTE em: [https://online-learning.iscte-iul.pt/bo/courses/plano-nacional-de-acao-de-administracao-aberta-pt](https://online-learning.iscte-iul.pt/bo/courses/plano-nacional-de-acao-de-administracao-aberta-pt) (é necessário registo).
+Os vídeos estão disponíveis na plataforma de aprendizagem do ISCTE em: [https://online-learning.iscte-iul.pt/courses/plano-nacional-de-acao-de-administracao-aberta-pt](https://online-learning.iscte-iul.pt/courses/plano-nacional-de-acao-de-administracao-aberta-pt) (é necessário registo).
 
 ## Promover reutilizações
 
@@ -31,6 +31,6 @@ Para que o ecossistema dos dados abertos possa crescer de modo a beneficiar toda
 
 Em cada página de um conjunto de dados é possível deixar comentários ou criar tópicos de discussão que deverão ser acompanhados pelo fornecedor responsável. Também é possível promover reutilizações de dados que usem esses recursos, dando visibilidade a casos de reutilização e assinalando também que os dados estão a ser utilizados, o que reforça ainda mais a importância de os manter atualizados.
 
-Os reutilizadores poderão também partilhar transformações ou modificações que efetuaram num determinado conjunto de dados, podendo carregar ficheiros / recursos "alternativos" (p.ex. com ordenação de colunas diferente, adicionando informação geográfica, etc.) e relacioná-los com conjuntos de dados específicos. 
+Os reutilizadores poderão também partilhar transformações ou modificações que efetuaram num determinado conjunto de dados, podendo carregar ficheiros / recursos "alternativos" (p.ex. com ordenação de colunas diferente, adicionando informação geográfica, etc.) e relacioná-los com conjuntos de dados específicos.
 
 Estas funcionalidades estão disponíveis sempre na parte inferior de cada página individual de conjunto de dados.
