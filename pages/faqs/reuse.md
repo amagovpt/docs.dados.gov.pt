@@ -16,7 +16,7 @@ Cabe também às entidades que promovem a abertura ou disponibilização de dado
 
 ## Como reutilizar dados
 
-O ISCTE - Instituto Universitário de Lisboa (ICSTE-IUL), no âmbito do [Plano Nacional de Administração Aberta](https://ogp.eportugal.gov.pt/), criou um conjunto de vídeos tutoriais sobre algumas possibilidades da reutilização de dados, utilizando a ferramenta R.
+O ISCTE - Instituto Universitário de Lisboa (ICSTE-IUL), no âmbito do [Plano Nacional de Administração Aberta](https://online-learning.iscte-iul.pt/courses/plano-nacional-de-acao-de-administracao-aberta-pt), criou um conjunto de vídeos tutoriais sobre algumas possibilidades da reutilização de dados, utilizando a ferramenta R.
 
 Os vídeos estão disponíveis na plataforma de aprendizagem do ISCTE em: [https://online-learning.iscte-iul.pt/courses/plano-nacional-de-acao-de-administracao-aberta-pt](https://online-learning.iscte-iul.pt/courses/plano-nacional-de-acao-de-administracao-aberta-pt) (é necessário registo).
 
